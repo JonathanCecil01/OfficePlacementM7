@@ -38,12 +38,19 @@ class Product(Tag):
         self.timestamp = []
         self.distances = []
         self.rssi = []
-        self.max_rssi = -81
+        self.max_rssi = -91
         self.timestamp_range = []
+        self.max_time= 0
+        self.color = "green"
+
+    def set_max_rssi(self):
+        self.max_rssi = max(self.rssi)
+        index = self.rssi.index(self.max_rssi)
+        self.max_time = self.timestamp[index]
 
     def calc_rssi(self):
         for i in range(0, len(self.timestamp)):
-            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]))
+            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/10))
 
 
 class LandMark(Tag):
@@ -52,19 +59,24 @@ class LandMark(Tag):
         self.id = id
         self.timestamp = []
         self.rssi = []
-        self.rssi_A = random.randint(-90,-30)
+        self.rssi_A = random.randint(-50,-30)
         self.distances  = []
-        self.max_rssi = -81
+        self.max_rssi = -91
         self.timestamp_range = []
+        self.max_time = 0
+        self.color = "black"
+
+    def set_max_rssi(self):
+        self.max_rssi = max(self.rssi)
+        index = self.rssi.index(self.max_rssi)
+        self.max_time = self.timestamp[index]
 
     def calc_rssi(self):
         for i in range(0, len(self.timestamp)):
-            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]))
+            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/5))
     
-    def find_max_rssi(self):
-        pass
 
-landmarks = []
+
 # screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 # screen.fill((255, 255, 255))
 

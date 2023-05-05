@@ -4,7 +4,7 @@ from tags import LandMark, Product, Reader
 from copy import deepcopy
 import random
 import math
-from datetime import datetime
+import datetime
 
 pygame.init()
 N = 100
@@ -13,7 +13,7 @@ SCREEN_HEIGHT = 1000
 COUNT = 10
 
 
-colors = ["red", "blue", "brown", "black", "purple"]
+colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 screen.fill((255, 255, 255))
 
@@ -39,8 +39,7 @@ def plot_Landmarks(count):
     landmarks.pop(0)
     i = 0
     for landmark in landmarks:
-        landmark.draw(screen, colors[i%5])
-        print(landmark.location)
+        landmark.draw(screen, colors[i%8])
         i+=1
     return landmarks
 
@@ -77,6 +76,7 @@ def Animation():
     top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     reader.draw(top_surface)
     screen.blit(top_surface, (0, 0))
+    start_time = datetime.datetime.now()
     while flag:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -96,15 +96,17 @@ def Animation():
                 screen.blit(top_surface, (0, 0))
         for product in products:
             if math.dist(product.location, reader.location)<=200:
-                now = datetime.now()
-                c_time = now.time()
-                product.timestamp.append(c_time)
+                c_time = datetime.datetime.now()
+                delta = c_time - start_time
+                sec = delta.total_seconds()
+                product.timestamp.append(sec)
                 product.distances.append(math.dist(product.location, reader.location))
         for landmark in landmarks:
             if math.dist(landmark.location, reader.location)<=200:
-                now = datetime.now()
-                c_time = now.time()
-                landmark.timestamp.append(c_time)
+                c_time = datetime.datetime.now()
+                delta = c_time - start_time
+                sec = delta.seconds
+                landmark.timestamp.append(sec)
                 landmark.distances.append(math.dist(landmark.location, reader.location))
         pygame.display.flip()
         i+=1
