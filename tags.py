@@ -1,5 +1,6 @@
 import pygame
 import random
+import math
 # pygame.init()
 
 SCREEN_WIDTH = 1000
@@ -27,6 +28,7 @@ class Tag:
         pygame.draw.circle(screen, color, self.location, 10)
         pygame.display.update()
         return
+    
 
 class Product(Tag):
     def __init__(self, id, location):
@@ -39,8 +41,9 @@ class Product(Tag):
         self.max_rssi = -81
         self.timestamp_range = []
 
-    def find_max_rssi(self):
-        pass
+    def calc_rssi(self):
+        for i in range(0, len(self.timestamp)):
+            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]))
 
 
 class LandMark(Tag):
@@ -49,9 +52,14 @@ class LandMark(Tag):
         self.id = id
         self.timestamp = []
         self.rssi = []
+        self.rssi_A = random.randint(-90,-30)
         self.distances  = []
         self.max_rssi = -81
         self.timestamp_range = []
+
+    def calc_rssi(self):
+        for i in range(0, len(self.timestamp)):
+            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]))
     
     def find_max_rssi(self):
         pass

@@ -4,13 +4,14 @@ from tags import LandMark, Product, Reader
 from copy import deepcopy
 import random
 import math
-
+from datetime import datetime
 
 pygame.init()
 N = 100
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 1000
 COUNT = 10
+
 
 colors = ["red", "blue", "brown", "black", "purple"]
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
@@ -59,42 +60,53 @@ def plot_products():
         product.draw(screen, "green")
     return products
 
+def calculate_rssi(tags):
+    for tag in tags:
+        tag.calc_rssi()
+    return
 
 
-
-flag = True
-i = 5
-distance_products = []
-distance_landmarks = []
-products = plot_products()
-landmarks = plot_Landmarks(COUNT)
-reader = Reader([0, 0], 30)
-top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
-reader.draw(top_surface)
-screen.blit(top_surface, (0, 0))
-while flag:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            flag = False
-            break
-        if event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_s:
-                reader.location[1]+=100
-            if  event.key == pygame.K_a:
-                reader.location[0]-=100
-            if event.key == pygame.K_d:
-                reader.location[0]+=100
-            if event.key == pygame.K_w:
-                reader.location[1]-=100
-            top_surface.fill((255, 255, 255, 0))
-            reader.draw(top_surface)
-            screen.blit(top_surface, (0, 0))
-    for product in products:
-        if math.dist(product.location, reader.location)<=200:
-            product.distances.append(math.dist(product.location, reader.location))
-    for landmark in landmarks:
-        if math.dist(landmark.location, reader.location)<=200:
-            landmark.distances.append(math.dist(landmark.location, reader.location))
-    pygame.display.flip()
-    i+=1
+def Animation():
+    flag = True
+    i = 5
+    distance_products = []
+    distance_landmarks = []
+    products = plot_products()
+    landmarks = plot_Landmarks(COUNT)
+    reader = Reader([0, 0], 30)
+    top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
+    reader.draw(top_surface)
+    screen.blit(top_surface, (0, 0))
+    while flag:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                flag = False
+                break
+            if event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_s:
+                    reader.location[1]+=100
+                if  event.key == pygame.K_a:
+                    reader.location[0]-=100
+                if event.key == pygame.K_d:
+                    reader.location[0]+=100
+                if event.key == pygame.K_w:
+                    reader.location[1]-=100
+                top_surface.fill((255, 255, 255, 0))
+                reader.draw(top_surface)
+                screen.blit(top_surface, (0, 0))
+        for product in products:
+            if math.dist(product.location, reader.location)<=200:
+                now = datetime.now()
+                c_time = now.time()
+                product.timestamp.append(c_time)
+                product.distances.append(math.dist(product.location, reader.location))
+        for landmark in landmarks:
+            if math.dist(landmark.location, reader.location)<=200:
+                now = datetime.now()
+                c_time = now.time()
+                landmark.timestamp.append(c_time)
+                landmark.distances.append(math.dist(landmark.location, reader.location))
+        pygame.display.flip()
+        i+=1
+    return [products, landmarks]
 
