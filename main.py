@@ -25,7 +25,7 @@ def plot_rssi(products, landmarks):
     plt.show()
 
 def main():
-    result = Animation()
+    result = animation()
     products = result[0]
     landmarks = result[1]
     calculate_rssi(products)
@@ -36,6 +36,7 @@ def main():
         landmark.set_max_rssi()
     plot_rssi(products, landmarks)
     K_Means_Clustering(landmarks, products)
+    result_renderer(products, landmarks)
 
 if __name__ == '__main__':
     main()

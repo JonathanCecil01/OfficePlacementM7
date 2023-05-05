@@ -24,8 +24,8 @@ class Reader:
 class Tag:
     def __init__(self, location):
         self.location = location
-    def draw(self, screen, color):
-        pygame.draw.circle(screen, color, self.location, 10)
+    def draw(self, screen, color, radius):
+        pygame.draw.circle(screen, color, self.location, radius)
         pygame.display.update()
         return
     

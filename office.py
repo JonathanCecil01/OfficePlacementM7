@@ -7,7 +7,7 @@ import math
 import datetime
 
 pygame.init()
-N = 100
+N = 500
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 1000
 COUNT = 10
@@ -39,13 +39,13 @@ def plot_Landmarks(count):
     landmarks.pop(0)
     i = 0
     for landmark in landmarks:
-        landmark.draw(screen, colors[i%8])
+        landmark.draw(screen, colors[i%8], 10)
         i+=1
     return landmarks
 
 def plot_products():
     products = []
-    iterations= 100
+    iterations= 1000
     for i in range(iterations):
         i = random.randint(0, 1)
         if i == 1:
@@ -56,7 +56,7 @@ def plot_products():
         
         products.append(product)
     for product in products:
-        product.draw(screen, "green")
+        product.draw(screen, "green", 5)
     return products
 
 def calculate_rssi(tags):
@@ -64,8 +64,24 @@ def calculate_rssi(tags):
         tag.calc_rssi()
     return
 
+def result_renderer(products, landmarks):
+    flag = True
+    screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+    screen.fill((255, 255, 255))
+    for product in products:
+        product.draw(screen, product.color, 5)
+    for landmark in landmarks:
+        landmark.draw(screen, landmark.color, 10)
+    while flag:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                flag = False
+                break
+        pygame.display.update()
+    return
 
-def Animation():
+
+def animation():
     flag = True
     i = 5
     distance_products = []
@@ -98,14 +114,14 @@ def Animation():
             if math.dist(product.location, reader.location)<=200:
                 c_time = datetime.datetime.now()
                 delta = c_time - start_time
-                sec = delta.total_seconds()
+                sec = delta.seconds*100
                 product.timestamp.append(sec)
                 product.distances.append(math.dist(product.location, reader.location))
         for landmark in landmarks:
             if math.dist(landmark.location, reader.location)<=200:
                 c_time = datetime.datetime.now()
                 delta = c_time - start_time
-                sec = delta.seconds
+                sec = delta.seconds*100
                 landmark.timestamp.append(sec)
                 landmark.distances.append(math.dist(landmark.location, reader.location))
         pygame.display.flip()
