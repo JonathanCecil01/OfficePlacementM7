@@ -17,6 +17,41 @@ colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 screen.fill((255, 255, 255))
 
+
+class Sections:
+    def __init__(self, left, top, width, height):
+        self.left = left
+        self.top = top
+        self.width = width
+        self.height = height
+
+    def draw(self, screen):
+        pygame.draw.rect(screen, (0, 0, 0), (self.left, self.top, self.width, self.height), 3) 
+
+
+def plot_sections(count):
+    step_x= SCREEN_WIDTH/(count/2)
+    step_y = SCREEN_HEIGHT/2
+    start_x = 125
+    start_y = 150
+    sections = []
+    for i in range(4):
+        s = Sections(start_x, start_y, 150, 200)
+        s.draw(screen)
+        sections.append(s)
+        start_x = start_x + step_x
+    start_x = 125
+    start_y += step_y
+    for i in range(4):
+        s = Sections(start_x, start_y, 150, 200)
+        s.draw(screen)
+        sections.append(s)
+        start_x = start_x + step_x
+    
+    
+
+
+
 def plot_Active_Landmarks(count):
     surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     landmarks = []
@@ -111,6 +146,7 @@ def result_renderer(products, landmarks):
 
 
 def animation():
+    plot_sections(COUNT)
     flag = True
     i = 5
     distance_products = []
@@ -157,3 +193,4 @@ def animation():
         i+=1
     return [products, landmarks]
 
+#plot_sections(COUNT)
