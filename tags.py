@@ -31,7 +31,7 @@ class Tag:
     
 
 class Product(Tag):
-    def __init__(self, id, location):
+    def __init__(self, id, location, landmark_id):
         Tag.__init__(self, location)
         self.id = id
         self.rssi_A = random.randint(-90,-30)
@@ -42,6 +42,7 @@ class Product(Tag):
         self.timestamp_range = []
         self.max_time= 0
         self.color = "green"
+        self.actual_landmark_id = landmark_id
 
     def set_max_rssi(self):
         self.max_rssi = max(self.rssi)

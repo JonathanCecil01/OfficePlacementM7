@@ -24,6 +24,8 @@ class Sections:
         self.top = top
         self.width = width
         self.height = height
+        self.location_id = None
+        self.products = []
 
     def draw(self, screen):
         pygame.draw.rect(screen, (0, 0, 0), (self.left, self.top, self.width, self.height), 3) 
@@ -48,11 +50,11 @@ def plot_sections(count):
         sections.append(s)
         start_x = start_x + step_x
     
-    
+    return sections
 
 
 
-def plot_Active_Landmarks(count):
+def plot_Active_Landmarks(count, sections):
     surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     landmarks = []
     steps_x  = SCREEN_WIDTH/5
@@ -75,6 +77,7 @@ def plot_Active_Landmarks(count):
     landmarks.pop(0)
     i = 0
     for landmark in landmarks:
+        sections[i].location_id  = landmark.id
         landmark.draw(surface, screen, colors[i%8], 10)
         pygame.display.update()
         i+=1
@@ -107,21 +110,36 @@ def plot_Landmarks(count):
         i+=1
     return landmarks
 
-def plot_products():
+
+def plot_products(sections):
     products = []
-    iterations= 1000
-    for i in range(iterations):
-        i = random.randint(0, 1)
-        if i == 1:
-            location = [random.randint(150, 850), random.randint(150, 450)]
-        else:
-            location = [random.randint(150, 850), random.randint(600, 850)]
-        product  = Product("P"+str(random.randint(0, N)), location)
-        
-        products.append(product)
+    count = 1000
+    iterations= int(count/ len(sections))
+    for section in sections:
+        for i in range(iterations):
+            location = [random.randint(section.left, section.left + section.width), random.randint(section.top, section.top + section.height)]
+            product  = Product("P"+str(random.randint(0, N)), location, section.location_id)
+            section.products.append(product)
+            products.append(product)
     for product in products:
         product.draw(screen, "green", 5)
     return products
+
+# def plot_products(sections):
+#     products = []
+#     iterations= 1000
+#     for i in range(iterations):
+#         i = random.randint(0, 1)
+#         if i == 1:
+#             location = [random.randint(150, 850), random.randint(150, 450)]
+#         else:
+#             location = [random.randint(150, 850), random.randint(600, 850)]
+#         product  = Product("P"+str(random.randint(0, N)), location, "erud")
+        
+#         products.append(product)
+#     for product in products:
+#         product.draw(screen, "green", 5)
+#     return products
 
 def calculate_rssi(tags):
     for tag in tags:
@@ -146,13 +164,14 @@ def result_renderer(products, landmarks):
 
 
 def animation():
-    plot_sections(COUNT)
+    sections = plot_sections(COUNT)
+    landmarks = plot_Active_Landmarks(COUNT, sections)#plot_Landmarks(COUNT)
     flag = True
     i = 5
     distance_products = []
     distance_landmarks = []
-    products = plot_products()
-    landmarks = plot_Active_Landmarks(COUNT)#plot_Landmarks(COUNT)
+    products = plot_products(sections)
+    
     reader = Reader([0, 0], 30)
     top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     reader.draw(top_surface)
