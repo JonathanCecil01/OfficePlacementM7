@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import pygame
-from tags import LandMark, Product, Reader
+from tags import LandMark, Product, Reader, ActiveLandMark
 from copy import deepcopy
 import random
 import math
@@ -16,6 +16,35 @@ COUNT = 10
 colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 screen.fill((255, 255, 255))
+
+def plot_Active_Landmarks(count):
+    surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
+    landmarks = []
+    steps_x  = SCREEN_WIDTH/5
+    steps_y  = SCREEN_HEIGHT/2
+    loc1 = [200,250]
+    flag = True
+    for i in range(count-1):
+        loc = deepcopy(loc1)
+        l = ActiveLandMark("L"+str(i), loc, 50)
+        landmarks.append(l)
+        if i%2==0 and i!=0:
+            loc1[0]+=steps_x
+        if i%2!=0:
+            if flag:
+                loc1[1]+=steps_y
+                flag = False
+            else:
+                loc1[1]-=steps_y
+                flag = True
+    landmarks.pop(0)
+    i = 0
+    for landmark in landmarks:
+        landmark.draw(surface, screen, colors[i%8], 10)
+        pygame.display.update()
+        i+=1
+    screen.blit(surface,  (0, 0))
+    return landmarks
 
 def plot_Landmarks(count):
     landmarks = []
@@ -87,7 +116,7 @@ def animation():
     distance_products = []
     distance_landmarks = []
     products = plot_products()
-    landmarks = plot_Landmarks(COUNT)
+    landmarks = plot_Active_Landmarks(COUNT)#plot_Landmarks(COUNT)
     reader = Reader([0, 0], 30)
     top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     reader.draw(top_surface)

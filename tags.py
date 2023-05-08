@@ -74,46 +74,15 @@ class LandMark(Tag):
     def calc_rssi(self):
         for i in range(0, len(self.timestamp)):
             self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/5))
-    
 
+class ActiveLandMark(LandMark):
+    def __init__(self, id, location, range):
+        LandMark.__init__(self, id, location)
+        self.range = range
 
-# screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-# screen.fill((255, 255, 255))
-
-# def plot_Landmarks(count):
-#     steps_x  = SCREEN_WIDTH/5
-#     steps_y  = SCREEN_HEIGHT/2
-#     loc = [200,250]
-#     flag = True
-#     for i in range(count-1):
-#         l = LandMark("L"+str(i), loc)
-#         l.draw()
-#         landmarks.append(l)
-#         if i%2==0:
-#             loc[0]+=steps_x
-#         if i%2!=0:
-#             if flag:
-#                 loc[1]+=steps_y
-#                 flag = False
-#             else:
-#                 loc[1]-=steps_y
-#                 flag = True
-#     for landmark in landmarks:
-#         print(landmark.location)
-#         landmark.draw()
-
-
-
-# flag = True
-# i = 5
-
-
-
-# while flag:
-#     plot_Landmarks(10)
-#     for event in pygame.event.get():
-#         if event.type == pygame.QUIT:
-#             flag = False
-#             break
-#     pygame.display.update()
-#     i+=1
+    def draw(self, surface, screen, color, radius):
+        pygame.draw.circle(surface , (224,30,33,20), self.location, 150)
+        #screen.blit(surface, (0, 0))
+        pygame.draw.circle(surface, color, self.location, radius)
+        #pygame.display.update()
+        return
