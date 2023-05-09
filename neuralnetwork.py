@@ -1,5 +1,14 @@
 import numpy as np 
 import math
+import csv
+
+def read_data():
+    with open('Active_Landmarks.csv', 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            print(row)
+
+
 
 def sigmoid(x):
     return 1/(1+np.exp(-x))
@@ -58,6 +67,7 @@ class NeuralNetwork:
         predictions.shape = (self.output_node_count, )
         for prediction in predictions:
             print(format(prediction, 'f'))
+
 
 
 NN = NeuralNetwork(3, 5, 3, 0.05)
