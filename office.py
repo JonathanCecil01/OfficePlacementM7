@@ -17,6 +17,11 @@ colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 screen.fill((255, 255, 255))
 
+class Offices(object):
+    def __init__(self, sections, landmarks, products):
+        self.sections = sections
+        self.landmarks = landmarks
+        self.products = products
 
 class Sections:
     def __init__(self, left, top, width, height):
@@ -71,20 +76,6 @@ def plot_Active_Landmarks(count, sections):
          #l.color = section.colour
          landmarks.append(l)
          i+=1
-    # for i in range(count-1):
-    #     loc = deepcopy(loc1)
-    #     l = ActiveLandMark("L"+str(i), loc, 150)
-    #     landmarks.append(l)
-    #     if i%2==0 and i!=0:
-    #         loc1[0]+=steps_x
-    #     if i%2!=0:
-    #         if flag:
-    #             loc1[1]+=steps_y
-    #             flag = False
-    #         else:
-    #             loc1[1]-=steps_y
-    #             flag = True
-    # landmarks.pop(0)
     i = 0
     for landmark in landmarks:
         sections[i].location_id  = landmark.id
@@ -234,6 +225,13 @@ def animation():
                 sec = delta.seconds*100
                 landmark.timestamp.append(sec)
                 landmark.distances.append(math.dist(landmark.location, reader.location))
+            else:
+                c_time = datetime.datetime.now()
+                delta = c_time - start_time
+                sec = delta.seconds*100
+                landmark.timestamp.append(sec)
+                landmark.distances.append(999999)
+
         pygame.display.flip()
         i+=1
     return [products, landmarks, sections]

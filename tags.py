@@ -75,7 +75,10 @@ class LandMark(Tag):
 
     def calc_rssi(self):
         for i in range(0, len(self.timestamp)):
-            self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/50))
+            if self.distances[i] == 999999:
+                self.rssi.append(-91)
+            else:
+                self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/50))
 
 class ActiveLandMark(LandMark):
     def __init__(self, id, location, range):
