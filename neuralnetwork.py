@@ -1,12 +1,32 @@
 import numpy as np 
 import math
 import csv
+from copy import deepcopy
 
 def read_data():
+    landmarks = []
     with open('Active_Landmarks.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
-            print(row)
+            landmarks.append(row)
+    file.close()
+    for landmark in landmarks:
+        landmark[1] = float(landmark[1])
+        landmark[2] = float(landmark[2])
+    start = landmarks[0][2]
+    products = []
+
+
+    with open('Products.csv', 'r') as file1:
+        reader = csv.reader(file1)
+        for row in reader:
+            products.append(row) 
+    for product in products:
+        product[1] = float(product[1])
+        product[2] = float(product[2])
+    
+    return [products, landmarks]
+
 
 
 
@@ -59,19 +79,65 @@ class NeuralNetwork:
         
             
     def train(self, inputs, outputs):
-        for epochs in range(10000):
-            for i in range(0, 6):
-                self.back_propogation(inputs[i], outputs[i])
+        self.xav_initialize_weight()
+        for i in range(0, len(inputs)-10):
+            self.back_propogation(np.array(inputs[i]), np.array(outputs[i]))
 
-        predictions = self.feed_forward(inputs[5])
-        predictions.shape = (self.output_node_count, )
-        for prediction in predictions:
-            print(format(prediction, 'f'))
+        prediction = self.feed_forward(inputs[-7])
+        prediction.shape = (self.output_node_count, )
+        prediction = [round(x, 4) for x in prediction]
+        print(prediction)
+        predictions = []
+        for i in inputs:
+            predictions.append(self.feed_forward(i))
+        return predictions
+        
 
 
 
-NN = NeuralNetwork(3, 5, 3, 0.05)
-NN.xav_initialize_weight()
-inputs = np.array([[0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1]])
-outputs = np.array([[0, 0, 0, 0, 0], [0, 0, 0, 0, 1],[0, 0, 0, 1, 0], [0, 0, 1, 0, 0],[0, 1, 0, 0, 0],[1, 0, 0, 0, 0]])
-NN.train(inputs, outputs)
+# NN = NeuralNetwork(8, 8, 16, 0.05)
+# NN.xav_initialize_weight()
+# inputs = np.array([[0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1]])
+# outputs = np.array([[0, 0, 0, 0, 0], [0, 0, 0, 0, 1],[0, 0, 0, 1, 0], [0, 0, 1, 0, 0],[0, 1, 0, 0, 0],[1, 0, 0, 0, 0]])
+# NN.train(inputs, outputs)
+data = read_data()
+products = data[0]
+landmarks = data[1]
+time_stamp_ordered = {}
+
+for row in landmarks:
+    time_stamp_ordered[row[2]] = [{},[],[]]
+for key in time_stamp_ordered.keys():
+    for row in landmarks:
+        time_stamp_ordered[key][0][row[0]] = -91
+for row in landmarks:
+    if time_stamp_ordered[row[2]][0][row[0]]<row[1]:
+        time_stamp_ordered[row[2]][0][row[0]] = row[1]
+
+for row in products:
+    time_stamp_ordered[row[2]][1].append([row[0], row[1],int(row[3][-1])])
+    #time_stamp_ordered[row[2]][2].append(int(row[3][-1]))
+
+NN = NeuralNetwork(9, 8, 16, 0.05)
+sets = len(time_stamp_ordered)
+inputs = []
+outputs = []
+
+for i in range(sets):
+    temp = list(time_stamp_ordered[i][0].values())
+    for j in time_stamp_ordered[i][1]:
+        temp1 = deepcopy(temp)
+        temp1.append(j[1])
+        inputs.append(temp1)
+
+for i in range(sets):
+    for j in time_stamp_ordered[i][1]:
+        output = [0]*8
+        output[j[2]]= 1
+        temp = deepcopy(output)
+        outputs.append(temp)
+
+print(inputs[-7])
+print(outputs[-7])
+predictions = NN.train(inputs, outputs)
+#NN.train()

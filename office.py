@@ -215,20 +215,20 @@ def animation():
             if math.dist(product.location, reader.location)<=200:
                 c_time = datetime.datetime.now()
                 delta = c_time - start_time
-                sec = delta.seconds*100
+                sec = delta.seconds
                 product.timestamp.append(sec)
                 product.distances.append(math.dist(product.location, reader.location))
         for landmark in landmarks:
             if math.dist(landmark.location, reader.location)<=200:
                 c_time = datetime.datetime.now()
                 delta = c_time - start_time
-                sec = delta.seconds*100
+                sec = delta.seconds
                 landmark.timestamp.append(sec)
                 landmark.distances.append(math.dist(landmark.location, reader.location))
             else:
                 c_time = datetime.datetime.now()
                 delta = c_time - start_time
-                sec = delta.seconds*100
+                sec = delta.seconds
                 landmark.timestamp.append(sec)
                 landmark.distances.append(999999)
 

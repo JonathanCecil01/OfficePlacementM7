@@ -22,16 +22,16 @@ def K_Means_Clustering(landmarks, products):
 
 
 def write_data(sections, landmarks, products):
-    active_landmark_list = [["Landmark ID", "RSSI", "Timestamp"]]
+    active_landmark_list = []
     for landmark in landmarks:
         for i in range(0, len(landmark.timestamp)):
             active_landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
-    product_list = ["PRODUCT ID", "RSSI", "Timestamp"]
+    product_list = []
     for product in products:
         for i  in range(len(product.rssi)):
-            product_list.append([product.id, product.rssi[i], product.timestamp[i]])
+            product_list.append([product.id, product.rssi[i], product.timestamp[i], product.actual_landmark_id])
     
-    landmark_list = ["Landmark ID", "RSSI", "Timestamp"]
+    landmark_list = []
     for section in sections:
         for landmark in section.corners:
             for i in range(0, len(landmark.timestamp)):
