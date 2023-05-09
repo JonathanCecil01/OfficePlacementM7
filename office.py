@@ -26,6 +26,8 @@ class Sections:
         self.height = height
         self.location_id = None
         self.products = []
+        self.corners = []
+        self.colour = None
 
     def draw(self, screen):
         pygame.draw.rect(screen, (0, 0, 0), (self.left, self.top, self.width, self.height), 3) 
@@ -35,20 +37,22 @@ def plot_sections(count):
     step_x= SCREEN_WIDTH/(count/2)
     step_y = SCREEN_HEIGHT/2
     start_x = 125
-    start_y = 150
+    start_y = 50
     sections = []
     for i in range(4):
-        s = Sections(start_x, start_y, 150, 200)
+        s = Sections(start_x, start_y, 150, 400)
         s.draw(screen)
         sections.append(s)
         start_x = start_x + step_x
+        s.colour = colors[i%8]
     start_x = 125
     start_y += step_y
     for i in range(4):
-        s = Sections(start_x, start_y, 150, 200)
+        s = Sections(start_x, start_y, 150, 400)
         s.draw(screen)
         sections.append(s)
         start_x = start_x + step_x
+        s.colour = colors[i%8 + 4]
     
     return sections
 
@@ -61,54 +65,71 @@ def plot_Active_Landmarks(count, sections):
     steps_y  = SCREEN_HEIGHT/2
     loc1 = [200,250]
     flag = True
-    for i in range(count-1):
-        loc = deepcopy(loc1)
-        l = ActiveLandMark("L"+str(i), loc, 50)
-        landmarks.append(l)
-        if i%2==0 and i!=0:
-            loc1[0]+=steps_x
-        if i%2!=0:
-            if flag:
-                loc1[1]+=steps_y
-                flag = False
-            else:
-                loc1[1]-=steps_y
-                flag = True
-    landmarks.pop(0)
+    i =0 
+    for section in sections:
+         l = ActiveLandMark("L"+str(i), [section.left+int(section.width/2), section.top+int(section.height/2) ], 50)
+         #l.color = section.colour
+         landmarks.append(l)
+         i+=1
+    # for i in range(count-1):
+    #     loc = deepcopy(loc1)
+    #     l = ActiveLandMark("L"+str(i), loc, 150)
+    #     landmarks.append(l)
+    #     if i%2==0 and i!=0:
+    #         loc1[0]+=steps_x
+    #     if i%2!=0:
+    #         if flag:
+    #             loc1[1]+=steps_y
+    #             flag = False
+    #         else:
+    #             loc1[1]-=steps_y
+    #             flag = True
+    # landmarks.pop(0)
     i = 0
     for landmark in landmarks:
         sections[i].location_id  = landmark.id
-        landmark.draw(surface, screen, colors[i%8], 10)
+        landmark.draw(surface, sections[i].colour, 10)
         pygame.display.update()
         i+=1
     screen.blit(surface,  (0, 0))
     return landmarks
 
-def plot_Landmarks(count):
+def plot_Landmarks(sections):
+    count = len(sections)*4
     landmarks = []
-    steps_x  = SCREEN_WIDTH/5
-    steps_y  = SCREEN_HEIGHT/2
-    loc1 = [200,250]
-    flag = True
-    for i in range(count-1):
-        loc = deepcopy(loc1)
-        l = LandMark("L"+str(i), loc)
-        landmarks.append(l)
-        if i%2==0 and i!=0:
-            loc1[0]+=steps_x
-        if i%2!=0:
-            if flag:
-                loc1[1]+=steps_y
-                flag = False
-            else:
-                loc1[1]-=steps_y
-                flag = True
-    landmarks.pop(0)
-    i = 0
-    for landmark in landmarks:
-        landmark.draw(screen, colors[i%8], 10)
-        i+=1
-    return landmarks
+    for section in sections:
+        l1 = LandMark(section.location_id + "L0", [section.left, section.top])
+        l2 = LandMark(section.location_id + "L1", [section.left + section.width, section.top])
+        l3 = LandMark(section.location_id + "L2", [section.left, section.top + section.height])
+        l4 = LandMark(section.location_id + "L3", [section.left + section.width, section.top + section.height])
+        section.corners = [l1, l2, l3, l4]
+        for landmark in section.corners:
+            landmark.draw(screen, section.colour, 8)
+    
+
+    # steps_x  = SCREEN_WIDTH/5
+    # steps_y  = SCREEN_HEIGHT/2
+    # loc1 = [200,250]
+    # flag = True
+    # for i in range(count-1):
+    #     loc = deepcopy(loc1)
+    #     l = LandMark("L"+str(i), loc)
+    #     landmarks.append(l)
+    #     if i%2==0 and i!=0:
+    #         loc1[0]+=steps_x
+    #     if i%2!=0:
+    #         if flag:
+    #             loc1[1]+=steps_y
+    #             flag = False
+    #         else:
+    #             loc1[1]-=steps_y
+    #             flag = True
+    # landmarks.pop(0)
+    # i = 0
+    # for landmark in landmarks:
+    #     landmark.draw(screen, colors[i%8], 10)
+    #     i+=1
+    # return landmarks
 
 
 def plot_products(sections):
@@ -146,14 +167,18 @@ def calculate_rssi(tags):
         tag.calc_rssi()
     return
 
-def result_renderer(products, landmarks):
+def result_renderer(products, landmarks, sections):
     flag = True
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
     screen.fill((255, 255, 255))
+    surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
+    for section in sections:
+        section.draw(screen)
     for product in products:
         product.draw(screen, product.color, 5)
     for landmark in landmarks:
-        landmark.draw(screen, landmark.color, 10)
+        landmark.draw(surface, landmark.color, 10)
+    screen.blit(surface, (0, 0))
     while flag:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -165,7 +190,8 @@ def result_renderer(products, landmarks):
 
 def animation():
     sections = plot_sections(COUNT)
-    landmarks = plot_Active_Landmarks(COUNT, sections)#plot_Landmarks(COUNT)
+    landmarks = plot_Active_Landmarks(COUNT, sections)#
+    plot_Landmarks(sections)
     flag = True
     i = 5
     distance_products = []
@@ -210,6 +236,6 @@ def animation():
                 landmark.distances.append(math.dist(landmark.location, reader.location))
         pygame.display.flip()
         i+=1
-    return [products, landmarks]
+    return [products, landmarks, sections]
 
 #plot_sections(COUNT)
