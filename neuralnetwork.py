@@ -83,7 +83,7 @@ class NeuralNetwork:
         for i in range(0, len(inputs)-10):
             self.back_propogation(np.array(inputs[i]), np.array(outputs[i]))
 
-        prediction = self.feed_forward(inputs[-7])
+        prediction = self.feed_forward(inputs[0])
         prediction.shape = (self.output_node_count, )
         prediction = [round(x, 4) for x in prediction]
         print(prediction)
@@ -137,7 +137,7 @@ for i in range(sets):
         temp = deepcopy(output)
         outputs.append(temp)
 
-print(inputs[-7])
-print(outputs[-7])
+print(inputs[0])
+print(outputs[0])
 predictions = NN.train(inputs, outputs)
 #NN.train()
