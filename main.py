@@ -26,10 +26,24 @@ def write_data(sections, landmarks, products):
     for landmark in landmarks:
         for i in range(0, len(landmark.timestamp)):
             active_landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+            #active_landmark_list.append([landmark.id, landmark.max_rssi, landmark.max_time])
     product_list = []
     for product in products:
         for i  in range(len(product.rssi)):
-            product_list.append([product.id, product.rssi[i], product.timestamp[i], product.actual_landmark_id])
+            #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
+            product_list.append([product.id, product.max_rssi, product.max_time, product.actual_landmark_id])
+
+
+    active_landmark_predict_list = []
+    for landmark in landmarks:
+        for i in range(0, len(landmark.timestamp)):
+            active_landmark_predict_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+            #active_landmark_list.append([landmark.id, landmark.max_rssi, landmark.max_time])
+    product_predict_list = []
+    for product in products:
+        for i  in range(len(product.rssi)):
+            #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
+            product_predict_list.append([product.id, product.max_rssi, product.max_time])
     
     landmark_list = []
     for section in sections:
@@ -43,9 +57,16 @@ def write_data(sections, landmarks, products):
     with open('Active_Landmarks.csv', 'w', newline='') as file:
         writer = csv.writer(file)
         writer.writerows(active_landmark_list)
-    with open('Passive_Landmarks.csv', 'w', newline='') as file:
+
+    with open('Products_predict.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerows(landmark_list)
+        writer.writerows(product_predict_list)
+    with open('Active_Landmarks_predict.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(active_landmark_predict_list)
+    # with open('Passive_Landmarks.csv', 'w', newline='') as file:
+    #     writer = csv.writer(file)
+    #     writer.writerows(landmark_list)
 
 
 def plot_rssi(products, landmarks):
@@ -65,6 +86,10 @@ def main():
     sections = result[2]
     calculate_rssi(products)
     calculate_rssi(landmarks)
+    for product in products:
+        product.set_max_rssi()
+    for landmark in landmarks:
+        landmark.set_max_rssi()
     write_data(sections, landmarks, products)
 
     #plot_rssi(products, landmarks)

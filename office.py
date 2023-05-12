@@ -125,7 +125,7 @@ def plot_Landmarks(sections):
 
 def plot_products(sections):
     products = []
-    count = 1000
+    count = 100
     iterations= int(count/ len(sections))
     for section in sections:
         for i in range(iterations):
@@ -211,26 +211,40 @@ def animation():
                 top_surface.fill((255, 255, 255, 0))
                 reader.draw(top_surface)
                 screen.blit(top_surface, (0, 0))
+        temp_products = []
+        temp_landmarks = []
         for product in products:
             if math.dist(product.location, reader.location)<=200:
-                c_time = datetime.datetime.now()
-                delta = c_time - start_time
-                sec = delta.seconds
-                product.timestamp.append(sec)
                 product.distances.append(math.dist(product.location, reader.location))
+                temp_products.append(product)
+                # c_time = datetime.datetime.now()
+                # delta = c_time - start_time
+                # sec = delta.seconds
+                # product.timestamp.append(sec)
+                # product.distances.append(math.dist(product.location, reader.location))
         for landmark in landmarks:
             if math.dist(landmark.location, reader.location)<=200:
-                c_time = datetime.datetime.now()
-                delta = c_time - start_time
-                sec = delta.seconds
-                landmark.timestamp.append(sec)
                 landmark.distances.append(math.dist(landmark.location, reader.location))
+                temp_landmarks.append(landmark)
+                # c_time = datetime.datetime.now()
+                # delta = c_time - start_time
+                # sec = delta.seconds
+                # landmark.timestamp.append(sec)
+                # landmark.distances.append(math.dist(landmark.location, reader.location))
             else:
-                c_time = datetime.datetime.now()
-                delta = c_time - start_time
-                sec = delta.seconds
-                landmark.timestamp.append(sec)
+                # c_time = datetime.datetime.now()
+                # delta = c_time - start_time
+                # sec = delta.seconds
+                # landmark.timestamp.append(sec)
                 landmark.distances.append(999999)
+                temp_landmarks.append(landmark)
+        c_time = datetime.datetime.now()
+        delta = c_time - start_time
+        sec = delta.microseconds
+        for product in temp_products:
+            product.timestamp.append(sec)
+        for landmark in temp_landmarks:
+            landmark.timestamp.append(sec)
 
         pygame.display.flip()
         i+=1
