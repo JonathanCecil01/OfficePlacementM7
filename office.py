@@ -126,13 +126,15 @@ def plot_Landmarks(sections):
 def plot_products(sections):
     products = []
     count = 100
+    item_no_i = 0
     iterations= int(count/ len(sections))
     for section in sections:
         for i in range(iterations):
             location = [random.randint(section.left, section.left + section.width), random.randint(section.top, section.top + section.height)]
-            product  = Product("P"+str(random.randint(0, N)), location, section.location_id)
+            product  = Product("P"+str(random.randint(0, N)), location, section.location_id, item_no_i)
             section.products.append(product)
             products.append(product)
+            item_no_i+=1
     for product in products:
         product.draw(screen, "green", 5)
     return products
@@ -240,7 +242,7 @@ def animation():
                 temp_landmarks.append(landmark)
         c_time = datetime.datetime.now()
         delta = c_time - start_time
-        sec = delta.microseconds
+        sec = delta.total_seconds()*1000
         for product in temp_products:
             product.timestamp.append(sec)
         for landmark in temp_landmarks:

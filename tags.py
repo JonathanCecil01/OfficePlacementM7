@@ -9,7 +9,7 @@ SCREEN_HEIGHT = 1000
 PATH_LOSS_EXPONENT = 2
 # screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 # screen.fill((255, 255, 255))
-
+colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 class Reader:
     def __init__(self, location, radius):
         self.location = location
@@ -31,7 +31,7 @@ class Tag:
     
 
 class Product(Tag):
-    def __init__(self, id, location, landmark_id):
+    def __init__(self, id, location, landmark_id, item_no):
         Tag.__init__(self, location)
         self.id = id
         self.rssi_A = -60#random.randint(-90,-30)
@@ -44,6 +44,7 @@ class Product(Tag):
         self.color = "green"
         self.actual_landmark_id = landmark_id
         self.predicted_landmark_id = None
+        self.item_no = item_no
 
     def set_max_rssi(self):
         self.max_rssi = max(self.rssi)
@@ -53,6 +54,11 @@ class Product(Tag):
     def calc_rssi(self):
         for i in range(0, len(self.timestamp)):
             self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log(self.distances[i]/50))
+    
+    def set_color(self, label):
+        index = int(label[-1])
+        self.color = colors[index]
+        
 
 
 class LandMark(Tag):

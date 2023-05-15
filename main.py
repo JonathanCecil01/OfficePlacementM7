@@ -5,6 +5,16 @@ import csv
 
 colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 
+def predictions():
+    products = []
+    with open('Predictions.csv', 'r') as file1:
+        reader = csv.reader(file1)
+        for row in reader:
+            products.append(row) 
+    for product in products:
+        product[1] = float(product[1])
+        
+    return products
 
 def K_Means_Clustering(landmarks, products):
     for product in products:
@@ -21,6 +31,13 @@ def K_Means_Clustering(landmarks, products):
     plot_rssi(products, landmarks)    
 
 
+def plot_rssi_time(products, landmarks):
+    for product in products:
+        x = product.timestamp
+        plt.plot(x, product.rssi, marker = 'o')
+        plt.show()
+
+
 def write_data(sections, landmarks, products):
     active_landmark_list = []
     for landmark in landmarks:
@@ -31,7 +48,7 @@ def write_data(sections, landmarks, products):
     for product in products:
         for i  in range(len(product.rssi)):
             #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
-            product_list.append([product.id, product.max_rssi, product.max_time, product.actual_landmark_id])
+            product_list.append([product.id, product.max_rssi, product.max_time,product.actual_landmark_id])
 
 
     active_landmark_predict_list = []
@@ -43,7 +60,7 @@ def write_data(sections, landmarks, products):
     for product in products:
         for i  in range(len(product.rssi)):
             #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
-            product_predict_list.append([product.id, product.max_rssi, product.max_time])
+            product_predict_list.append([product.id, product.max_rssi, product.max_time, product.item_no])
     
     landmark_list = []
     for section in sections:
@@ -90,11 +107,22 @@ def main():
         product.set_max_rssi()
     for landmark in landmarks:
         landmark.set_max_rssi()
-    write_data(sections, landmarks, products)
+
+    plot_rssi_time(products, landmarks)
+
+    #write_data(sections, landmarks, products)
+    # prediction_products = predictions()
+    # item_dict = {}
+    # for i in range(len(prediction_products)):
+    #     item_dict[prediction_products[1]] = prediction_products[-1]
+    # for product in products:
+    #     product.predicted_landmark_id = item_dict[product.item_no]
+    #     product.set_color(product.predicted_landmark_id )
+    
 
     #plot_rssi(products, landmarks)
     #K_Means_Clustering(landmarks, products)
-    #result_renderer(products, landmarks, sections)
+    result_renderer(products, landmarks, sections)
 
 if __name__ == '__main__':
     main()
