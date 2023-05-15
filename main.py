@@ -47,8 +47,8 @@ def write_data(sections, landmarks, products):
     product_list = []
     for product in products:
         for i  in range(len(product.rssi)):
-            #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
-            product_list.append([product.id, product.max_rssi, product.max_time,product.actual_landmark_id])
+            product_list.append([product.item_no, product.id, product.rssi[i], product.timestamp[i], product.actual_landmark_id])
+            #product_list.append([product.id, product.max_rssi, product.max_time,product.actual_landmark_id])
 
 
     active_landmark_predict_list = []
@@ -108,9 +108,9 @@ def main():
     for landmark in landmarks:
         landmark.set_max_rssi()
 
-    plot_rssi_time(products, landmarks)
+    #plot_rssi_time(products, landmarks)
 
-    #write_data(sections, landmarks, products)
+    write_data(sections, landmarks, products)
     # prediction_products = predictions()
     # item_dict = {}
     # for i in range(len(prediction_products)):
