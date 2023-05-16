@@ -6,6 +6,8 @@ import random
 import math
 import datetime
 
+#define the basic parameters
+
 pygame.init()
 N = 500
 SCREEN_WIDTH = 1000
@@ -13,17 +15,17 @@ SCREEN_HEIGHT = 1000
 COUNT = 10
 
 
-colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
+colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"] # color values for the 8 locations
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-screen.fill((255, 255, 255))
+screen.fill((255, 255, 255)) #initial start of the pygame screen with white background
 
-class Offices(object):
+class Offices(object):  #the entire game object defining the terrain
     def __init__(self, sections, landmarks, products):
         self.sections = sections
         self.landmarks = landmarks
         self.products = products
 
-class Sections:
+class Sections:         #Splitting the office regionm into sections
     def __init__(self, left, top, width, height):
         self.left = left
         self.top = top
@@ -35,7 +37,7 @@ class Sections:
         self.colour = None
 
     def draw(self, screen):
-        pygame.draw.rect(screen, (0, 0, 0), (self.left, self.top, self.width, self.height), 3) 
+        pygame.draw.rect(screen, (0, 0, 0), (self.left, self.top, self.width, self.height), 3) #rectangles of defined width and height for office space
 
 
 def plot_sections(count):
@@ -49,7 +51,7 @@ def plot_sections(count):
         s.draw(screen)
         sections.append(s)
         start_x = start_x + step_x
-        s.colour = colors[i%8]
+        s.colour = colors[i%8]  #defining the colour for each section
     start_x = 125
     start_y += step_y
     for i in range(4):
@@ -73,7 +75,6 @@ def plot_Active_Landmarks(count, sections):
     i =0 
     for section in sections:
          l = ActiveLandMark("L"+str(i), [section.left+int(section.width/2), section.top+int(section.height/2) ], 50)
-         #l.color = section.colour
          landmarks.append(l)
          i+=1
     i = 0
@@ -86,8 +87,6 @@ def plot_Active_Landmarks(count, sections):
     return landmarks
 
 def plot_Landmarks(sections):
-    count = len(sections)*4
-    landmarks = []
     for section in sections:
         l1 = LandMark(section.location_id + "L0", [section.left, section.top])
         l2 = LandMark(section.location_id + "L1", [section.left + section.width, section.top])
@@ -96,33 +95,13 @@ def plot_Landmarks(sections):
         section.corners = [l1, l2, l3, l4]
         for landmark in section.corners:
             landmark.draw(screen, section.colour, 8)
+    passive_landmarks = []
+    for section in sections:
+        for corner in section.corners:
+            passive_landmarks.append(corner)
+    return passive_landmarks
+
     
-
-    # steps_x  = SCREEN_WIDTH/5
-    # steps_y  = SCREEN_HEIGHT/2
-    # loc1 = [200,250]
-    # flag = True
-    # for i in range(count-1):
-    #     loc = deepcopy(loc1)
-    #     l = LandMark("L"+str(i), loc)
-    #     landmarks.append(l)
-    #     if i%2==0 and i!=0:
-    #         loc1[0]+=steps_x
-    #     if i%2!=0:
-    #         if flag:
-    #             loc1[1]+=steps_y
-    #             flag = False
-    #         else:
-    #             loc1[1]-=steps_y
-    #             flag = True
-    # landmarks.pop(0)
-    # i = 0
-    # for landmark in landmarks:
-    #     landmark.draw(screen, colors[i%8], 10)
-    #     i+=1
-    # return landmarks
-
-
 def plot_products(sections):
     products = []
     count = 1000
@@ -138,22 +117,6 @@ def plot_products(sections):
     for product in products:
         product.draw(screen, "green", 5)
     return products
-
-# def plot_products(sections):
-#     products = []
-#     iterations= 1000
-#     for i in range(iterations):
-#         i = random.randint(0, 1)
-#         if i == 1:
-#             location = [random.randint(150, 850), random.randint(150, 450)]
-#         else:
-#             location = [random.randint(150, 850), random.randint(600, 850)]
-#         product  = Product("P"+str(random.randint(0, N)), location, "erud")
-        
-#         products.append(product)
-#     for product in products:
-#         product.draw(screen, "green", 5)
-#     return products
 
 def calculate_rssi(tags):
     for tag in tags:
@@ -184,13 +147,10 @@ def result_renderer(products, landmarks, sections):
 def animation():
     sections = plot_sections(COUNT)
     landmarks = plot_Active_Landmarks(COUNT, sections)#
-    plot_Landmarks(sections)
+    passive_landmarks = plot_Landmarks(sections)
     flag = True
     i = 5
-    distance_products = []
-    distance_landmarks = []
     products = plot_products(sections)
-    
     reader = Reader([0, 0], 30)
     top_surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     reader.draw(top_surface)
@@ -215,31 +175,26 @@ def animation():
                 screen.blit(top_surface, (0, 0))
         temp_products = []
         temp_landmarks = []
+        temp_passive_landmarks = []
         for product in products:
             if math.dist(product.location, reader.location)<=200:
                 product.distances.append(math.dist(product.location, reader.location))
                 temp_products.append(product)
-                # c_time = datetime.datetime.now()
-                # delta = c_time - start_time
-                # sec = delta.seconds
-                # product.timestamp.append(sec)
-                # product.distances.append(math.dist(product.location, reader.location))
         for landmark in landmarks:
             if math.dist(landmark.location, reader.location)<=200:
                 landmark.distances.append(math.dist(landmark.location, reader.location))
                 temp_landmarks.append(landmark)
-                # c_time = datetime.datetime.now()
-                # delta = c_time - start_time
-                # sec = delta.seconds
-                # landmark.timestamp.append(sec)
-                # landmark.distances.append(math.dist(landmark.location, reader.location))
             else:
-                # c_time = datetime.datetime.now()
-                # delta = c_time - start_time
-                # sec = delta.seconds
-                # landmark.timestamp.append(sec)
                 landmark.distances.append(999999)
                 temp_landmarks.append(landmark)
+        for landmark in passive_landmarks:
+            if math.dist(landmark.location, reader.location)<=200:
+                landmark.distances.append(math.dist(landmark.location, reader.location))
+                temp_passive_landmarks.append(landmark)
+            else:
+                landmark.distances.append(999999)
+                temp_passive_landmarks.append(landmark)
+
         c_time = datetime.datetime.now()
         delta = c_time - start_time
         sec = delta.total_seconds()*1000
@@ -247,9 +202,9 @@ def animation():
             product.timestamp.append(sec)
         for landmark in temp_landmarks:
             landmark.timestamp.append(sec)
+        for landmark in temp_passive_landmarks:
+            landmark.timstamp.append(sec)
 
         pygame.display.flip()
         i+=1
-    return [products, landmarks, sections]
-
-#plot_sections(COUNT)
+    return [products, landmarks, passive_landmarks, sections]
