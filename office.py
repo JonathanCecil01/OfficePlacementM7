@@ -125,7 +125,7 @@ def plot_Landmarks(sections):
 
 def plot_products(sections):
     products = []
-    count = 100
+    count = 1000
     item_no_i = 0
     iterations= int(count/ len(sections))
     for section in sections:

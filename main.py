@@ -2,6 +2,7 @@ from office import *
 from tags import *
 import matplotlib.pyplot as plt
 import csv
+from nn_keras import *
 
 colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 
@@ -103,14 +104,15 @@ def main():
     sections = result[2]
     calculate_rssi(products)
     calculate_rssi(landmarks)
-    for product in products:
-        product.set_max_rssi()
-    for landmark in landmarks:
-        landmark.set_max_rssi()
+    # for product in products:
+    #     product.set_max_rssi()
+    # for landmark in landmarks:
+    #     landmark.set_max_rssi()
+    products = run_model(products, landmarks)
 
     #plot_rssi_time(products, landmarks)
 
-    write_data(sections, landmarks, products)
+    #write_data(sections, landmarks, products)
     # prediction_products = predictions()
     # item_dict = {}
     # for i in range(len(prediction_products)):
