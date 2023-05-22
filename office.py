@@ -33,7 +33,7 @@ class Sections:         #Splitting the office regionm into sections
         self.height = height
         self.location_id = None
         self.products = []
-        self.corners = []
+        self.landmarks = []
         self.colour = None
 
     def draw(self, screen):
@@ -44,10 +44,10 @@ def plot_sections(count):
     step_x= SCREEN_WIDTH/(count/2)
     step_y = SCREEN_HEIGHT/2
     start_x = 125
-    start_y = 50
+    start_y = 125
     sections = []
     for i in range(4):
-        s = Sections(start_x, start_y, 150, 400)
+        s = Sections(start_x, start_y, 100, 250)
         s.draw(screen)
         sections.append(s)
         start_x = start_x + step_x
@@ -55,7 +55,7 @@ def plot_sections(count):
     start_x = 125
     start_y += step_y
     for i in range(4):
-        s = Sections(start_x, start_y, 150, 400)
+        s = Sections(start_x, start_y, 100, 250)
         s.draw(screen)
         sections.append(s)
         start_x = start_x + step_x
@@ -68,19 +68,16 @@ def plot_sections(count):
 def plot_Active_Landmarks(count, sections):
     surface = pygame.Surface((SCREEN_WIDTH,SCREEN_HEIGHT), pygame.SRCALPHA)
     landmarks = []
-    steps_x  = SCREEN_WIDTH/5
-    steps_y  = SCREEN_HEIGHT/2
-    loc1 = [200,250]
-    flag = True
     i =0 
     for section in sections:
          l = ActiveLandMark("L"+str(i), [section.left+int(section.width/2), section.top+int(section.height/2) ], 50)
+         l.color =  section.colour
          landmarks.append(l)
          i+=1
     i = 0
     for landmark in landmarks:
         sections[i].location_id  = landmark.id
-        landmark.draw(surface, sections[i].colour, 10)
+        landmark.draw(surface, landmark.color, 10)
         pygame.display.update()
         i+=1
     screen.blit(surface,  (0, 0))
@@ -88,12 +85,13 @@ def plot_Active_Landmarks(count, sections):
 
 def plot_Landmarks(sections):
     for section in sections:
-        l1 = LandMark(section.location_id + "L0", [section.left, section.top])
-        l2 = LandMark(section.location_id + "L1", [section.left + section.width, section.top])
-        l3 = LandMark(section.location_id + "L2", [section.left, section.top + section.height])
-        l4 = LandMark(section.location_id + "L3", [section.left + section.width, section.top + section.height])
+        l1 = LandMark(section.location_id + "L0", [section.left+int(section.width/2), section.top - int(section.height/3)])
+        l2 = LandMark(section.location_id + "L1", [section.left - int(section.width/3), section.top+int(section.height/2)])
+        l3 = LandMark(section.location_id + "L2", [section.left+int(section.width/2), section.top + section.height + int(section.height/3)])
+        l4 = LandMark(section.location_id + "L3", [section.left + section.width++int(section.width/3), section.top + int(section.height/2)])
         section.corners = [l1, l2, l3, l4]
         for landmark in section.corners:
+            landmark.color = section.colour
             landmark.draw(screen, section.colour, 8)
     passive_landmarks = []
     for section in sections:
@@ -101,16 +99,17 @@ def plot_Landmarks(sections):
             passive_landmarks.append(corner)
     return passive_landmarks
 
-    
+
 def plot_products(sections):
     products = []
-    count = 1000
+    count = 500
     item_no_i = 0
     iterations= int(count/ len(sections))
     for section in sections:
         for i in range(iterations):
             location = [random.randint(section.left, section.left + section.width), random.randint(section.top, section.top + section.height)]
             product  = Product("P"+str(random.randint(0, N)), location, section.location_id, item_no_i)
+            product.color = 'green'#section.colour
             section.products.append(product)
             products.append(product)
             item_no_i+=1
@@ -163,13 +162,13 @@ def animation():
                 break
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_s:
-                    reader.location[1]+=100
+                    reader.location[1]+=38
                 if  event.key == pygame.K_a:
-                    reader.location[0]-=100
+                    reader.location[0]-=38
                 if event.key == pygame.K_d:
-                    reader.location[0]+=100
+                    reader.location[0]+=38
                 if event.key == pygame.K_w:
-                    reader.location[1]-=100
+                    reader.location[1]-=38
                 top_surface.fill((255, 255, 255, 0))
                 reader.draw(top_surface)
                 screen.blit(top_surface, (0, 0))
@@ -177,18 +176,18 @@ def animation():
         temp_landmarks = []
         temp_passive_landmarks = []
         for product in products:
-            if math.dist(product.location, reader.location)<=200:
+            if math.dist(product.location, reader.location)<=100:
                 product.distances.append(math.dist(product.location, reader.location))
                 temp_products.append(product)
         for landmark in landmarks:
-            if math.dist(landmark.location, reader.location)<=200:
+            if math.dist(landmark.location, reader.location)<=100:
                 landmark.distances.append(math.dist(landmark.location, reader.location))
                 temp_landmarks.append(landmark)
             else:
                 landmark.distances.append(999999)
                 temp_landmarks.append(landmark)
         for landmark in passive_landmarks:
-            if math.dist(landmark.location, reader.location)<=200:
+            if math.dist(landmark.location, reader.location)<=100:
                 landmark.distances.append(math.dist(landmark.location, reader.location))
                 temp_passive_landmarks.append(landmark)
             else:
@@ -203,7 +202,7 @@ def animation():
         for landmark in temp_landmarks:
             landmark.timestamp.append(sec)
         for landmark in temp_passive_landmarks:
-            landmark.timstamp.append(sec)
+            landmark.timestamp.append(sec)
 
         pygame.display.flip()
         i+=1

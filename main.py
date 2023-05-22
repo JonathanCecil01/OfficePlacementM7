@@ -32,14 +32,8 @@ def K_Means_Clustering(landmarks, products):
     plot_rssi(products, landmarks)    
 
 
-def plot_rssi_time(products, landmarks):
-    for product in products:
-        x = product.timestamp
-        plt.plot(x, product.rssi, marker = 'o')
-        plt.show()
 
-
-def write_data(sections, landmarks, products):
+def write_data(passive_landmarks, landmarks, products):
     active_landmark_list = []
     for landmark in landmarks:
         for i in range(0, len(landmark.timestamp)):
@@ -51,23 +45,22 @@ def write_data(sections, landmarks, products):
             product_list.append([product.item_no, product.id, product.rssi[i], product.timestamp[i], product.actual_landmark_id])
             #product_list.append([product.id, product.max_rssi, product.max_time,product.actual_landmark_id])
 
-
-    active_landmark_predict_list = []
-    for landmark in landmarks:
-        for i in range(0, len(landmark.timestamp)):
-            active_landmark_predict_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
-            #active_landmark_list.append([landmark.id, landmark.max_rssi, landmark.max_time])
-    product_predict_list = []
-    for product in products:
-        for i  in range(len(product.rssi)):
-            #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
-            product_predict_list.append([product.id, product.max_rssi, product.max_time, product.item_no])
-    
     landmark_list = []
-    for section in sections:
-        for landmark in section.corners:
-            for i in range(0, len(landmark.timestamp)):
-                landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+    for landmark in passive_landmarks:
+        for i in range(0, len(landmark.timestamp)):
+            landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+
+
+    # active_landmark_predict_list = []
+    # for landmark in landmarks:
+    #     for i in range(0, len(landmark.timestamp)):
+    #         active_landmark_predict_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+    #         #active_landmark_list.append([landmark.id, landmark.max_rssi, landmark.max_time])
+    # product_predict_list = []
+    # for product in products:
+    #     for i  in range(len(product.rssi)):
+    #         #product_list.append([product.id, product.max_rssi[i], product.max_time[i], product.actual_landmark_id])
+    #         product_predict_list.append([product.id, product.max_rssi, product.max_time, product.item_no])
 
     with open('Products.csv', 'w', newline='') as file:
         writer = csv.writer(file)
@@ -76,12 +69,16 @@ def write_data(sections, landmarks, products):
         writer = csv.writer(file)
         writer.writerows(active_landmark_list)
 
-    with open('Products_predict.csv', 'w', newline='') as file:
+    with open('Landmarks.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerows(product_predict_list)
-    with open('Active_Landmarks_predict.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerows(active_landmark_predict_list)
+        writer.writerows(landmark_list)
+
+    # with open('Products_predict.csv', 'w', newline='') as file:
+    #     writer = csv.writer(file)
+    #     writer.writerows(product_predict_list)
+    # with open('Active_Landmarks_predict.csv', 'w', newline='') as file:
+    #     writer = csv.writer(file)
+    #     writer.writerows(active_landmark_predict_list)
     # with open('Passive_Landmarks.csv', 'w', newline='') as file:
     #     writer = csv.writer(file)
     #     writer.writerows(landmark_list)
@@ -101,18 +98,21 @@ def main():
     result = animation()
     products = result[0]
     landmarks = result[1]
-    sections = result[2]
+    passive_landmarks = result[2]
+    sections = result[3]
+
+    color_dict = {}
+    for landmark in landmarks:
+        color_dict[landmark.id] = landmark.color
+
+    print(color_dict)
     calculate_rssi(products)
     calculate_rssi(landmarks)
-    # for product in products:
-    #     product.set_max_rssi()
-    # for landmark in landmarks:
-    #     landmark.set_max_rssi()
-    products = run_model(products, landmarks)
+    calculate_rssi(passive_landmarks)
+    write_data(passive_landmarks, landmarks, products)
+    products = run_model(products, passive_landmarks, landmarks, color_dict)
 
-    #plot_rssi_time(products, landmarks)
-
-    #write_data(sections, landmarks, products)
+    #plot_rssi_time(products, landmarks, passive_landmarks)
     # prediction_products = predictions()
     # item_dict = {}
     # for i in range(len(prediction_products)):
