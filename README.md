@@ -35,3 +35,6 @@ In Case there is a need to generate and train the model once again:
     7.Save the trained model and re run the entire simulation with the new model.
 
 Note: Run wih GPU for training since huge datasets will ne generated.
+![Unsorted](https://github.com/JonathanCecil01/OfficePlacementM7/assets/82434403/ec4bde65-011f-421a-af83-27a4dcb81d74)
+![Traversed_path](https://github.com/JonathanCecil01/OfficePlacementM7/assets/82434403/e4fda42d-5b3c-40a7-8ec3-ad2c92a8243e)
+![Sorted_products](https://github.com/JonathanCecil01/OfficePlacementM7/assets/82434403/69648cf8-6e09-4855-b4a1-3a86194250ef)
