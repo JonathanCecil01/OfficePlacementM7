@@ -18,7 +18,7 @@ def K_Means_Clustering(landmarks, products): #K means clustering w.r.t max rssi 
         index_min = distances.index(min_distance)
         product.color = landmarks[index_min].color
         product.predicted_landamrk_id = landmarks[index_min].id
-    plot_rssi(products, landmarks)    
+       
 
 
 
