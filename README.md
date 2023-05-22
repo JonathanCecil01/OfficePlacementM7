@@ -24,7 +24,8 @@ Operation steps of the Program:
 Note : Make sure to run the program in a GPU environment for faster performance
 
 
-In Case there is a need to generate and train the model once again: 
+In Case there is a need to generate and train the model once again:
+
     1. Run and generate the data once again.
     2. Check for the Landmark.csv, Active_Landmark.csv, Products.csv files.
     3. Open the NN_training_testing ipy notebook.
@@ -33,3 +34,4 @@ In Case there is a need to generate and train the model once again:
     6.Change the batcch size and epoch count according to the convenience.
     7.Save the trained model and re run the entire simulation with the new model.
 
+Note: Run wih GPU for training since huge datasets will ne generated.
