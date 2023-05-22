@@ -29,8 +29,6 @@ def read_data():
     return [products, landmarks]
 
 
-# fig = plt.figure()
-# ax = plt.axes(projection='3d')
 
 data = read_data()
 products = data[0]
@@ -48,6 +46,4 @@ fig = plt.figure()
 ax = plt.axes(projection='3d')
 ax.scatter3D(xdata, ydata, zdata, c=zdata, cmap='Greens');
 ax.view_init(45, 0);
-# for landmark in landmarks:
-#     ax.plot3d(int(landmark[0][1])*int(landmark[0][3]), landmark[1], landmark[2], color = 'black')
 plt.show()
