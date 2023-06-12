@@ -50,6 +50,7 @@ def write_data(passive_landmarks, landmarks, products): #writing data for data g
 
 
 def main():
+    #checking out the branch in github
     result = animation() #draw animation for data generation
     products = result[0]    
     landmarks = result[1]

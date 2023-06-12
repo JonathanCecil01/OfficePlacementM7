@@ -50,7 +50,11 @@ class Product(Tag):     #the class for the Product tag
         self.max_rssi = max(self.rssi)
         index = self.rssi.index(self.max_rssi)
         self.max_time = self.timestamp[index]
-
+        
+    def set_min_rssi(self): #sets the minimum rssi value and the corresponding time stamp
+        self.min_rssi = min(self.rssi)
+        return 
+    
     def calc_rssi(self):    #calculates the rssi value with distance
         for i in range(0, len(self.timestamp)):
             self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log10(self.distances[i])) # A - 10*n*log(d) where n is path loss exponenet
