@@ -199,13 +199,13 @@ def animation():        #initial animation with reader for data generation.
         sec = delta.total_seconds()*1000 #difference in time stamp from start to now in miliseconds
         for product in temp_products:   #appending the time stamp
             product.start_timestamp = start_time
-            product.timestamp.append(sec)
+            product.timestamp.append(c_time)
         for landmark in temp_landmarks:
             landmark.start_timestamp = start_time
-            landmark.timestamp.append(sec)
+            landmark.timestamp.append(c_time)
         for landmark in temp_passive_landmarks:
             landmark.start_timestamp = start_time
-            landmark.timestamp.append(sec)
+            landmark.timestamp.append(c_time)
 
         pygame.display.flip()
         i+=1
