@@ -26,16 +26,16 @@ def write_data(passive_landmarks, landmarks, products): #writing data for data g
     active_landmark_list = []
     for landmark in landmarks:
         for i in range(0, len(landmark.timestamp)):
-            active_landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+            active_landmark_list.append([landmark.id,0,  landmark.rssi[i],landmark.start_timestamp, landmark.timestamp[i]])
     product_list = []
     for product in products:
         for i  in range(len(product.rssi)):
-            product_list.append([product.item_no, product.id, product.rssi[i], product.timestamp[i], product.actual_landmark_id])
+            product_list.append([0, product.id, product.item_no, product.rssi[i], product.start_timestamp, product.timestamp[i], product.actual_landmark_id])
 
     landmark_list = []
     for landmark in passive_landmarks:
         for i in range(0, len(landmark.timestamp)):
-            landmark_list.append([landmark.id, landmark.rssi[i], landmark.timestamp[i]])
+            landmark_list.append([landmark.id,0, landmark.rssi[i], landmark.start_timestamp, landmark.timestamp[i]])
             
     with open('Products.csv', 'w', newline='') as file:
         writer = csv.writer(file)

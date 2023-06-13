@@ -23,6 +23,7 @@ class Reader:       #The reader class to emulate the RFID Reader
 class Tag:          #the super class Tag for both the prduct and location tags
     def __init__(self, location):
         self.location = location
+        self.start_timestamp = 0
     def draw(self, screen, color, radius):
         pygame.draw.circle(screen, color, self.location, radius) #general draw function
         pygame.display.update()

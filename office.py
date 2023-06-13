@@ -183,25 +183,28 @@ def animation():        #initial animation with reader for data generation.
             if math.dist(landmark.location, reader.location)<=100:
                 landmark.distances.append(math.dist(landmark.location, reader.location)) #appending the distance
                 temp_landmarks.append(landmark)
-            else:
-                landmark.distances.append(999999) #system max for unreadable landmarks
-                temp_landmarks.append(landmark)
+            #else:
+                #landmark.distances.append(999999) #system max for unreadable landmarks
+                #temp_landmarks.append(landmark)
         for landmark in passive_landmarks: #data generation for the passive landmarks 
             if math.dist(landmark.location, reader.location)<=100: #an apprx range of 2m for the reader 
                 landmark.distances.append(math.dist(landmark.location, reader.location))
                 temp_passive_landmarks.append(landmark)
-            else:
-                landmark.distances.append(999999)
-                temp_passive_landmarks.append(landmark)
+            #else:
+                #landmark.distances.append(999999)
+                #temp_passive_landmarks.append(landmark)
 
         c_time = datetime.datetime.now() #calculating current time
         delta = c_time - start_time
         sec = delta.total_seconds()*1000 #difference in time stamp from start to now in miliseconds
         for product in temp_products:   #appending the time stamp
+            product.start_timestamp = start_time
             product.timestamp.append(sec)
         for landmark in temp_landmarks:
+            landmark.start_timestamp = start_time
             landmark.timestamp.append(sec)
         for landmark in temp_passive_landmarks:
+            landmark.start_timestamp = start_time
             landmark.timestamp.append(sec)
 
         pygame.display.flip()
