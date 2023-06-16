@@ -12,18 +12,24 @@ colors = ["red", "blue", "brown", "black", "purple", "yellow", "pink", "orange"]
 
 
 class Reader:       #The reader class to emulate the RFID Reader
-    def __init__(self, location, radius): #radius defines the range of the reader
+    def __init__(self, location, radius, session = 0, rxpower = 30, queue = 4): #radius defines the range of the reader
         self.location = location
         self.radius = radius
+        self.session = session
+        self.rxpower = rxpower
+        self.queue = queue
+
+
     
     def draw(self, surface):
         pygame.draw.circle(surface , (30,224,33,20), self.location, 100) #drawing the radius of the reader
         pygame.draw.circle(surface, "black", self.location, 5) #drawing the centre of the reader
 
 class Tag:          #the super class Tag for both the prduct and location tags
-    def __init__(self, location):
+    def __init__(self, location, item_no):
         self.location = location
         self.start_timestamp = 0
+        self.item_no = item_no
     def draw(self, screen, color, radius):
         pygame.draw.circle(screen, color, self.location, radius) #general draw function
         pygame.display.update()
@@ -32,7 +38,7 @@ class Tag:          #the super class Tag for both the prduct and location tags
 
 class Product(Tag):     #the class for the Product tag
     def __init__(self, id, location, landmark_id, item_no):
-        Tag.__init__(self, location)    #deriving from the Tag class
+        Tag.__init__(self, location, item_no)    #deriving from the Tag class
         self.id = id        #id of the product
         self.rssi_A = -45   #rssi value of the tag at 1m distance from the reader
         self.timestamp = [] #set of timestamps for the value sread by the tag
@@ -44,18 +50,14 @@ class Product(Tag):     #the class for the Product tag
         self.actual_landmark_id = landmark_id #actual id used for testing the NN's accuracy
         self.predicted_landmark_ids = []    #set of predicted landmarks for each timestamp 
         self.predicted_landmark_id = None   #finally predicted and selected landmark id 
-        self.item_no = item_no  #unique identifier for the product
+        #self.item_no = item_no  #unique identifier for the product
         self.set_color()
 
     def set_max_rssi(self): #sets the maximum rssi value and the corresponding time stamp
         self.max_rssi = max(self.rssi)
         index = self.rssi.index(self.max_rssi)
         self.max_time = self.timestamp[index]
-        
-    def set_min_rssi(self): #sets the minimum rssi value and the corresponding time stamp
-        self.min_rssi = min(self.rssi)
-        return 
-    
+
     def calc_rssi(self):    #calculates the rssi value with distance
         for i in range(0, len(self.timestamp)):
             self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log10(self.distances[i])) # A - 10*n*log(d) where n is path loss exponenet
@@ -67,8 +69,8 @@ class Product(Tag):     #the class for the Product tag
 
 
 class LandMark(Tag):    #class for LandMark Tag 
-    def __init__(self, id, location):
-        Tag.__init__(self, location) #deriing property from the Tag class
+    def __init__(self, id, location, item_no):
+        Tag.__init__(self, location, item_no) #deriing property from the Tag class
         self.id = id    #unique id for the location
         self.timestamp = [] #set of timestamps where the location tag is read
         self.rssi = []  #set of corresponding rssi values for the timestamp
@@ -91,8 +93,8 @@ class LandMark(Tag):    #class for LandMark Tag
                 self.rssi.append(self.rssi_A - 10*PATH_LOSS_EXPONENT*math.log10(self.distances[i]))
 
 class ActiveLandMark(LandMark):     #active landmark tag which is stronger 
-    def __init__(self, id, location, range):
-        LandMark.__init__(self, id, location) #derives from the LandMark tag class
+    def __init__(self, id, location, range, item_no):
+        LandMark.__init__(self, id, location, item_no) #derives from the LandMark tag class
         self.rssi_A = -30
         self.range = range
 
