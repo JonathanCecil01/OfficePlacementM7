@@ -26,31 +26,33 @@ def write_data(passive_landmarks, landmarks, products, reader): #writing data fo
     active_landmark_list = []
     for landmark in landmarks:
         for i in range(0, len(landmark.timestamp)):
-            active_landmark_list.append([landmark.id,0, landmark.rssi[i], landmark.max_rssi, landmark.rssi_A, 1,reader.queue, reader.rxpower, reader.session,landmark.start_timestamp, landmark.timestamp[i], True])
+            active_landmark_list.append([landmark.id, 0, landmark.item_no, landmark.rssi[i], landmark.max_rssi, landmark.rssi_A, 1,reader.queue, reader.rxpower, reader.session,landmark.start_timestamp, landmark.timestamp[i], True, 0])
     product_list = []
     for product in products:
         for i  in range(len(product.rssi)):
-            product_list.append([0, product.item_no, product.id, product.rssi[i], product.max_rssi, product.rssi_A, 1,reader.queue, reader.rxpower, reader.session, product.start_timestamp, product.timestamp[i], product.actual_landmark_id])
+            product_list.append([0, product.id, product.item_no, product.rssi[i], product.max_rssi, product.rssi_A, 1,reader.queue, reader.rxpower, reader.session, product.start_timestamp, product.timestamp[i], False, product.actual_landmark_id])
 
     landmark_list = []
     for landmark in passive_landmarks:
         for i in range(0, len(landmark.timestamp)):
-            landmark_list.append([landmark.id,0, landmark.rssi[i], landmark.max_rssi, landmark.rssi_A, 1,reader.queue, reader.rxpower, reader.session,landmark.start_timestamp, landmark.timestamp[i], True])
+            landmark_list.append([landmark.id, 0,  landmark.item_no, landmark.rssi[i], landmark.max_rssi, landmark.rssi_A, 1,reader.queue, reader.rxpower, reader.session,landmark.start_timestamp, landmark.timestamp[i], True, 0])
             
-    with open('Products.csv', 'w', newline='') as file:
+    with open('rawData.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp', 'expectedLocation'])
+        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp','isLocation', 'expectedLocation'])
         writer.writerows(product_list)
-    
-    with open('Active_Landmarks.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp', 'expectedLocation'])
         writer.writerows(active_landmark_list)
-    
-    with open('Landmarks.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp', 'expectedLocation'])
         writer.writerows(landmark_list)
+    
+#    with open('Active_Landmarks.csv', 'w', newline='') as file:
+#        writer = csv.writer(file)
+#        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp', 'expectedLocation'])
+#        writer.writerows(active_landmark_list)
+   
+#    with open('Landmarks.csv', 'w', newline='') as file:
+#        writer = csv.writer(file)
+#        writer.writerow(["locationId","productId", 'EPC', 'rssi', 'minrssi', 'maxrssi', 'count', 'queue', 'rxpower','session', 'starttimestamp', 'endtimestamp', 'expectedLocation'])
+#        writer.writerows(landmark_list)
     
 
 def main():
