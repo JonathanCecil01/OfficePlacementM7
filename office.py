@@ -70,7 +70,7 @@ def plot_Active_Landmarks(count, sections): #plotting the active landmarks
     landmarks = []
     i =0 
     for section in sections:
-         l = ActiveLandMark("L"+str(i), [section.left+int(section.width/2), section.top+int(section.height/2) ], 50) #Initializing the active landmarks
+         l = ActiveLandMark("L"+str(i), [section.left+int(section.width/2), section.top+int(section.height/2) ], 50, "0000AL"+str(i)) #Initializing the active landmarks
          l.color =  section.colour
          landmarks.append(l)
          i+=1
@@ -85,10 +85,10 @@ def plot_Active_Landmarks(count, sections): #plotting the active landmarks
 
 def plot_Landmarks(sections):   #plotting the passive landmarks in every sector
     for section in sections:    # 4 passive lanmarks around each sector
-        l1 = LandMark(section.location_id + "L0", [section.left+int(section.width/2), section.top - int(section.height/3)])
-        l2 = LandMark(section.location_id + "L1", [section.left - int(section.width/3), section.top+int(section.height/2)])
-        l3 = LandMark(section.location_id + "L2", [section.left+int(section.width/2), section.top + section.height + int(section.height/3)])
-        l4 = LandMark(section.location_id + "L3", [section.left + section.width++int(section.width/3), section.top + int(section.height/2)])
+        l1 = LandMark(section.location_id + "L0", [section.left+int(section.width/2), section.top - int(section.height/3)], "0000B"+section.location_id+"L0")
+        l2 = LandMark(section.location_id + "L1", [section.left - int(section.width/3), section.top+int(section.height/2)],"0000B"+section.location_id+"L1")
+        l3 = LandMark(section.location_id + "L2", [section.left+int(section.width/2), section.top + section.height + int(section.height/3)],"0000B"+section.location_id+"L2")
+        l4 = LandMark(section.location_id + "L3", [section.left + section.width++int(section.width/3), section.top + int(section.height/2)],"0000B"+section.location_id+"L3")
         section.corners = [l1, l2, l3, l4]
         for landmark in section.corners:
             landmark.color = section.colour
@@ -108,7 +108,7 @@ def plot_products(sections):    #plotting products around the given section
     for section in sections:
         for i in range(iterations):
             location = [random.randint(section.left, section.left + section.width), random.randint(section.top, section.top + section.height)]
-            product  = Product("P"+str(random.randint(0, N)), location, section.location_id, item_no_i)
+            product  = Product("P"+str(random.randint(0, N)), location, section.location_id, "303A"+str(item_no_i))
             product.color = 'green'#section.colour
             section.products.append(product)
             products.append(product)
@@ -183,27 +183,30 @@ def animation():        #initial animation with reader for data generation.
             if math.dist(landmark.location, reader.location)<=100:
                 landmark.distances.append(math.dist(landmark.location, reader.location)) #appending the distance
                 temp_landmarks.append(landmark)
-            else:
-                landmark.distances.append(999999) #system max for unreadable landmarks
-                temp_landmarks.append(landmark)
+            # else:
+            #     landmark.distances.append(999999) #system max for unreadable landmarks
+            #     temp_landmarks.append(landmark)
         for landmark in passive_landmarks: #data generation for the passive landmarks 
             if math.dist(landmark.location, reader.location)<=100: #an apprx range of 2m for the reader 
                 landmark.distances.append(math.dist(landmark.location, reader.location))
                 temp_passive_landmarks.append(landmark)
-            else:
-                landmark.distances.append(999999)
-                temp_passive_landmarks.append(landmark)
+            # else:
+            #     landmark.distances.append(999999)
+            #     temp_passive_landmarks.append(landmark)
 
         c_time = datetime.datetime.now() #calculating current time
         delta = c_time - start_time
         sec = delta.total_seconds()*1000 #difference in time stamp from start to now in miliseconds
         for product in temp_products:   #appending the time stamp
-            product.timestamp.append(sec)
+            product.start_timestamp = start_time
+            product.timestamp.append(c_time)
         for landmark in temp_landmarks:
-            landmark.timestamp.append(sec)
+            landmark.start_timestamp = start_time
+            landmark.timestamp.append(c_time)
         for landmark in temp_passive_landmarks:
-            landmark.timestamp.append(sec)
+            landmark.start_timestamp = start_time
+            landmark.timestamp.append(c_time)
 
         pygame.display.flip()
         i+=1
-    return [products, landmarks, passive_landmarks, sections]   #returning all the plotted values
+    return [products, landmarks, passive_landmarks, sections, reader]   #returning all the plotted values
