@@ -15,7 +15,7 @@ from PyPDF2 import PdfReader
 import pandas as pd
 import json
 
-#!python -m spacy download en_core_web_lg #load the en_core_web_lg
+#!python -m spacy download en_core_web_lg #load the en_core_web_md
 
 import spacy
 from spacy.tokens import DocBin
@@ -166,7 +166,7 @@ def create_json_file(context_sents, filename):
       f.write(json_string)
 
 
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('en_core_web_md')
 db = DocBin() # create a DocBin object
 nlp_ner= spacy.load("ContextSearching/model-best")
-create_json_file(["DATE", "General Partner"], "ContextSearching/SampleSearch.pdf")
+create_json_file(["Fund Name", "Start Date", "Carried Interest", "General Partner Name", "Initial Closing Date", "Final Closing Date", "Management Company", "Investment Limitations", "Purpose", "Partnership Term", "Main Fund", "Transaction Fees", "Makeup Contribution"], "ContextSearching/SampleContent2LPA.pdf")

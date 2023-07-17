@@ -1,0 +1,418 @@
+{
+  "what is the Fund Name?": [
+    {
+      "answer": "Bridge Investments",
+      "context": "7.5 Bridge Investments. The Fund may\nprovide interim financing to, or make investments that are intended to be of a temporary nature in Securities\nof,",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.3926081955432892
+    },
+    {
+      "answer": "Escrow\nAccount",
+      "context": "rty commercial bank for the account of the applicable Partner (the \u201cEscrow\nAccount\u201d), until such time as such applicable Partner has received aggregat",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.2596943974494934
+    },
+    {
+      "answer": "Fund Manager or\nthe General Partner",
+      "context": "7.2.2 [Subject to Section 7.2.1, the Fund Manager or\nthe General Partner may establish a credit facility for the Fund with one or more financial insti",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.11168929189443588
+    },
+    {
+      "answer": "[Ohio",
+      "context": "re to:\nAct and the regulations made thereunder. The General Partner is a [Ohio  and is authorized to operate as such\nunder the [ ]. The Fund Manager i",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.10910440981388092
+    },
+    {
+      "answer": "Regulated Partner",
+      "context": "und shall pay the purchase price with respect to any Interest of a Regulated Partner that is being\nredeemed pursuant to Section 8.6.1 to such Regulate",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.06877195835113525
+    }
+  ],
+  "Start Date?": [
+    {
+      "answer": "Initial Investment Date",
+      "context": " payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, July 1 and October 1 therea",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.26838958263397217
+    },
+    {
+      "answer": "[three] months from the date of the submission by the Applicant of\nthis Agreement to the General Partner or its representatives",
+      "context": "ate that is [three] months from the date of the submission by the Applicant of\nthis Agreement to the General Partner or its representatives, the Appli",
+      "filename": "SampleSearch.pdf",
+      "score": 0.09560072422027588
+    },
+    {
+      "answer": "Within 120 days of the\nend of each fiscal year",
+      "context": "15.2.4 Within 120 days of the\nend of each fiscal year, the chief financial officer or comparable officer of the General Partner or the Fund\nManager sh",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.05456741526722908
+    },
+    {
+      "answer": "July 2020",
+      "context": "\u201cDue Date\u201d has themeaning set forth in\nSection 6.2.1.5 Last Updated: July 2020\n(a)fraud, bad faith or willful misconduct;\n(b)gross negligence or reckl",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.008512808009982109
+    },
+    {
+      "answer": "sixty (60) days following the end of each \u201cannual valuation period\u201d (as defined in the Plan Asset\nRegulation) of the Fund succeeding the date of the Fund\u2019s first long-term Portfolio Investment",
+      "context": "sixty (60) days following the end of each \u201cannual valuation period\u201d (as defined in the Plan Asset\nRegulation) of the Fund succeeding the date of the Fund\u2019s first long-term Portfolio Investment",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.00556553341448307
+    }
+  ],
+  "Which Section has Carried Interest?": [
+    {
+      "answer": "14.3.3 and 14.3.4",
+      "context": "distributions received by the General\nPartner pursuant to Sections 14.3.3 and 14.3.4 hereof and any distributions received by the General Partner\nwith",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.2452668845653534
+    },
+    {
+      "answer": "Revenue Procedure",
+      "context": " Fund to elect to have the \u201cSafe\nHarbor\u201d described in the proposed Revenue Procedure set forth in Internal Revenue Service Notice 2005-43\n(the \u201cIRS No",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.04565425589680672
+    },
+    {
+      "answer": "14.7.3",
+      "context": "ach partner of the General Partner (which, for purposes\nof this Section 14.7.3, shall include each indirect owner of any such partner) who is entitled",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.0353531688451767
+    },
+    {
+      "answer": "maintenance of Capital Accounts",
+      "context": " and the other provisions of this Agreement relating to the\nmaintenance of Capital Accounts are intended to comply with Section 704(b) of the Code and",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.03463462367653847
+    },
+    {
+      "answer": "Section 18.3.1",
+      "context": "\n18.3.2 The General Partner or such other liquidator referred to in Section 18.3.1 shall apply or distribute the\nproceeds of the liquidation referred ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.03137963265180588
+    }
+  ],
+  "Who is the General Partner?": [
+    {
+      "answer": "any former General Partner",
+      "context": "ence to the \u201cGeneral Partner\u201d shall\nbe interpreted to include any former General Partner.\n14.8.1 There shall be established on the books and records o",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.6480252742767334
+    },
+    {
+      "answer": "Invent M7 Capital Partners",
+      "context": "\u201cGeneral Partner\u201d means Invent M7 Capital Partners or any replacement general partner appointed in\naccordance withArticle 10 (Removal of the General P",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.6438311338424683
+    },
+    {
+      "answer": "General\nPartner",
+      "context": " the Commitment Period, the General Partner shall cause each of the General\nPartner, Fund Manager, and the Key Persons to devote substantially all of ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.6215567588806152
+    },
+    {
+      "answer": "Fund Manager",
+      "context": "The General Partner and the Fund Manager each shall manage and control the Fund\nand its business and affairs reasonably and in good faith and with the",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.5399731397628784
+    },
+    {
+      "answer": "partnership representative",
+      "context": "y: 15.3.3.1 [The General Partner is hereby designated as the \u201cpartnership representative\u201d\nwithin the meaning of Section 6223(a) of the Code (the \u201cPart",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.4660705327987671
+    }
+  ],
+  "When is the Initial Closing Date?": [
+    {
+      "answer": "tenth] anniversary",
+      "context": "is sooner dissolved in accordance with this Agreement, until the [tenth] anniversary of the Initial\nClosing Date, provided that, unless the Fund is so",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.5593953132629395
+    },
+    {
+      "answer": "December 31",
+      "context": " ninety (90) days after the end of each Fiscal Year (commencing after\nDecember 31 of the Fiscal Year of the Initial Closing Date), prepare and send, o",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.5532452464103699
+    },
+    {
+      "answer": "13",
+      "context": "13 Initial Closing Date may be appropriate for some funds.\n8.4.1 Each quarterly installment of the Management Fee with respect to each Limited Partner",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.5208480358123779
+    },
+    {
+      "answer": "no earlier than the date on which the\naggregate Commitments equal or exceed [ ].",
+      "context": " of this Agreement, which shall be no earlier than the date on which the\naggregate Commitments equal or exceed [ ]. \u201cInitial Investment Date\u201d means th",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.43693214654922485
+    },
+    {
+      "answer": "12 months",
+      "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.29433074593544006
+    }
+  ],
+  "When is the Final Closing Date?": [
+    {
+      "answer": "12 months from the Initial Closing Date",
+      "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.6657681465148926
+    },
+    {
+      "answer": "July 2020",
+      "context": "If so, appropriate adjustments should be made.23 Last Updated: July 2020\n5.1.2.2 the admission of the Subsequent Closing Partner shall not have result",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.5536168813705444
+    },
+    {
+      "answer": "forty-five\n(45)] days",
+      "context": " such reallocations shall be made by the General Partner within [forty-five\n(45)] days after the Final Closing Date. 2.11 Voting. Unless otherwise spe",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.39763757586479187
+    },
+    {
+      "answer": "twelve (12) months",
+      "context": " fully liquidate the Fund on commercially\nreasonable terms within twelve (12) months from the date of termination, provided that the term for such\nliq",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.29293063282966614
+    },
+    {
+      "answer": "December 31",
+      "context": " ninety (90) days after the end of each Fiscal\nYear (commencing after December 31 of the Fiscal Year of the Initial Closing Date), a financial report ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.09934328496456146
+    }
+  ],
+  "Which is the Management Company?": [
+    {
+      "answer": "Invent M7 Capital Partners",
+      "context": "8.3.1 The Fund shall pay the Invent M7 Capital Partners an annual management fee with respect to each\nLimited Partner (\u201cManagement Fee\u201d) calculated wi",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.3884885907173157
+    },
+    {
+      "answer": "the Fund Manager",
+      "context": "The General Partner and the Fund Manager each shall manage and control the Fund\nand its business and affairs reasonably and in good faith and with the",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.3695302903652191
+    },
+    {
+      "answer": "LIMITED PARTNERS",
+      "context": "MANAGEMENT; LIMITED PARTNERS\n500, 22 Last Updated: July 2020\n4.3.1 No Limited Partner shall withdraw, cancel or revoke any part of its Commitment, exc",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.23836125433444977
+    },
+    {
+      "answer": "Portfolio Company",
+      "context": "ntain terms that are no less\nfavorable to the Fund or the relevant Portfolio Company than could be obtained in arm\u2019s-length negotiations\nwith unrelate",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.18967346847057343
+    },
+    {
+      "answer": "General Partner",
+      "context": "The General Partner [and [insert name of administrator] (the \"Administrator\" (as at the date of this\ndocument))] are required to comply with anti-mone",
+      "filename": "SampleSearch.pdf",
+      "score": 0.0707024484872818
+    }
+  ],
+  "What are the Investment Limitations?": [
+    {
+      "answer": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "context": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.3881591856479645
+    },
+    {
+      "answer": "THE INTERESTS MAY BE ACQUIRED FOR INVESTMENT ONLY",
+      "context": "THE INTERESTS MAY BE ACQUIRED FOR INVESTMENT ONLY, AND\nNEITHER THE INTERESTS NOR ANY PART THEREOF MAY BE OFFERED FOR SALE,\nPLEDGED, HYPOTHECATED, SOLD",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.1943834125995636
+    },
+    {
+      "answer": "Investment\nRestrictions",
+      "context": "ll cases in accordance with the Investment Policy, Section 7.1 (Investment\nRestrictions) and the other provisions of this Agreement.16 Last Updated: J",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.17154744267463684
+    },
+    {
+      "answer": "If any proposed Portfolio Investment with respect to which there has been a Drawdown is not\nconsummated or if the amount of funds drawn down for any reason exceeds the amount necessary",
+      "context": "If any proposed Portfolio Investment with respect to which there has been a Drawdown is not\nconsummated or if the amount of funds drawn down for any reason exceeds the amount necessary",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.16204673051834106
+    },
+    {
+      "answer": "subject to the limitations and the\nrestrictions",
+      "context": "by implication the generality of the foregoing, but subject to the limitations and the\nrestrictions set forth herein, the General Partner shall have a",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.14090892672538757
+    }
+  ],
+  "Which sections has the Purpose?": [
+    {
+      "answer": "Act and the regulations made thereunder",
+      "context": " be [ ].\n2.2 Purposes. The purposes of the Fund are to:\nAct and the regulations made thereunder. The General Partner is a [Ohio  and is authorized to ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.6412284970283508
+    },
+    {
+      "answer": "Section 20.5",
+      "context": "This Section 20.5 (Standard of Care) supplements, and\ndoes not replace, the fiduciary duties applicable to the General Partner or the Fund Manager, as",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.23993873596191406
+    },
+    {
+      "answer": "1.704-2(g)(1) and 1.704-2(i)(5)",
+      "context": "o restore pursuant to\nthe penultimate sentences of Sections 1.704-2(g)(1) and 1.704-2(i)(5) of the Regulations, each such Partner\nshall be specially a",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.22870638966560364
+    },
+    {
+      "answer": "Maintenance of Books and Records",
+      "context": " be\nwithout prejudice to any other rights or remedies available to the Fund under this Agreement or otherwise.\n15.1 Maintenance of Books and Records. ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.19967594742774963
+    },
+    {
+      "answer": "convenience of reference",
+      "context": "he sections and subsections of this Agreement are inserted for\nconvenience of reference only and shall not be deemed to constitute a part hereof or af",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.18742290139198303
+    }
+  ],
+  "How long is the Partnership Term?": [
+    {
+      "answer": "five (5)] Business Days",
+      "context": "If such failure continues for [five (5)] Business Days\nafter receipt by such Limited Partner of the Default Notice, then such Partner shall be designa",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.37138110399246216
+    },
+    {
+      "answer": "sixty (60) days",
+      "context": "The\nGeneral Partner shall give at least sixty (60) days\u2019 notice of the time and place of a General Meeting to each\nLimited Partner, which notice shall",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.2616473436355591
+    },
+    {
+      "answer": "ten (10) Business Days",
+      "context": "Agreement executed by such Limited Partner, in each case\nwithin ten (10) Business Days of such signing.\n19.5.2 The power of attorney granted to the Ge",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.19172213971614838
+    },
+    {
+      "answer": "20.7.5",
+      "context": "20.7.5 The General Partner shall cause Schedule 1 (Partner Commitments) at all times to containthe name,\nCommitment and accurate contact details of ea",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.1736392080783844
+    },
+    {
+      "answer": "2.5",
+      "context": "2.5 The Applicant, the Fund and the General Partner hereby agree that the General Partner's acceptance of\nall or any part of the commitment for which ",
+      "filename": "SampleSearch.pdf",
+      "score": 0.15230198204517365
+    }
+  ],
+  "How much is the Main Fund?": [
+    {
+      "answer": "$500,000,000",
+      "context": "l commitments to the Fund and\nall Parallel Vehicles shall not exceed $500,000,000. 4.2 General Partner Commitment. On the Initial\nClosing Date, the Ge",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.08014634251594543
+    },
+    {
+      "answer": "7.4 Investments",
+      "context": "or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period. ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.08004346489906311
+    },
+    {
+      "answer": "capital",
+      "context": "ocated among, the Fund and such Alternative\nVehicle in proportion to the capital committed by or proposed to be committed by each to such investment.\n",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.010463463142514229
+    },
+    {
+      "answer": "2.5.1.10",
+      "context": "ry, registration and other professional services provided to the Fund;\n2.5.1.10 reasonable premiums for liability insurance to protect the Fund and Co",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.0074544986709952354
+    },
+    {
+      "answer": "General Partner Expenses",
+      "context": "nd properly incurred costs and\nexpenses of the Fund other than General Partner Expenses (in each case, to the extent not reimbursed by a\nPortfolio Com",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.006878367625176907
+    }
+  ],
+  "How Much is the Transaction Fees?": [
+    {
+      "answer": "quarterly installments",
+      "context": "The Management\nFee shall be payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.4307188391685486
+    },
+    {
+      "answer": "zero",
+      "context": "ursuant to this sentence) because the Management Fee has been reduced to zero, the\nexcess shall be carried over to the next succeeding Payment Date (a",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.07445839047431946
+    },
+    {
+      "answer": "annual management fee",
+      "context": "8.3.1 The Fund shall pay the Invent M7 Capital Partners an annual management fee with respect to each\nLimited Partner (\u201cManagement Fee\u201d) calculated wi",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.030318068340420723
+    },
+    {
+      "answer": "2.5.5",
+      "context": "expenses or the costs of private air\ntravel); 18 Last Updated: July 2020\n2.5.5 The General Partner confirms that it will not charge to the Fund any ex",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.013713477179408073
+    },
+    {
+      "answer": "2.6.5",
+      "context": "\ntaxes imposed by reason of the Management Fee paid to the Fund Manager;\n2.6.5 fees and expenses of the Fund\u2019s and General Partner\u2019s registered agent ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.009840317070484161
+    }
+  ],
+  "How much is the Makeup Contribution?": [
+    {
+      "answer": "any Fee Income",
+      "context": "ed to such investment or proposed\ninvestment shall be borne by, and any Fee Income shall be allocated among, the Fund and such Alternative\nVehicle in ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.17059969902038574
+    },
+    {
+      "answer": "[30]%",
+      "context": "ted Partner Giveback) is limited to\nan amount equal to the lesser of (i) [30]% of all distributions received by such Limited Partner from the Fund,\nan",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.055571235716342926
+    },
+    {
+      "answer": "16.2.2",
+      "context": "to the extent of amounts subsequently received from such other sources. 16.2.2 Each AC Covered\nPerson shall be indemnified and held harmless by the Fu",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.015705782920122147
+    },
+    {
+      "answer": "16.3 Limited Partner Giveback.",
+      "context": "16.3 Limited Partner Giveback.\n",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.013779410161077976
+    },
+    {
+      "answer": "2.8.1",
+      "context": "he Fund but offset against the Management\nFee.19 Last Updated: July 2020\n2.8.1 On or prior to the Final Closing Date, the General Partner or an Affili",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.012429383583366871
+    }
+  ]
+}
