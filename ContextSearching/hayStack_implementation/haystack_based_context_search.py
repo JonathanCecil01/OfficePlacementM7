@@ -35,7 +35,7 @@ def highlight_pdf(pdf_path, sentence):
 
 if __name__ == "__main__":
 
-    doc_dir = "data"
+    doc_dir = "ContextSearching/hayStack_implementation/data"
 
     docs = convert_files_to_docs(dir_path=doc_dir, clean_func=clean_wiki_text, split_paragraphs=True)
     preprocessor = PreProcessor(
@@ -82,4 +82,4 @@ if __name__ == "__main__":
         f.write(json_string)
 
     for prediction in predictions:
-        highlight_pdf("SampleContent2LPA.pdf", predictions[prediction][0]['context'])
+        highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", predictions[prediction][0]['context'])
