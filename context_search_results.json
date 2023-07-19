@@ -39,12 +39,6 @@
       "score": 0.26838958263397217
     },
     {
-      "answer": "[three] months from the date of the submission by the Applicant of\nthis Agreement to the General Partner or its representatives",
-      "context": "ate that is [three] months from the date of the submission by the Applicant of\nthis Agreement to the General Partner or its representatives, the Appli",
-      "filename": "SampleSearch.pdf",
-      "score": 0.09560072422027588
-    },
-    {
       "answer": "Within 120 days of the\nend of each fiscal year",
       "context": "15.2.4 Within 120 days of the\nend of each fiscal year, the chief financial officer or comparable officer of the General Partner or the Fund\nManager sh",
       "filename": "SampleContent2LPA.pdf",
@@ -61,6 +55,12 @@
       "context": "sixty (60) days following the end of each \u201cannual valuation period\u201d (as defined in the Plan Asset\nRegulation) of the Fund succeeding the date of the Fund\u2019s first long-term Portfolio Investment",
       "filename": "SampleContent2LPA.pdf",
       "score": 0.00556553341448307
+    },
+    {
+      "answer": "80% of Commitments have been funded, invested, committed or\nreserved for investments (including Follow-on Investments) or funded or reserved for Fund Expenses; (iii) the\ndate when 60% of Commitments have been funded for investments",
+      "context": " 80% of Commitments have been funded, invested, committed or\nreserved for investments (including Follow-on Investments) or funded or reserved for Fund Expenses; (iii) the\ndate when 60% of Commitments have been funded for investments",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.0054617347195744514
     }
   ],
   "Which Section has Carried Interest?": [
@@ -217,10 +217,10 @@
       "score": 0.18967346847057343
     },
     {
-      "answer": "General Partner",
-      "context": "The General Partner [and [insert name of administrator] (the \"Administrator\" (as at the date of this\ndocument))] are required to comply with anti-mone",
-      "filename": "SampleSearch.pdf",
-      "score": 0.0707024484872818
+      "answer": "Investment Manager",
+      "context": "usiness time to the\naffairs of the Fund, the General Partner, the Investment Manager, any Alternative Vehicles, any Parallel\nVehicles, any co-investme",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.10414299368858337
     }
   ],
   "What are the Investment Limitations?": [
@@ -278,7 +278,7 @@
       "answer": "Maintenance of Books and Records",
       "context": " be\nwithout prejudice to any other rights or remedies available to the Fund under this Agreement or otherwise.\n15.1 Maintenance of Books and Records. ",
       "filename": "SampleContent2LPA.pdf",
-      "score": 0.19967594742774963
+      "score": 0.19967597723007202
     },
     {
       "answer": "convenience of reference",
@@ -292,13 +292,19 @@
       "answer": "five (5)] Business Days",
       "context": "If such failure continues for [five (5)] Business Days\nafter receipt by such Limited Partner of the Default Notice, then such Partner shall be designa",
       "filename": "SampleContent2LPA.pdf",
-      "score": 0.37138110399246216
+      "score": 0.3713810443878174
     },
     {
       "answer": "sixty (60) days",
       "context": "The\nGeneral Partner shall give at least sixty (60) days\u2019 notice of the time and place of a General Meeting to each\nLimited Partner, which notice shall",
       "filename": "SampleContent2LPA.pdf",
       "score": 0.2616473436355591
+    },
+    {
+      "answer": "sixty (60)]\ndays",
+      "context": "tribution that would otherwise be required to be made by such Limited Partner within [sixty (60)]\ndays of the receipt of such Distributable Proceeds. ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.24378998577594757
     },
     {
       "answer": "ten (10) Business Days",
@@ -311,12 +317,6 @@
       "context": "20.7.5 The General Partner shall cause Schedule 1 (Partner Commitments) at all times to containthe name,\nCommitment and accurate contact details of ea",
       "filename": "SampleContent2LPA.pdf",
       "score": 0.1736392080783844
-    },
-    {
-      "answer": "2.5",
-      "context": "2.5 The Applicant, the Fund and the General Partner hereby agree that the General Partner's acceptance of\nall or any part of the commitment for which ",
-      "filename": "SampleSearch.pdf",
-      "score": 0.15230198204517365
     }
   ],
   "How much is the Main Fund?": [
@@ -397,6 +397,12 @@
       "score": 0.055571235716342926
     },
     {
+      "answer": "payable to\nthe Fund Manager by the Fund by a corresponding amount",
+      "context": "r\u2019s share of the Management Fee required to be funded by such Limited Partner, and payable to\nthe Fund Manager by the Fund by a corresponding amount. ",
+      "filename": "SampleContent2LPA.pdf",
+      "score": 0.020043157041072845
+    },
+    {
       "answer": "16.2.2",
       "context": "to the extent of amounts subsequently received from such other sources. 16.2.2 Each AC Covered\nPerson shall be indemnified and held harmless by the Fu",
       "filename": "SampleContent2LPA.pdf",
@@ -407,12 +413,6 @@
       "context": "16.3 Limited Partner Giveback.\n",
       "filename": "SampleContent2LPA.pdf",
       "score": 0.013779410161077976
-    },
-    {
-      "answer": "2.8.1",
-      "context": "he Fund but offset against the Management\nFee.19 Last Updated: July 2020\n2.8.1 On or prior to the Final Closing Date, the General Partner or an Affili",
-      "filename": "SampleContent2LPA.pdf",
-      "score": 0.012429383583366871
     }
   ]
 }

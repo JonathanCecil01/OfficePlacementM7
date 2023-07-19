@@ -15,22 +15,16 @@ from haystack.pipelines import ExtractiveQAPipeline
 from haystack.utils import print_answers
 import fitz
 
-def highlight_pdf(pdf_path, sentence):
-    # Open the PDF file
-    pdf = fitz.open(pdf_path)
-
-    # Iterate over the pages
-    for page in pdf:
-        # Search for the sentence and get its bounding box
-        rect = page.search_for(sentence)
-
-        # Add a highlight annotation for the sentence
-        for r in rect:
-            highlight = page.add_highlight_annot(r)
-
-    # Save the modified PDF
-    pdf.save("new_pdf.pdf")
-    pdf.close()
+def highlight_pdf(pdf_path, sentences):
+    doc = fitz.open(pdf_path)
+    for page in doc:
+        for sentence in sentences:
+            search_results = page.search_for(sentence)
+            for rect in search_results:
+                highlight = page.add_highlight_annot(rect)
+    output_file = "ContextSearching/hayStack_implementation/n_file.pdf"
+    doc.save(output_file)
+    doc.close()
 
 
 if __name__ == "__main__":
@@ -65,6 +59,7 @@ if __name__ == "__main__":
 
     queries = ["what is the Fund Name?", "Start Date?", "Which Section has Carried Interest?", "Who is the General Partner?", "When is the Initial Closing Date?", "When is the Final Closing Date?", "Which is the Management Company?", "What are the Investment Limitations?", "Which sections has the Purpose?", "How long is the Partnership Term?", "How much is the Main Fund?", "How Much is the Transaction Fees?", "How much is the Makeup Contribution?"]
     predictions = {}
+    all_results = []
     for query in queries:
         prediction = pipe.run( query, params={"Retriever": {"top_k": 10}, "Reader": {"top_k": 5}})
         predictions[query] = []
@@ -75,11 +70,12 @@ if __name__ == "__main__":
             temp_dict['filename'] = i.meta['name']
             temp_dict['score'] = i.score
             predictions[query].append(temp_dict)
-    
+            print(i.answer)
+            all_results.append(i.answer)
+            # highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", i.answer)
+    highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", all_results)
     import json
     json_string = json.dumps(predictions, indent = 2)
     with open("context_search_results.json", "w") as f:
         f.write(json_string)
-
-    for prediction in predictions:
-        highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", predictions[prediction][0]['context'])
+    
