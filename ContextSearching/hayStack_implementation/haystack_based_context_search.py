@@ -8,7 +8,7 @@ nltk.data.path.append("ContextSearching/hayStack_implementation/nltk_data")
 nltk.download('punkt')
 
 from haystack.document_stores import FAISSDocumentStore
-from haystack.utils import clean_wiki_text, convert_files_to_docs, fetch_archive_from_http
+from haystack.utils import clean_wiki_text, convert_files_to_docs
 from haystack.nodes import PreProcessor
 from haystack.nodes import EmbeddingRetriever
 from haystack.nodes import FARMReader
@@ -16,6 +16,24 @@ from haystack.pipelines import ExtractiveQAPipeline
 from haystack.utils import print_answers
 import fitz
 import re
+import os
+
+def delete_all_files_in_folder(folder_path):
+    try:
+        # Get a list of all files in the folder
+        files_list = os.listdir(folder_path)
+
+        # Loop through the files and delete them one by one
+        for file_name in files_list:
+            file_path = os.path.join(folder_path, file_name)
+            if os.path.isfile(file_path):  # Ensure it's a file and not a subdirectory
+                os.remove(file_path)
+                print(f"Deleted: {file_name}")
+
+        print("All files in the folder have been deleted.")
+    except Exception as e:
+        print(f"Error: {e}")
+
 
 def extract_number_from_string(input_string):
     numbers = re.findall(r'\d+', input_string)
@@ -46,7 +64,7 @@ def pdf_to_text_with_structure(pdf_file_path):
 
 if __name__ == "__main__":
 
-    pdf_path = "ContextSearching/hayStack_implementation/SampleSearch.pdf"
+    pdf_path = "ContextSearching/hayStack_implementation/SearchContext-EquityTest1.pdf"
     pages_arr = pdf_to_text_with_structure(pdf_path)
     for i in range(len(pages_arr)):
         file = "ContextSearching/hayStack_implementation/data/doc" + str(i)+".txt"
@@ -72,10 +90,13 @@ if __name__ == "__main__":
     )
     document_store.update_embeddings(retriever)
 
+    #Albert 
     #reader = FARMReader(model_name_or_path="ahotrod/albert_xxlargev1_squad2_512", use_gpu=False)
 
+    #Roberta Large
     #reader = FARMReader(model_name_or_path="deepset/roberta-large-squad2", use_gpu=False)
     
+    #Roberta Base
     reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=False)
 
     pipe = ExtractiveQAPipeline(reader, retriever)
@@ -160,11 +181,12 @@ if __name__ == "__main__":
             all_results.append([i.context, temp_dict['page_no']])
             # highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", i.answer)
     document_store.delete_all_documents()
+    delete_all_files_in_folder("ContextSearching/hayStack_implementation/data")
     import json
     json_string = json.dumps(predictions, indent = 2)
     with open("ContextSearching/hayStack_implementation/context_search_results.json", "w") as f:
         f.write(json_string)
-    highlight_pdf("ContextSearching/hayStack_implementation/SampleSearch.pdf", all_results)
+    highlight_pdf("ContextSearching/hayStack_implementation/SearchContext-EquityTest1.pdf", all_results)
     
     # json_string = json.dumps(predictions, indent = 2)
     # with open("ContextSearching/hayStack_implementation/context_search_results.json", "w") as f:
