@@ -24,7 +24,7 @@ def extract_number_from_string(input_string):
 def highlight_pdf(pdf_path, sentences):
     doc = fitz.open(pdf_path)
     for sentence in sentences:
-        page = sentence[1]
+        page = doc.load_page(sentence[1]) 
         context = sentence[0]
         search_results = page.search_for(context)
         for rect in search_results:
@@ -46,7 +46,7 @@ def pdf_to_text_with_structure(pdf_file_path):
 
 if __name__ == "__main__":
 
-    pdf_path = "ContextSearching/hayStack_implementation/SampleContent2LPA.pdf"
+    pdf_path = "ContextSearching/hayStack_implementation/SampleSearch.pdf"
     pages_arr = pdf_to_text_with_structure(pdf_path)
     for i in range(len(pages_arr)):
         file = "ContextSearching/hayStack_implementation/data/doc" + str(i)+".txt"
@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
     #reader = FARMReader(model_name_or_path="deepset/roberta-large-squad2", use_gpu=False)
     
-    reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=True)
+    reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=False)
 
     pipe = ExtractiveQAPipeline(reader, retriever)
 
@@ -84,24 +84,39 @@ if __name__ == "__main__":
     # prediction = pipe.run(
     #     query="What is the Fax Number?", params={"Retriever": {"top_k": 10}, "Reader": {"top_k": 5}}
     # )
-
-    #Queries for SearchContextTest1
     queries = [
-    "What is the Date?",
-    "What is the Applicant Name?",
-    "Who is the General Partner Name?",
-    "Who is the Limited Partner Name?",
-    "What is the Fund Name?"
-    "What is the Law Firm?",
-    "What is the Fund Address?",
-    "What is the Fund Domicile?",
-    "How much is the Commitment Amount?",
-    "What is the Vehicle?",
-    "What is the Telephone Number?",
-    "What is the Fax Number?",
-    "What is the Email Address?",
-    "What is the Tax ID Number?"
+    "What is the Fund Name?",
+    "When did the Fund Start?",
+    "What is the Carried Interest?",
+    "What is the Name of the General Partner?",
+    "When was the Initial Closing Date?",
+    "When was the Final Closing Date?",
+    "What is the Management Company?",
+    "What are the Investment Limitations?",
+    "Which section has the Purpose of the Fund?",
+    "What is the Partnership Term?",
+    "How much is the Main Fund?",
+    "How much is the Transaction Fees?",
+    "What is the Makeup Contribution?",
     ]
+
+    #Queries for Subscription Agreement
+    # queries = [
+    # "What is the Date?",
+    # "What is the Applicant Name?",
+    # "What is the Name of the General Partner?",
+    # "What is the Name of the Limited Partner?",
+    # "What is the Fund Name?",
+    # "What is the Law Firm?",
+    # "What is the Fund Address?",
+    # "What is the Fund Domicile?",
+    # "How much is the Commitment Fees?",
+    # "What is the Vehicle?",
+    # "What is the Telephone Number?",
+    # "What is the Fax Number?",
+    # "What is the Email Address?",
+    # "What is the Tax ID Number?"
+    # ]
 
     #Queries for Equity
     # queries = [
@@ -145,9 +160,13 @@ if __name__ == "__main__":
             all_results.append([i.context, temp_dict['page_no']])
             # highlight_pdf("ContextSearching/hayStack_implementation/data/SampleContent2LPA.pdf", i.answer)
     document_store.delete_all_documents()
-    highlight_pdf("ContextSearching/hayStack_implementation/SampleContent2LPA.pdf", all_results)
     import json
     json_string = json.dumps(predictions, indent = 2)
     with open("ContextSearching/hayStack_implementation/context_search_results.json", "w") as f:
         f.write(json_string)
+    highlight_pdf("ContextSearching/hayStack_implementation/SampleSearch.pdf", all_results)
+    
+    # json_string = json.dumps(predictions, indent = 2)
+    # with open("ContextSearching/hayStack_implementation/context_search_results.json", "w") as f:
+    #     f.write(json_string)
     

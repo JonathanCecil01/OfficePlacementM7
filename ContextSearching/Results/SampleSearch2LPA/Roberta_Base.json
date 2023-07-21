@@ -1,0 +1,483 @@
+{
+  "What is the Fund Name?": [
+    {
+      "answer": "Successor Fund",
+      "context": "\u201cSuccessor Fund\u201d has the meaning set forth in Section 9.1 (Successor Fund).14 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 13,
+      "score": 0.6044633388519287
+    },
+    {
+      "answer": "Bridge Investments",
+      "context": "7.5 Bridge Investments. The Fund may\nprovide interim financing to, or make investments that are intended to be of a temporary nature in Securities\nof,",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.3549264669418335
+    },
+    {
+      "answer": "8.1 Management of the Fund",
+      "context": "8.1 Management of the Fund.33 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.30347612500190735
+    },
+    {
+      "answer": "Escrow\nAccount",
+      "context": "rty commercial bank for the account of the applicable Partner (the \u201cEscrow\nAccount\u201d), until such time as such applicable Partner has received aggregat",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.23696422576904297
+    },
+    {
+      "answer": "Alternative Vehicle",
+      "context": "ith respect to each\ninvestment or proposed investment in which an Alternative Vehicle participates or proposes to participate with\nthe Fund, any expen",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.06427206099033356
+    }
+  ],
+  "When did the Fund Start?": [
+    {
+      "answer": "Initial Closing Date",
+      "context": "The term of the Fund commenced on the Initial Closing Date and the Fund shall continue, unless\nthe Fund is sooner dissolved in accordance with this Ag",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.6670240163803101
+    },
+    {
+      "answer": "7.4 Investments after the Termination of the Commitment Period",
+      "context": "or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.0060586463660001755
+    },
+    {
+      "answer": "15.2.4 Within 120 days of the\nend of each fiscal year",
+      "context": "15.2.4 Within 120 days of the\nend of each fiscal year, the chief financial officer or comparable officer of the General Partner or the Fund\nManager sh",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 72,
+      "score": 0.004418627358973026
+    },
+    {
+      "answer": "Escrow\nAccount",
+      "context": "rty commercial bank for the account of the applicable Partner (the \u201cEscrow\nAccount\u201d), until such time as such applicable Partner has received aggregat",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.004016045480966568
+    },
+    {
+      "answer": "14.4.1",
+      "context": "14.4.1 Prior to the final distribution of assets in connection with the dissolution and winding upof the Fund, the\nFundmay distribute only cash or Mar",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 58,
+      "score": 0.0022009112872183323
+    }
+  ],
+  "What is the Carried Interest?": [
+    {
+      "answer": "the aggregate distributions received by the General\nPartner",
+      "context": "\u201cCarried Interest\u201d means the aggregate distributions received by the General\nPartner pursuant to Sections 14.3.3 and 14.3.4 hereof and any distributio",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 3,
+      "score": 0.5348966717720032
+    },
+    {
+      "answer": "the amount of distributions of Carried Interest made to the General Partner",
+      "context": "use (II) of Section 14.7.1; and\nII (2)the amount of distributions of Carried Interest made to the General Partner pursuantto Section 14.3\n(Distributio",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 62,
+      "score": 0.2768504321575165
+    },
+    {
+      "answer": "Remaining Commitments",
+      "context": "ibuted including Carried Interest, and any amounts that increase Remaining Commitments pursuant to\n14.4 Distributions in Kind. 48 Last Updated: July 2",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 59,
+      "score": 0.24262970685958862
+    },
+    {
+      "answer": "interest in the Fund transferred to a service provider",
+      "context": " Notice 2005-43\n(the \u201cIRS Notice\u201d) apply to any interest in the Fund transferred to a service provider by the Fund on or after\nthe effective date of s",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 75,
+      "score": 0.2060546875
+    },
+    {
+      "answer": "cumulative distributions",
+      "context": " or former Partner shall\nI (I)the General Partner has received cumulative distributions of Carried Interestpursuant to Section\n14.3 (Distributions of ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 62,
+      "score": 0.20418649911880493
+    }
+  ],
+  "What is the Name of the General Partner?": [
+    {
+      "answer": "any former General Partner",
+      "context": "ence to the \u201cGeneral Partner\u201d shall\nbe interpreted to include any former General Partner.\nII 14.8.1 There shall be established on the books and record",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.2575837969779968
+    },
+    {
+      "answer": "partnership representative",
+      "context": "y: 15.3.3.1 [The General Partner is hereby designated as the \u201cpartnership representative\u201d\nwithin the meaning of Section 6223(a) of the Code (the \u201cPart",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 73,
+      "score": 0.2481333613395691
+    },
+    {
+      "answer": "Defaulting Partner",
+      "context": "d by the\nGeneral Partner as in \u201cDefault\u201d under this Agreement (a \u201cDefaulting Partner\u201d) and shall thereafter be subject\nto the provisions of this Secti",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 32,
+      "score": 0.1848546266555786
+    },
+    {
+      "answer": "Partner",
+      "context": "\u201cPartner\u201d means the General Partner and the\nLimited Partners.11 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 10,
+      "score": 0.1777721494436264
+    },
+    {
+      "answer": "FUND MANAGER\nGENERAL PARTNER23 [ ] (in its capacity as Fund Manager",
+      "context": "FUND MANAGER\nGENERAL PARTNER23 [ ] (in its capacity as Fund Manager, but not\n[ ] with the intention or effect that it becomes a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 96,
+      "score": 0.16003862023353577
+    }
+  ],
+  "When was the Initial Closing Date?": [
+    {
+      "answer": "December 31",
+      "context": " ninety (90) days after the end of each Fiscal Year (commencing after\nDecember 31 of the Fiscal Year of the Initial Closing Date), prepare and send, o",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 73,
+      "score": 0.7260404229164124
+    },
+    {
+      "answer": "13",
+      "context": "13 Initial Closing Date may be appropriate for some funds.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.564914345741272
+    },
+    {
+      "answer": "tenth] anniversary",
+      "context": "is sooner dissolved in accordance with this Agreement, until the [tenth] anniversary of the Initial\nClosing Date, provided that, unless the Fund is so",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.5002944469451904
+    },
+    {
+      "answer": "the date on which the\naggregate Commitments equal or exceed [ ].",
+      "context": " Agreement, which shall be no earlier than the date on which the\naggregate Commitments equal or exceed [ ]. \u201cInitial Investment Date\u201d means the date o",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 8,
+      "score": 0.42646825313568115
+    },
+    {
+      "answer": "12 months",
+      "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.31422877311706543
+    }
+  ],
+  "When was the Final Closing Date?": [
+    {
+      "answer": "12 months from the Initial Closing Date",
+      "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.6976219415664673
+    },
+    {
+      "answer": "forty-five\n(45)] days",
+      "context": " such reallocations shall be made by the General Partner within [forty-five\n(45)] days after the Final Closing Date. 2.11 Voting. Unless otherwise spe",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.1182851791381836
+    },
+    {
+      "answer": "July 2020",
+      "context": "ds shall be maintained in accordance with GAAP.\n(i)during the relevant Fiscal Year, and (ii) since the Initial Closing Date;54 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 71,
+      "score": 0.11760802567005157
+    },
+    {
+      "answer": "one hundred and twenty (120)\ndays",
+      "context": "such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays after such event of withdrawal, the Limited Partners agre",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.11043106764554977
+    },
+    {
+      "answer": "July 2020",
+      "context": "59 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 76,
+      "score": 0.09103786945343018
+    }
+  ],
+  "What is the Management Company?": [
+    {
+      "answer": "FUND MANAGER\nGENERAL PARTNER23",
+      "context": "FUND MANAGER\nGENERAL PARTNER23 [ ] (in its capacity as Fund Manager, but not\n[ ] with the intention or effect that it becomes a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 96,
+      "score": 0.25772878527641296
+    },
+    {
+      "answer": "Management of the Fund",
+      "context": "8.1 Management of the Fund.33 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.21740731596946716
+    },
+    {
+      "answer": "Invent M7 Capital Partners",
+      "context": "8.3.1 The Fund shall pay the Invent M7 Capital Partners an annual management fee with respect to each\nLimited Partner (\u201cManagement Fee\u201d) calculated wi",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.1344110071659088
+    },
+    {
+      "answer": "Initial Investment Date",
+      "context": " payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, July 1 and October 1 therea",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.07087600231170654
+    },
+    {
+      "answer": "General Partner or Fund Manager",
+      "context": "specialized services not ordinarily provided by the General Partner or Fund Manager), acquisition,\nadministration, holding, monitoring or disposition ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.06843499839305878
+    }
+  ],
+  "What are the Investment Limitations?": [
+    {
+      "answer": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "context": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.3881591856479645
+    },
+    {
+      "answer": "If any proposed Portfolio Investment with respect to which there has been a Drawdown is not\nconsummated or if the amount of funds drawn down for any reason exceeds the amount necessary",
+      "context": "If any proposed Portfolio Investment with respect to which there has been a Drawdown is not\nconsummated or if the amount of funds drawn down for any reason exceeds the amount necessary",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 31,
+      "score": 0.16204673051834106
+    },
+    {
+      "answer": "The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness except on a short-\nterm basis for periods of less than six months",
+      "context": "1 The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness except on a short-\nterm basis for periods of less than six months ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.15467432141304016
+    },
+    {
+      "answer": "subject to the limitations and the\nrestrictions",
+      "context": "by implication the generality of the foregoing, but subject to the limitations and the\nrestrictions set forth herein, the General Partner shall have a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.14090892672538757
+    },
+    {
+      "answer": "Investment\nRestrictions",
+      "context": "ll cases in accordance with the Investment Policy, Section 7.1 (Investment\nRestrictions) and the other provisions of this Agreement.16 Last Updated: J",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.1221781000494957
+    }
+  ],
+  "Which section has the Purpose of the Fund?": [
+    {
+      "answer": "Act and the regulations made thereunder",
+      "context": " be [ ].\n2.2 Purposes. The purposes of the Fund are to:\nAct and the regulations made thereunder. The General Partner is a [Ohio and is authorized to o",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.5874301791191101
+    },
+    {
+      "answer": "financial and accounting",
+      "context": "2.3 Fiscal Year. The fiscal year of the Fund for financial and accounting purposes shall be [the calendar year]\n(\u201cFiscal Year\u201d). 2.4 Register. The Gen",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.44748538732528687
+    },
+    {
+      "answer": "Section 14.6 (Withholding)",
+      "context": "I and the General Partner shall cause the Fund, subject to Section 14.6 (Withholding) and applicable\nlaw, to distribute such amount to such Limited Pa",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.29404109716415405
+    },
+    {
+      "answer": "repay indebtedness and satisfy liabilities",
+      "context": "11.5.3 repay indebtedness and satisfy liabilities of the Fund, in each case incurred prior to such suspension.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 52,
+      "score": 0.0813659131526947
+    },
+    {
+      "answer": "Section 14.3\n(Distributions of Distributable Proceeds",
+      "context": "7.2 [Notwithstanding the priorities set forth in Section 14.3\n(Distributions of Distributable Proceeds) and, except as provided in Section 14.5 (Tax D",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.06280943006277084
+    }
+  ],
+  "What is the Partnership Term?": [
+    {
+      "answer": "2020",
+      "context": "\u201cPartner\u201d means the General Partner and the\nLimited Partners.11 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 10,
+      "score": 0.39937180280685425
+    },
+    {
+      "answer": "20.7.5",
+      "context": "20.7.5 The General Partner shall cause Schedule 1 (Partner Commitments) at all times to containthe name,\nCommitment and accurate contact details of ea",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 95,
+      "score": 0.3893824815750122
+    },
+    {
+      "answer": "Limited Partner",
+      "context": "\u201cLimited Partner\u201d means any Person that is admitted to the Fu nd as a limited partner and any Person that has\nbeen admitted to the Fund as a substitut",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 8,
+      "score": 0.38911885023117065
+    },
+    {
+      "answer": "Partnership Minimum Gain",
+      "context": "\u201cPartnership Minimum Gain\u201d means the same as the term \u201cpartnership minimum gain\u201d set forth in\nRegulations Sections 1.704-2(b)(2) and 1.704-2(d).\n\u201cPart",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.2040635645389557
+    },
+    {
+      "answer": "17.2.1.5",
+      "context": "RISA, the Code or the\napplicable provisions of any Applicable Law; and 17.2.1.5 the Transfer will not cause the Fund, the General\nPartner or any Limit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 79,
+      "score": 0.1865527331829071
+    }
+  ],
+  "How much is the Main Fund?": [
+    {
+      "answer": "$500,000,000",
+      "context": "l commitments to the Fund and\nall Parallel Vehicles shall not exceed $500,000,000. 4.2 General Partner Commitment. On the Initial\nClosing Date, the Ge",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.08014634251594543
+    },
+    {
+      "answer": "7.4 Investments",
+      "context": "or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.08004346489906311
+    },
+    {
+      "answer": "8.1",
+      "context": "8.1 Management of the Fund.33 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.013860713690519333
+    },
+    {
+      "answer": "capital",
+      "context": "ocated among, the Fund and such Alternative\nVehicle in proportion to the capital committed by or proposed to be committed by each to such investment.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.010463463142514229
+    },
+    {
+      "answer": "General Partner Expenses",
+      "context": "nd properly incurred costs and\nexpenses of the Fund other than General Partner Expenses (in each case, to the extent not reimbursed by a\nPortfolio Com",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.006878367625176907
+    }
+  ],
+  "How much is the Transaction Fees?": [
+    {
+      "answer": "quarterly installments",
+      "context": "The Management\nFee shall be payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.3361170291900635
+    },
+    {
+      "answer": "zero",
+      "context": "ursuant to this sentence) because the Management Fee has been reduced to zero, the\nexcess shall be carried over to the next succeeding Payment Date (a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 41,
+      "score": 0.06346926093101501
+    },
+    {
+      "answer": "zero",
+      "context": "Fee with respect to each Limited Partner shall be reduced,\nbut not below zero, by an amount equal to such Limited Partner\u2019s pro rata share (basedon it",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 41,
+      "score": 0.024118606001138687
+    },
+    {
+      "answer": "annual management fee",
+      "context": "8.3.1 The Fund shall pay the Invent M7 Capital Partners an annual management fee with respect to each\nLimited Partner (\u201cManagement Fee\u201d) calculated wi",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.016007620841264725
+    },
+    {
+      "answer": "2.6.5",
+      "context": "\ntaxes imposed by reason of the Management Fee paid to the Fund Manager;\n2.6.5 fees and expenses of the Fund\u2019s and General Partner\u2019s registered agent ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 18,
+      "score": 0.006215445697307587
+    }
+  ],
+  "What is the Makeup Contribution?": [
+    {
+      "answer": "Fee Income",
+      "context": " to such investment or proposed\ninvestment shall be borne by, and any Fee Income shall be allocated among, the Fund and such Alternative\nVehicle in pr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.4375036060810089
+    },
+    {
+      "answer": "[30]% of all distributions received by such Limited Partner from the Fund,\nand (ii) [25]% of such Limited Partner\u2019s Commitment",
+      "context": " to the lesser of (i) [30]% of all distributions received by such Limited Partner from the Fund,\nand (ii) [25]% of such Limited Partner\u2019s Commitment. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 77,
+      "score": 0.07399165630340576
+    },
+    {
+      "answer": "All contributions by and distributions to the Partners",
+      "context": "All contributions by and distributions to the Partners, all calculations pursuant to the terms of\nthis Agreement and all accounts of the Partners or t",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 18,
+      "score": 0.06608649343252182
+    },
+    {
+      "answer": "insurance",
+      "context": "The General Partner shall require the Fund at all times to maintain insurance for the benefit of\neach member of the Advisory Committee and the Limited",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 57,
+      "score": 0.06511001288890839
+    },
+    {
+      "answer": "Capital Contributions",
+      "context": "uld entitle such Limited Partner to be excused from the relevant Capital Contributions (provided that such\npolicy remains in effect as of the date on ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 9,
+      "score": 0.053129665553569794
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "What is the Investment Name?": [
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7088433504104614
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": "Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.4941101670265198
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.2562122642993927
+    },
+    {
+      "answer": "X Ray",
+      "context": "The uses\nof this Capital Contribution include:\nInvestment in X Ray $ 411,846.12\nInvestment in Sea Girt Consumer Management 16,780.92\nTotal Capital Con",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.1869337558746338
+    }
+  ],
+  "Who is the General Partner?": [
+    {
+      "answer": "Invent M7",
+      "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.3471439778804779
+    },
+    {
+      "answer": "Invent M7",
+      "context": "protection and\nmaterially enhances its risk-adjusted return potential. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million,",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.11735585331916809
+    },
+    {
+      "answer": "Krishna Manickam",
+      "context": "ATTENTION - CAPITAL CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.012254022061824799
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.",
+      "context": "an Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.002792016137391329
+    }
+  ],
+  "Who is the Limited Partner?": [
+    {
+      "answer": "Krishna Manickam",
+      "context": "ATTENTION - CAPITAL CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.9858731627464294
+    },
+    {
+      "answer": "Invent M7",
+      "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.11864171177148819
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.010763723403215408
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.",
+      "context": "an Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0021530939266085625
+    }
+  ],
+  "What is the Fund Name?": [
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": "Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.8917628526687622
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7170233726501465
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.22570374608039856
+    },
+    {
+      "answer": "Invent M7",
+      "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.054073184728622437
+    }
+  ],
+  "What is the Fund Address?": [
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.2776990532875061
+    },
+    {
+      "answer": "acquisition of X Ray",
+      "context": "of the proceeds of this capital call will be used for the Fund\u2019s acquisition of X Ray, a high-growth, regulated\nnatural gas utility based in Texas. X ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.1450134515762329
+    },
+    {
+      "answer": "preferred equity",
+      "context": "The Fund\u2019s investment in X Ray is structured as preferred equity, which provides significant downside protection and\nmaterially enhances its risk-adju",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.10230069607496262
+    },
+    {
+      "answer": "420 Montgomery Street",
+      "context": "Bank Address: 420 Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.05797737091779709
+    }
+  ],
+  "How much is the Investment Amount?": [
+    {
+      "answer": "$6,582,514.09",
+      "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.8057548999786377
+    },
+    {
+      "answer": "$65 million",
+      "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.726049542427063
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.39951398968696594
+    },
+    {
+      "answer": "411,846.12",
+      "context": "The uses\nof this Capital Contribution include:\nInvestment in X Ray $ 411,846.12\nInvestment in Sea Girt Consumer Management 16,780.92\nTotal Capital Con",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.2756223976612091
+    }
+  ],
+  "When is the Notice Date?": [
+    {
+      "answer": "August 16, 2022",
+      "context": "anickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equity Demo Fund IV (the \"Fund\") is issuing a ca",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.9830557107925415
+    },
+    {
+      "answer": "August 23, 2022",
+      "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.33029329776763916
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.02272152155637741
+    },
+    {
+      "answer": "(1) Based on a Management Fee of 0.97%.",
+      "context": "104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity D",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.004377136006951332
+    }
+  ],
+  "When is the Due Date?": [
+    {
+      "answer": "August 16, 2022",
+      "context": "anickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equity Demo Fund IV (the \"Fund\") is issuing a ca",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.8613721132278442
+    },
+    {
+      "answer": "August 23, 2022",
+      "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7591519951820374
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.039148397743701935
+    },
+    {
+      "answer": "(1) Based on a Management Fee of 0.97%.",
+      "context": "104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity D",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.006078129634261131
+    }
+  ],
+  "What is the Currency Code?": [
+    {
+      "answer": "preferred equity",
+      "context": "The Fund\u2019s investment in X Ray is structured as preferred equity, which provides significant downside protection and\nmaterially enhances its risk-adju",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.010496800765395164
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.002647876041010022
+    },
+    {
+      "answer": "Capital Contribution\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64",
+      "context": "Capital Contribution\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0020540389232337475
+    },
+    {
+      "answer": "(1) Based on a Management Fee of 0.97%.",
+      "context": "104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity D",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.001225222833454609
+    }
+  ],
+  "What is the Amount Due?": [
+    {
+      "answer": "$6,582,514.09",
+      "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.760810136795044
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.39940404891967773
+    },
+    {
+      "answer": "Management Fee of 0.97%.",
+      "context": "unt Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.3879972994327545
+    },
+    {
+      "answer": "Your Capital Contribution to the Fund is due on or before August 23, 2022",
+      "context": "15\nmillion for future growth capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.36062997579574585
+    }
+  ],
+  "What is the Management Fees?": [
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.9207896590232849
+    },
+    {
+      "answer": "$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex",
+      "context": "$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.003903598291799426
+    },
+    {
+      "answer": "Investment in X Ray $ 411,846.12\nInvestment in Sea Girt Consumer Management 16,780.92",
+      "context": "is Capital Contribution include:\nInvestment in X Ray $ 411,846.12\nInvestment in Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 44",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0013609486632049084
+    },
+    {
+      "answer": "$443,859.06 (the \"Capital Contribution\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64",
+      "context": "$443,859.06 (the \"Capital Contribution\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0009833676740527153
+    }
+  ],
+  "What is the Total Capital Contribution?": [
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7196482419967651
+    },
+    {
+      "answer": "$443,859.06",
+      "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.6959083080291748
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.054908234626054764
+    },
+    {
+      "answer": "$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022",
+      "context": "$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.024195944890379906
+    }
+  ],
+  "What is the Bank Name?": [
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7095549702644348
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": "Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.11935772746801376
+    },
+    {
+      "answer": "Invent M7",
+      "context": " CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.00822543352842331
+    },
+    {
+      "answer": "Invent M7",
+      "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0018883286975324154
+    }
+  ],
+  "What is the Account Name?": [
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": "Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.9331797361373901
+    },
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nInvent M7 Private Equit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.263286292552948
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.23418891429901123
+    },
+    {
+      "answer": "Invent M7",
+      "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.06539405137300491
+    }
+  ],
+  "How muc us the Partnership Expenses?": [
+    {
+      "answer": "$15\nmillion for future growth capex",
+      "context": "million to acquire the company, as well as an anticipated $15\nmillion for future growth capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or b",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.026602115482091904
+    },
+    {
+      "answer": "Invent M7\nsourced this investment on a bilateral basis",
+      "context": "ural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue scaling and professiona",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.017666004598140717
+    },
+    {
+      "answer": "Based on a Management Fee of 0.97%.",
+      "context": "4\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Dem",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.012682562693953514
+    },
+    {
+      "answer": "$6,582,514.09",
+      "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0034788576886057854
+    }
+  ],
+  "how much is the Management Fee Discount?": [
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0733172595500946
+    },
+    {
+      "answer": "$443,859.06",
+      "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.004011885263025761
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0014125127345323563
+    },
+    {
+      "answer": "$65 million",
+      "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0008910431643016636
+    }
+  ],
+  "How much is the Total Due from Investors?": [
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.6197433471679688
+    },
+    {
+      "answer": "$6,582,514.09",
+      "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.16731682419776917
+    },
+    {
+      "answer": "$65 million",
+      "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0991319864988327
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.06028291955590248
+    }
+  ],
+  "What is the Undrawn Commitment Before?": [
+    {
+      "answer": "$3,405,757.64",
+      "context": "on\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.5822381377220154
+    },
+    {
+      "answer": "August 23, 2022",
+      "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.00261948024854064
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0022075255401432514
+    },
+    {
+      "answer": "Investment in X Ray $ 411,846.12",
+      "context": "The uses\nof this Capital Contribution include:\nInvestment in X Ray $ 411,846.12\nInvestment in Sea Girt Consumer Management 16,780.92\nTotal Capital Con",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0007468212861567736
+    }
+  ],
+  "What is the Undrawn Commitment After?": [
+    {
+      "answer": "$3,405,757.64",
+      "context": "on\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7356904745101929
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0029401201754808426
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0006551895057782531
+    },
+    {
+      "answer": "August 23, 2022",
+      "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0006344520952552557
+    }
+  ],
+  "Excess Cash returned?": [
+    {
+      "answer": "materially enhances its risk-adjusted return potential. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex.\u207d",
+      "context": "\nmaterially enhances its risk-adjusted return potential. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the company, as well as an anticipated $15\nmillion for future growth capex.\u207d",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.003085177391767502
+    },
+    {
+      "answer": "17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64",
+      "context": "on\"), after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.002881934167817235
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.001927711651660502
+    },
+    {
+      "answer": "0.97%.",
+      "context": " Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0012498105643317103
+    }
+  ],
+  "What is the  Number for the Bank Account?": [
+    {
+      "answer": "Invent M7 Private Equity Demo Fund IV",
+      "context": "Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97%.\n(2) Includes co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.2942212224006653
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.021240204572677612
+    },
+    {
+      "answer": "$443,859.06",
+      "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.009929945692420006
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0027059228159487247
+    }
+  ],
+  "What is the Address of the Bank?": [
+    {
+      "answer": "420 Montgomery Street",
+      "context": "Bank Address: 420 Montgomery Street, San Francisco, CA 94104\nAccount Name: Invent M7 Private Equity Demo Fund IV\n(1) Based on a Management Fee of 0.97",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.7211201190948486
+    },
+    {
+      "answer": "Wells Fargo Bank",
+      "context": "apex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\nBank Name: Wells Fargo Bank, N.A.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.4974287152290344
+    },
+    {
+      "answer": "Krishna Manickam",
+      "context": "ATTENTION - CAPITAL CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0012664322275668383
+    },
+    {
+      "answer": "443,859.06",
+      "context": "n Sea Girt Consumer Management 16,780.92\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.0004926964174956083
+    }
+  ]
+}

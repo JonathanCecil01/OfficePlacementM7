@@ -1,0 +1,483 @@
+{
+  "What is the Fund Name?": [
+    {
+      "answer": "Successor Fund",
+      "context": "\u201cSuccessor Fund\u201d has the meaning set forth in Section 9.1 (Successor Fund).14 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 13,
+      "score": 0.883817195892334
+    },
+    {
+      "answer": "Bridge Investments",
+      "context": "7.5 Bridge Investments. The Fund may\nprovide interim financing to, or make investments that are intended to be of a temporary nature in Securities\nof,",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.5756528377532959
+    },
+    {
+      "answer": "Invent M7 Capital Partners",
+      "context": " the meaning set forth in Section 2.5.1.\n\u201cFund Manager\u201d means Invent M7 Capital Partners or any replacement fund manager appointed in\naccordance withA",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.20690393447875977
+    },
+    {
+      "answer": "7.4",
+      "context": "or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.03800497204065323
+    },
+    {
+      "answer": "Fund",
+      "context": "8.1 Management of the Fund.33 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.029697582125663757
+    }
+  ],
+  "When did the Fund Start?": [
+    {
+      "answer": "Initial Closing Date",
+      "context": "The term of the Fund commenced on the Initial Closing Date and the Fund shall continue, unless\nthe Fund is sooner dissolved in accordance with this Ag",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.83564293384552
+    },
+    {
+      "answer": "14.7.2",
+      "context": "14.7.2 [Notwithstanding the priorities set forth in Section 14.3\n(Distributions of Distributable Proceeds) and, except as provided in Section 14.5 (Ta",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.0018306655110791326
+    },
+    {
+      "answer": "7",
+      "context": "or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.001029554638080299
+    },
+    {
+      "answer": "at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays",
+      "context": "usiness of\nthe Fund or (ii) at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays after such event of withdr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.0006600384367629886
+    },
+    {
+      "answer": "least one remaining General Partner of the Fund who is hereby authorized to and shall carry on the business of\nthe Fund or (ii) at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays",
+      "context": "\nleast one remaining General Partner of the Fund who is hereby authorized to and shall carry on the business of\nthe Fund or (ii) at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.0005137762054800987
+    }
+  ],
+  "What is the Carried Interest?": [
+    {
+      "answer": "the aggregate distributions received by the General\nPartner",
+      "context": "\u201cCarried Interest\u201d means the aggregate distributions received by the General\nPartner pursuant to Sections 14.3.3 and 14.3.4 hereof and any distributio",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 3,
+      "score": 0.5473973751068115
+    },
+    {
+      "answer": "portion",
+      "context": "each indirect owner of any such partner) who is entitled to receive any\nportion of Carried Interest shall have entered into an undertaking in favor of",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.060811348259449005
+    },
+    {
+      "answer": "distribution to the Limited Partners",
+      "context": "ion 14.7.2 shall immediately be returned to the Fund for\ndistribution to the Limited Partners; and\n(c)in respect of its Commitment, the removed Genera",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 48,
+      "score": 0.020093904808163643
+    },
+    {
+      "answer": "relevant tax authorities",
+      "context": "neral Partner with such evidence as the General Partner or the\nrelevant tax authorities may require to establish such Limited Partner\u2019s entitlement to",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 62,
+      "score": 0.018608344718813896
+    },
+    {
+      "answer": "8.00% per annum",
+      "context": "ly paid on the relevant Due\nDate shall accrue interest at a rate of 8.00% per annum from the Due Date as specified in the relevant Default\nNotice unti",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 32,
+      "score": 0.010943896137177944
+    }
+  ],
+  "What is the Name of the General Partner?": [
+    {
+      "answer": "FUND MANAGER\nGENERAL PARTNER23",
+      "context": "FUND MANAGER\nGENERAL PARTNER23 [ ] (in its capacity as Fund Manager, but not\n[ ] with the intention or effect that it becomes a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 96,
+      "score": 0.47987616062164307
+    },
+    {
+      "answer": "23",
+      "context": " all or part of its commitment in a Parallel Vehicle or as a Limited Partner.\nIf so, appropriate adjustments should be made.23 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 27,
+      "score": 0.0379800908267498
+    },
+    {
+      "answer": "limited partnership",
+      "context": "e\nInvestors of a Parallel Vehicle shall be deemed to include all Investors in a Parallel Vehicle formed as a\nvehicle other than a limited partnership.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 19,
+      "score": 0.027865329757332802
+    },
+    {
+      "answer": "respective interests in a Portfolio Company at the same time andon the same terms, in proportion to their\nrespective",
+      "context": " divest of their\nrespective interests in a Portfolio Company at the same time andon the same terms, in proportion to their\nrespective ownership intere",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 20,
+      "score": 0.012478867545723915
+    },
+    {
+      "answer": "For the\navoidance of doubt, for the purposes of this Section 14.7 (Clawback) reference to the \u201cGeneral Partner\u201d shall\nbe interpreted to include any former General Partner",
+      "context": "For the\navoidance of doubt, for the purposes of this Section 14.7 (Clawback) reference to the \u201cGeneral Partner\u201d shall\nbe interpreted to include any former General Partner",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.009980323724448681
+    }
+  ],
+  "When was the Initial Closing Date?": [
+    {
+      "answer": "December 31",
+      "context": " ninety (90) days after the end of each Fiscal Year (commencing after\nDecember 31 of the Fiscal Year of the Initial Closing Date), prepare and send, o",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 73,
+      "score": 0.5357741117477417
+    },
+    {
+      "answer": "no earlier than the date",
+      "context": "Closing Date\u201d means the date of this Agreement, which shall be no earlier than the date on which the\naggregate Commitments equal or exceed [ ]. \u201cIniti",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 8,
+      "score": 0.2732607424259186
+    },
+    {
+      "answer": "13",
+      "context": "13 Initial Closing Date may be appropriate for some funds.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.01909291185438633
+    },
+    {
+      "answer": "recycling.26",
+      "context": "e that some investors require a cap (e.g., 110% of commitments) on total investments that may be possible through\nrecycling.26 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 31,
+      "score": 0.004182592965662479
+    },
+    {
+      "answer": "tenth] anniversary of the Initial\nClosing Date, provided that, unless the Fund is sooner dissolved in accordance with this Agreement, the term\nof the Fund may be extended by the General Partner for up to two successive periods of one year, with (i) the\nfirst such extension requiring the prior written consent of the Advisory Committee, and (ii) the second such\nextension requiring the prior written consent of a Majority in Interest (such term, including any such\nextensions, being referred to as the \u201cTerm\u201d).18.2.1 The Fund will be dissolved and its affairs shall be wound\nup upon the first to occur of any of the following events: 18.2.1.1 an event of withdrawal (as defined in the\nAct) with respect to a General Partner, other than an event of withdrawal set forth in Section 17-402",
+      "context": "tenth] anniversary of the Initial\nClosing Date, provided that, unless the Fund is sooner dissolved in accordance with this Agreement, the term\nof the Fund may be extended by the General Partner for up to two successive periods of one year, with (i) the\nfirst such extension requiring the prior written consent of the Advisory Committee, and (ii) the second such\nextension requiring the prior written consent of a Majority in Interest (such term, including any such\nextensions, being referred to as the \u201cTerm\u201d).18.2.1 The Fund will be dissolved and its affairs shall be wound\nup upon the first to occur of any of the following events: 18.2.1.1 an event of withdrawal (as defined in the\nAct) with respect to a General Partner, other than an event of withdrawal set forth in Section 17-402",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.003994811791926622
+    }
+  ],
+  "When was the Final Closing Date?": [
+    {
+      "answer": "12 months from the Initial Closing Date",
+      "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.7584095001220703
+    },
+    {
+      "answer": "July 2020",
+      "context": "59 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 76,
+      "score": 0.42523694038391113
+    },
+    {
+      "answer": "forty-five\n(45)]",
+      "context": "ng such reallocations shall be made by the General Partner within [forty-five\n(45)] days after the Final Closing Date. 2.11 Voting. Unless otherwise s",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.014681423082947731
+    },
+    {
+      "answer": "402",
+      "context": "eneral Partner, other than an event of withdrawal set forth in Section 17-402(a)(4) or\n(5) of the Act; provided, that the Fund shall not be dissolved ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.001413703546859324
+    },
+    {
+      "answer": "at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays",
+      "context": "usiness of\nthe Fund or (ii) at such time there is no remaining General Partner, if within one hundred and twenty (120)\ndays after such event of withdr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 80,
+      "score": 0.0012356959050521255
+    }
+  ],
+  "What is the Management Company?": [
+    {
+      "answer": "Invent M7 Capital Partners",
+      "context": "8.3.1 The Fund shall pay the Invent M7 Capital Partners an annual management fee with respect to each\nLimited Partner (\u201cManagement Fee\u201d) calculated wi",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.7120746374130249
+    },
+    {
+      "answer": "FUND MANAGER\nGENERAL PARTNER23",
+      "context": "FUND MANAGER\nGENERAL PARTNER23 [ ] (in its capacity as Fund Manager, but not\n[ ] with the intention or effect that it becomes a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 96,
+      "score": 0.6235384941101074
+    },
+    {
+      "answer": "Management of the Fund.",
+      "context": "8.1 Management of the Fund.33 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 39,
+      "score": 0.00328821106813848
+    },
+    {
+      "answer": "l",
+      "context": "e extent not borne by potential co-investors), including travel, meals and\nlodging/accommodations related thereto (but not including entertainment exp",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.002153017558157444
+    },
+    {
+      "answer": "Management\nFee",
+      "context": "The Management\nFee shall be payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.0019084049854427576
+    }
+  ],
+  "What are the Investment Limitations?": [
+    {
+      "answer": "The aggregate of the Commitments and the total commitments to the Fund and\nall Parallel Vehicles shall not exceed $500,000,000",
+      "context": "The aggregate of the Commitments and the total commitments to the Fund and\nall Parallel Vehicles shall not exceed $500,000,000. 4.2 General Partner Co",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.3009837865829468
+    },
+    {
+      "answer": "invest any amounts directly or indirectly in Portfolio Companies that do not have their principal place\nof business operations in or derive a substantial majority of their revenue from the Target Region",
+      "context": "invest any amounts directly or indirectly in Portfolio Companies that do not have their principal place\nof business operations in or derive a substantial majority of their revenue from the Target Region",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 36,
+      "score": 0.1746986210346222
+    },
+    {
+      "answer": "invest more than [ ]%",
+      "context": "s directly or indirectly in any one Portfolio Company;]\n7.1.4.3 [invest more than [ ]% (or [ ]% including the aggregate of any Capital Contributions w",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 36,
+      "score": 0.0934726670384407
+    },
+    {
+      "answer": "The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness except on a short-\nterm basis for periods of less than six months",
+      "context": "1 The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness except on a short-\nterm basis for periods of less than six months ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.07057011127471924
+    },
+    {
+      "answer": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "context": "The Fund shall invest cash held by the Fund pending investment in Portfolio Investments,\ndistribution or payment of Management Fees, Organizational Expenses or other Fund Expenses only in\n7.4 Investments after the Termination of the Commitment Period",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 37,
+      "score": 0.05095681548118591
+    }
+  ],
+  "Which section has the Purpose of the Fund?": [
+    {
+      "answer": "2.2",
+      "context": "The\nregistered agent of the Fund at such office shall be [ ].\n2.2 Purposes. The purposes of the Fund are to:\nAct and the regulations made thereunder. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.050757359713315964
+    },
+    {
+      "answer": "Section 14.6",
+      "context": "I and the General Partner shall cause the Fund, subject to Section 14.6 (Withholding) and applicable\nlaw, to distribute such amount to such Limited Pa",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 63,
+      "score": 0.0043833376839756966
+    },
+    {
+      "answer": "with unrelated third Persons",
+      "context": " Company than could be obtained in arm\u2019s-length negotiations\nwith unrelated third Persons for similar services, and (ii) require the prior written con",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 40,
+      "score": 0.0009981326293200254
+    },
+    {
+      "answer": "restore pursuant to this Agreement",
+      "context": " Fund, the Register and full and accurate accounts of the\nrestore pursuant to this Agreement, and (ii) the amount such Partner is deemed obligated to ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 69,
+      "score": 0.0009787889430299401
+    },
+    {
+      "answer": "Regulations",
+      "context": "ts shall instead be determined in accordance with the requirements of\nRegulations Section 1.704-1(b)(2)(iv)(g); and\n(f)any items which are specially a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 10,
+      "score": 0.0008188398787751794
+    }
+  ],
+  "What is the Partnership Term?": [
+    {
+      "answer": "23",
+      "context": " all or part of its commitment in a Parallel Vehicle or as a Limited Partner.\nIf so, appropriate adjustments should be made.23 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 27,
+      "score": 0.04145876318216324
+    },
+    {
+      "answer": "Partnership Minimum Gain",
+      "context": "\u201cPartnership Minimum Gain\u201d means the same as the term \u201cpartnership minimum gain\u201d set forth in\nRegulations Sections 1.704-2(b)(2) and 1.704-2(d).\n\u201cPart",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.033638760447502136
+    },
+    {
+      "answer": "Limited Partners",
+      "context": "\u201cPartner\u201d means the General Partner and the\nLimited Partners.11 Last Updated: July 2020",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 10,
+      "score": 0.009365662932395935
+    },
+    {
+      "answer": "Regulations",
+      "context": "ree will constitute only one Partner of the Fund within the meaningof\nRegulations Section 1.7704-1(h); 17.2.1.4 the Transfer will not cause (i) all or",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 79,
+      "score": 0.0022866229992359877
+    },
+    {
+      "answer": "Limited Partner",
+      "context": " a limited partner and any Person that has\nbeen admitted to the Fund as a substitute or additional Limited Partner in accordance with this Agreement.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 8,
+      "score": 0.002090452006086707
+    }
+  ],
+  "How much is the Main Fund?": [
+    {
+      "answer": "$500,000,000",
+      "context": "l commitments to the Fund and\nall Parallel Vehicles shall not exceed $500,000,000. 4.2 General Partner Commitment. On the Initial\nClosing Date, the Ge",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.002501307986676693
+    },
+    {
+      "answer": "82.5.1\nThe Fund shall pay all of the Fund\u2019s pro rata share (calculated in accordance with Sections 2.5.1.1 liquidation\n2.5.1.2 sales, withholding, or other taxes, fees or similar government charges which may be assessed against\n2.5.1.3 commissions, brokerage fees or similar charges incurred in connection with the purchase or sale of\n2.5.1.4 costs and expenses of (i) hosting annual or special meetings of the Advisory Committee and any other\nexpenses properly incurred by or on behalf of the Advisory Committee in accordance with Article 13\n(Advisory Committee), and (ii) otherwise holding meetings or conferences with investors, expenses associated\nwith meeting venue, meeting materials, meeting supplies (including any associated shipping costs), and any\nother out-of-pocket expense (except forthe costs of entertainment, including speaker fees) incurred by the\nFund",
+      "context": "82.5.1\nThe Fund shall pay all of the Fund\u2019s pro rata share (calculated in accordance with Sections 2.5.1.1 liquidation\n2.5.1.2 sales, withholding, or other taxes, fees or similar government charges which may be assessed against\n2.5.1.3 commissions, brokerage fees or similar charges incurred in connection with the purchase or sale of\n2.5.1.4 costs and expenses of (i) hosting annual or special meetings of the Advisory Committee and any other\nexpenses properly incurred by or on behalf of the Advisory Committee in accordance with Article 13\n(Advisory Committee), and (ii) otherwise holding meetings or conferences with investors, expenses associated\nwith meeting venue, meeting materials, meeting supplies (including any associated shipping costs), and any\nother out-of-pocket expense (except forthe costs of entertainment, including speaker fees) incurred by the\nFund",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.0019411653047427535
+    },
+    {
+      "answer": "in any\nFund Vehicle",
+      "context": "fore the admission of a Subsequent Closing Partner (or equivalent in any\nFund Vehicle), shall be held by the Fund Vehicles in such proportions as if a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.001467605703510344
+    },
+    {
+      "answer": "be",
+      "context": "pare tax forms, file tax forms, and prepare tax liability calculations on\nbehalf of the Fund and its Partners);\n2.5.1.6 interest expense for Credit Fa",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.000917391967959702
+    },
+    {
+      "answer": "investment or proposed investment in which an Alternative Vehicle",
+      "context": "With respect to each\ninvestment or proposed investment in which an Alternative Vehicle participates or proposes to participate with\nthe Fund, any expe",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.0005124694434925914
+    }
+  ],
+  "How much is the Transaction Fees?": [
+    {
+      "answer": "advisory",
+      "context": "transaction, introduction, underwriting, investment banking, break-up,\nadvisory, monitoring, due diligence, referral, commitment, arrangement, consult",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.003310853149741888
+    },
+    {
+      "answer": "l",
+      "context": "e extent not borne by potential co-investors), including travel, meals and\nlodging/accommodations related thereto (but not including entertainment exp",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.0012686036061495543
+    },
+    {
+      "answer": "14",
+      "context": "ny undertaking of the partners of the General Partner pursuant to Section\n14.7.3, and any taxes or other expenses incurred by the Fund or the General ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 18,
+      "score": 0.0008762807701714337
+    },
+    {
+      "answer": "Affiliates;\n2.6.4 any and all expenses incurred in maintaining the General Partner\u2019s or the Fund Manager\u2019s registration as\nan investment adviser",
+      "context": "ir Affiliates;\n2.6.4 any and all expenses incurred in maintaining the General Partner\u2019s or the Fund Manager\u2019s registration as\nan investment adviser un",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 18,
+      "score": 0.0007998639484867454
+    },
+    {
+      "answer": "m",
+      "context": " and General Partner\u2019s registered agent in the [State of Delaware] and for\nmaintaining the Fund\u2019s and General Partner\u2019s registered office in the [Stat",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 18,
+      "score": 0.0007444667862728238
+    }
+  ],
+  "What is the Makeup Contribution?": [
+    {
+      "answer": "Any indemnification amount paid hereunder shall be reduced\nby amounts received from such other sources and each GP Covered Person shall refund any indemnification\npayments to the extent of amounts subsequently received from such other sources. 16.2.2 Each AC Covered\nPerson shall be indemnified and held harmless by the Fund from and against any and all Damages suffered or\nincurred by any of them as a result of acts or omissions of the Advisory Committee or any member thereof.",
+      "context": "Any indemnification amount paid hereunder shall be reduced\nby amounts received from such other sources and each GP Covered Person shall refund any indemnification\npayments to the extent of amounts subsequently received from such other sources. 16.2.2 Each AC Covered\nPerson shall be indemnified and held harmless by the Fund from and against any and all Damages suffered or\nincurred by any of them as a result of acts or omissions of the Advisory Committee or any member thereof.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 76,
+      "score": 0.00362178822979331
+    },
+    {
+      "answer": "an amount equal to the lesser of (i) [30]% of all distributions received by such Limited Partner from the Fund,\nand (ii) [25]% of such Limited Partner\u2019s Commitment",
+      "context": "\nan amount equal to the lesser of (i) [30]% of all distributions received by such Limited Partner from the Fund,\nand (ii) [25]% of such Limited Partner\u2019s Commitment",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 77,
+      "score": 0.0033679469488561153
+    },
+    {
+      "answer": "investment or proposed investment in which an Alternative Vehicle",
+      "context": "With respect to each\ninvestment or proposed investment in which an Alternative Vehicle participates or proposes to participate with\nthe Fund, any expe",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.003339118091389537
+    },
+    {
+      "answer": "Distributable\nProceeds cumulatively allocated to such Partner in accordance with this Agreement and not otherwise offset by\nallocations of Fund losses and other deductions allocated to the Fund",
+      "context": " Distributable\nProceeds cumulatively allocated to such Partner in accordance with this Agreement and not otherwise offset by\nallocations of Fund losses and other deductions allocated to the Fund",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 14,
+      "score": 0.0031000827439129353
+    },
+    {
+      "answer": "contributed or, with the consent of the Fund, unconditionally agreed to contribute to the Fund",
+      "context": " Closing Partner shall have\ncontributed or, with the consent of the Fund, unconditionally agreed to contribute to the Fund the amounts\n5.1.3 Each Subs",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 29,
+      "score": 0.002176351845264435
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "What is the Date?": [
+    {
+      "answer": "January 1 2019",
+      "context": " [Mr.XYAdmin] (the \"Administrator\" (as at the date of this\ndocument January 1 2019))] are required to comply with anti-money laundering and tax laws\na",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 1,
+      "score": 0.9633274078369141
+    },
+    {
+      "answer": "three] months",
+      "context": "licant of such admission, in each case on or before the date that\nis [three] months from the date of the submission by the Applicant of this Agreement",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.5527904033660889
+    },
+    {
+      "answer": "01 January 2019",
+      "context": "T OF\n[INSERT NAME OF FUND] FOR THE INVESTOR:\nDate of application: [ 01 January 2019]\n(signature of first director) (signature of second director)\n(pri",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 12,
+      "score": 0.28744399547576904
+    },
+    {
+      "answer": "the date that the Applicant is admitted to the Partnership",
+      "context": " such Agreement on behalf\nof the Applicant on the date that the Applicant is admitted to the Partnership and the\nApplicant authorises any such person ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.24488785862922668
+    },
+    {
+      "answer": "20",
+      "context": "19 [Insert correct defined term from the Partnership Agreement.]\n20 [Only to be included for first closing of the fund.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.06568510085344315
+    }
+  ],
+  "What is the Applicant Name?": [
+    {
+      "answer": "KRISHNA MANICKAM",
+      "context": "ETAILS11\n[Please complete in block capitals]\nName of the Applicant KRISHNA MANICKAM\n(All notices sent pursuant to clause [19.10\nAgreement will be mark",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.9821535348892212
+    },
+    {
+      "answer": "KRISHNA MANICKAM",
+      "context": "(1) KRISHNA MANICKAM NAME OF APPLICANT\n(2) [INVENT M7 CAPITAL PARTNERS]\nSUBSCRIPTION AGREEMENT relating\n[INVENT M7 PRIVATE EQUITY DEMO FUND IV]\n1. If ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.9703644514083862
+    },
+    {
+      "answer": "adam",
+      "context": "ou are legal counsel),\nprovide the name of the client)\n(g) Email address adam@dummy.com\n(h) Telephone number 1209742323\nSCHEDULE 2: STATUS OF APPLICAN",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.006753177382051945
+    },
+    {
+      "answer": "Partnership was offered or accepted and the Applicant additionally agrees,\nrepresents, warrants and confirms as set forth in Schedule [4] (Special Investment Conditions\nfor Applicants in US Placements);\n13",
+      "context": "\nPartnership was offered or accepted and the Applicant additionally agrees,\nrepresents, warrants and confirms as set forth in Schedule [4] (Special Investment Conditions\nfor Applicants in US Placements);\n13",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.005103058181703091
+    },
+    {
+      "answer": ".]",
+      "context": "e GP to make those determinations and decide whether or not to admit the Applicant or consent to a transfer by\nthe Applicant on a case by case basis.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 9,
+      "score": 0.0023690233938395977
+    }
+  ],
+  "What is the Name of the General Partner?": [
+    {
+      "answer": "Mr.XYZ",
+      "context": "3. The General Partner [Mr.XYZ and [Mr.XYAdmin] (the \"Administrator\" (as at the date of this\ndocument January 1 2019))] are required to comply with an",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 1,
+      "score": 0.9595291018486023
+    },
+    {
+      "answer": "INVENT M7 CAPITAL PARTNERS",
+      "context": "[INVENT M7 CAPITAL PARTNERS] in its capacity as general partner of [INVENT M7 PRIVATE\n(signature of first director) (signature of second director)\n(pr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 13,
+      "score": 0.5066520571708679
+    },
+    {
+      "answer": "General Partner",
+      "context": "OF\nESTABLISHMENT ] LIMITED PARTNERSHIP OF [INSERT ADDRESS OF\nPARTNERSHIP] (the \"Partnership\"), acting by its general partner, the General Partner.\n1. ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.021109692752361298
+    },
+    {
+      "answer": "2.4",
+      "context": "nd admit the Applicant as a Limited Partner with a lesser Commitment than\n2.4 The General Partner shall promptly inform the Applicant of the acceptanc",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.01057457085698843
+    },
+    {
+      "answer": "formed",
+      "context": " Each of the Partnership, the General Partner [and the Manager] is duly\nformed and validly existing under the laws of their organisation, and has all ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.0033046072348952293
+    }
+  ],
+  "What is the Name of the Limited Partner?": [
+    {
+      "answer": "2.4",
+      "context": "nd admit the Applicant as a Limited Partner with a lesser Commitment than\n2.4 The General Partner shall promptly inform the Applicant of the acceptanc",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.016277922317385674
+    },
+    {
+      "answer": "the Applicant",
+      "context": "2.1 Subject to clause [2.6] below, the Applicant hereby applies and offers to become a Limited\nPartner on the terms of a limited partnership agreement",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.006666664034128189
+    },
+    {
+      "answer": "Commitment\");",
+      "context": "Partner shall insert on its execution clause\nto this Agreement (its \"Commitment\"); and\n2.3.2 a party to the Partnership Agreement,\nand, following such",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.004840330220758915
+    },
+    {
+      "answer": "Partnership",
+      "context": "onsult a legal advisor if unsure as to the answer to this question)\nthe Applicant will hold its interest in the Partnership for itself beneficially; B",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.004036864265799522
+    },
+    {
+      "answer": "Partnership, the General Partner [and/or the Manager] for the formation of the Partnership and the\ncarrying out of its activities, the due execution, delivery or performance of [the Management\nAgreement,] this Agreement and the Partnership Agreement, and the due acceptance of the\nApplicant",
+      "context": "Partnership, the General Partner [and/or the Manager] for the formation of the Partnership and the\ncarrying out of its activities, the due execution, delivery or performance of [the Management\nAgreement,] this Agreement and the Partnership Agreement, and the due acceptance of the\nApplicant",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.004028146155178547
+    }
+  ],
+  "What is the Fund Name?": [
+    {
+      "answer": "INVENT M7 PRIVATE EQUITY DEMO FUND IV",
+      "context": "DDRESS OF\nGENERAL PARTNER] (THE \"GENERAL PARTNER\");\n(3) [INVENT M7 PRIVATE EQUITY DEMO FUND IV], A [INSERT JURISDICTION OF\nESTABLISHMENT ] LIMITED PAR",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.8119897842407227
+    },
+    {
+      "answer": "International Monetary Fund",
+      "context": "\nrespectively, in the jurisdiction where located; and\n(f) the International Monetary Fund, the International Bank for Reconstruction and\nDevelopment, ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 27,
+      "score": 0.7291817665100098
+    },
+    {
+      "answer": "[INVENT M7 PRIVATE EQUITY DEMO FUND IV",
+      "context": "ired and the information to be provided in connection with an Applicant's subscription for\nan interest in [INVENT M7 PRIVATE EQUITY DEMO FUND IV] (the",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.04948168247938156
+    },
+    {
+      "answer": "Partnership Agreement.]\n20",
+      "context": "19 [Insert correct defined term from the Partnership Agreement.]\n20 [Only to be included for first closing of the fund.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.026983268558979034
+    },
+    {
+      "answer": "Partnership was offered to or accepted by it, NOR is the Applicant a [United\nKingdom] [Canadian]15 resident becoming a limited partner in a [United Kingdom]\n[Canadian] placement, and the Applicant additionally agrees represents, warrants and confirms\nas set forth in Schedule [3] (Special Investment Conditions for Non-US\nthe Applicant IS either a \"US Person\" or was in the \"United States\" when the interest E in the\nPartnership was offered or accepted and the Applicant additionally agrees,\nrepresents, warrants and confirms as set forth in Schedule [4] (Special Investment Conditions\nfor Applicants in US Placements);\n13",
+      "context": "Partnership was offered to or accepted by it, NOR is the Applicant a [United\nKingdom] [Canadian]15 resident becoming a limited partner in a [United Kingdom]\n[Canadian] placement, and the Applicant additionally agrees represents, warrants and confirms\nas set forth in Schedule [3] (Special Investment Conditions for Non-US\nthe Applicant IS either a \"US Person\" or was in the \"United States\" when the interest E in the\nPartnership was offered or accepted and the Applicant additionally agrees,\nrepresents, warrants and confirms as set forth in Schedule [4] (Special Investment Conditions\nfor Applicants in US Placements);\n13",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.026307113468647003
+    }
+  ],
+  "What is the Law Firm?": [
+    {
+      "answer": "Partnership Agreement",
+      "context": "rued in accordance with the laws of [insert\ngoverning law of the Partnership Agreement]. All the parties irrevocably agree that the\ncourts of [insert ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.006193122826516628
+    },
+    {
+      "answer": "10",
+      "context": "10 [Conform to governing law and jurisdiction provisions in the Partnership Agreement.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.0060788472183048725
+    },
+    {
+      "answer": "Partnership",
+      "context": "ceeding pending or, to the best of the General Partner\u2019s\nknowledge, threatened against the Partnership [or] [,] the General Partner [or the Manager].]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 25,
+      "score": 0.005829866509884596
+    },
+    {
+      "answer": "Management Agreement",
+      "context": "[and the Manager] of each of [the Applicant\u2019s Side Letter,] [the Management Agreement,] this\nAgreement and the Partnership Agreement, have been author",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.0048631830140948296
+    },
+    {
+      "answer": "Partnership",
+      "context": "this Agreement or any offering document circulated in relation to the\nPartnership, or the subject matter hereof or thereof, may not be enforced in or ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.0024747573770582676
+    }
+  ],
+  "What is the Fund Address?": [
+    {
+      "answer": "20",
+      "context": "19 [Insert correct defined term from the Partnership Agreement.]\n20 [Only to be included for first closing of the fund.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.026536479592323303
+    },
+    {
+      "answer": "13",
+      "context": "dule [4] (Special Investment Conditions\nfor Applicants in US Placements);\n13 If you tick box C, please provide details of the beneficiary or beneficia",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 17,
+      "score": 0.0069558871909976006
+    },
+    {
+      "answer": "do not include for a fund that has been registered in any jurisdiction",
+      "context": ", do not include for a fund that has been registered in any jurisdiction).]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 7,
+      "score": 0.004435725510120392
+    },
+    {
+      "answer": "_bcassidy@INVENT M7.com",
+      "context": ".10\nAgreement will be marked for the attention of\nEmail address _bcassidy@INVENT M7.com\nTax identification number 123-45-6789\nUnited Kingdom Unique Ta",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.003946644254028797
+    },
+    {
+      "answer": "ONE\nWORLD TRADE CENTER, SUITE 8500, NEW YORK, NY 10007] OF [INSERT ADDRESS OF\nGENERAL PARTNER]",
+      "context": "SDICTION OF ESTABLISHMENT] [ONE\nWORLD TRADE CENTER, SUITE 8500, NEW YORK, NY 10007] OF [INSERT ADDRESS OF\nGENERAL PARTNER] (THE \"GENERAL PARTNER\");\n(3",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.0031146847177296877
+    }
+  ],
+  "What is the Fund Domicile?": [
+    {
+      "answer": "jurisdiction",
+      "context": ", do not include for a fund that has been registered in any jurisdiction).]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 7,
+      "score": 0.020649218931794167
+    },
+    {
+      "answer": "jurisdiction other than the United States",
+      "context": "f: (A) organised or incorporated under the laws of any\njurisdiction other than the United States; and (B) formed by a US Person principally\nfor the pu",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 26,
+      "score": 0.010878211818635464
+    },
+    {
+      "answer": "ONE\nWORLD TRADE CENTER, SUITE 8500, NEW YORK, NY 10007]",
+      "context": "ERS], A [INSERT JURISDICTION OF ESTABLISHMENT] [ONE\nWORLD TRADE CENTER, SUITE 8500, NEW YORK, NY 10007] OF [INSERT ADDRESS OF\nGENERAL PARTNER] (THE \"G",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.005129663273692131
+    },
+    {
+      "answer": "6.",
+      "context": "eneral Partner\nnor any of their respective affiliates have any intention of registering the interests\nin the Partnership under any securities laws]6.\n",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 7,
+      "score": 0.0023947120644152164
+    },
+    {
+      "answer": "the Applicant\nis not acquiring an interest in the Partnership for the account or benefit of any US Person nor with a view to\nthe offer, sale or delivery, directly or indirectly of any such interest within the United States or to a US Person.",
+      "context": " the Applicant\nis not acquiring an interest in the Partnership for the account or benefit of any US Person nor with a view to\nthe offer, sale or delivery, directly or indirectly of any such interest within the United States or to a US Person.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 19,
+      "score": 0.0018797193188220263
+    }
+  ],
+  "How much is the Commitment Fees?": [
+    {
+      "answer": "warranty",
+      "context": "g as a result of any breach by the Applicant of any representations or\nwarranty given by it in this Agreement, [provided that the aggregate amount tha",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 10,
+      "score": 0.06811925023794174
+    },
+    {
+      "answer": "2.4",
+      "context": "nd admit the Applicant as a Limited Partner with a lesser Commitment than\n2.4 The General Partner shall promptly inform the Applicant of the acceptanc",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.03731558844447136
+    },
+    {
+      "answer": "amounts up to the maximum commitment applied for set forth in [part 2 of\nSchedule 1] below as the General Partner shall insert on its execution clause\nto this Agreement (its \"Commitment\");",
+      "context": "amounts up to the maximum commitment applied for set forth in [part 2 of\nSchedule 1] below as the General Partner shall insert on its execution clause\nto this Agreement (its \"Commitment\");",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.0032094053458422422
+    },
+    {
+      "answer": "Limited Partners cannot\nwithdraw from the Partnership and an interest in the Partnership cannot be\n2",
+      "context": "e Partnership Agreement, Limited Partners cannot\nwithdraw from the Partnership and an interest in the Partnership cannot be\n2 [Best practice is to inc",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 6,
+      "score": 0.0030256961472332478
+    },
+    {
+      "answer": "three] months",
+      "context": "licant of such admission, in each case on or before the date that\nis [three] months from the date of the submission by the Applicant of this Agreement",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.002915086690336466
+    }
+  ],
+  "What is the Vehicle?": [
+    {
+      "answer": "Partnership Agreement",
+      "context": "the Applicant\u2019s Side Letter] [the Management\nAgreement,] and the Partnership Agreement, and the consummation by the General Partner [and the\nManager] ",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.040047354996204376
+    },
+    {
+      "answer": "INVENT M7 PRIVATE EQUITY DEMO FUND IV",
+      "context": "DDRESS OF\nGENERAL PARTNER] (THE \"GENERAL PARTNER\");\n(3) [INVENT M7 PRIVATE EQUITY DEMO FUND IV], A [INSERT JURISDICTION OF\nESTABLISHMENT ] LIMITED PAR",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.011258837766945362
+    },
+    {
+      "answer": "10",
+      "context": "10 [Conform to governing law and jurisdiction provisions in the Partnership Agreement.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.008653952740132809
+    },
+    {
+      "answer": "Management Agreement,] this\nAgreement and the Partnership Agreement",
+      "context": "ch of [the Applicant\u2019s Side Letter,] [the Management Agreement,] this\nAgreement and the Partnership Agreement, have been authorised by all necessary a",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.007767043076455593
+    },
+    {
+      "answer": "Commitment\"); and\n2.3.2 a party to the Partnership Agreement",
+      "context": "its execution clause\nto this Agreement (its \"Commitment\"); and\n2.3.2 a party to the Partnership Agreement,\nand, following such acceptance, the Applica",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 5,
+      "score": 0.0043272296898067
+    }
+  ],
+  "What is the Telephone Number?": [
+    {
+      "answer": "1209742323",
+      "context": " of the client)\n(g) Email address adam@dummy.com\n(h) Telephone number 1209742323\nSCHEDULE 2: STATUS OF APPLICANT\nThe Applicant hereby represents, warr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.9541944265365601
+    },
+    {
+      "answer": "10",
+      "context": "10 [Conform to governing law and jurisdiction provisions in the Partnership Agreement.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 11,
+      "score": 0.14867174625396729
+    },
+    {
+      "answer": "ONE\nWORLD TRADE CENTER, SUITE 8500",
+      "context": "ITAL PARTNERS], A [INSERT JURISDICTION OF ESTABLISHMENT] [ONE\nWORLD TRADE CENTER, SUITE 8500, NEW YORK, NY 10007] OF [INSERT ADDRESS OF\nGENERAL PARTNE",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 4,
+      "score": 0.043146803975105286
+    },
+    {
+      "answer": "20",
+      "context": "19 [Insert correct defined term from the Partnership Agreement.]\n20 [Only to be included for first closing of the fund.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.02095283754169941
+    },
+    {
+      "answer": "MAPLES LAWYERS",
+      "context": "cluding as to which execution clause is\nto be used, please contact [MAPLES LAWYERS].\n2. This subscription agreement (including any Schedules and Appen",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.01137988455593586
+    }
+  ],
+  "What is the Fax Number?": [
+    {
+      "answer": "20",
+      "context": "19 [Insert correct defined term from the Partnership Agreement.]\n20 [Only to be included for first closing of the fund.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 24,
+      "score": 0.024357790127396584
+    },
+    {
+      "answer": "1209742323",
+      "context": " of the client)\n(g) Email address adam@dummy.com\n(h) Telephone number 1209742323\nSCHEDULE 2: STATUS OF APPLICANT\nThe Applicant hereby represents, warr",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.016117006540298462
+    },
+    {
+      "answer": "do not include for a fund that has been registered in any jurisdiction",
+      "context": ", do not include for a fund that has been registered in any jurisdiction).]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 7,
+      "score": 0.004467444494366646
+    },
+    {
+      "answer": "this Agreement",
+      "context": "rtner] [Administrator]to return to you a countersigned\nduplicate of this Agreement, please provide two completed and executed copies of this\n1. DEFINI",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 1,
+      "score": 0.003394186496734619
+    },
+    {
+      "answer": "_bcassidy@INVENT M7.com",
+      "context": ".10\nAgreement will be marked for the attention of\nEmail address _bcassidy@INVENT M7.com\nTax identification number 123-45-6789\nUnited Kingdom Unique Ta",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.0025167353451251984
+    }
+  ],
+  "What is the Email Address?": [
+    {
+      "answer": "_bcassidy@INVENT M7.com",
+      "context": ".10\nAgreement will be marked for the attention of\nEmail address _bcassidy@INVENT M7.com\nTax identification number 123-45-6789\nUnited Kingdom Unique Ta",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.9658551812171936
+    },
+    {
+      "answer": "[Mr.XYZ]",
+      "context": "nce, please complete this Agreement in draft and return it by email to [Mr.XYZ]\nin order that it can be confirmed that all sections have been complete",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 1,
+      "score": 0.6016247272491455
+    },
+    {
+      "answer": "adam@dummy.com",
+      "context": "e legal counsel),\nprovide the name of the client)\n(g) Email address adam@dummy.com\n(h) Telephone number 1209742323\nSCHEDULE 2: STATUS OF APPLICANT\nThe",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 16,
+      "score": 0.20884469151496887
+    },
+    {
+      "answer": "[insert name and address of GP, Administrator or GP counsel]",
+      "context": "eement\nshould be sent by post or courier to:\n[insert name and address of GP, Administrator or GP counsel]\n(b) Please also send any forms required by c",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 1,
+      "score": 0.16701602935791016
+    },
+    {
+      "answer": "MAPLES LAWYERS",
+      "context": "cluding as to which execution clause is\nto be used, please contact [MAPLES LAWYERS].\n2. This subscription agreement (including any Schedules and Appen",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 0,
+      "score": 0.005738458130508661
+    }
+  ],
+  "What is the Tax ID Number?": [
+    {
+      "answer": "123-45-6789",
+      "context": "on of\nEmail address _bcassidy@INVENT M7.com\nTax identification number 123-45-6789\nUnited Kingdom Unique Taxpayer Reference Number\nBank account details",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.9613316655158997
+    },
+    {
+      "answer": "UTR",
+      "context": "isting investor questionnaire in place of the relevant sections after the signature page.\n12 Please provide your UTR if you have been issued with one.",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 15,
+      "score": 0.09098125249147415
+    },
+    {
+      "answer": "taxes imposed on the Partnership",
+      "context": "taxes imposed on the Partnership, on amounts paid to the Partnership or on amounts\npayable by the Partnership, by any competent legal, tax or regulato",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 9,
+      "score": 0.003644384443759918
+    },
+    {
+      "answer": "16",
+      "context": "that it can be reasonably be expected to\ndetermine without the advice of counsel or accountants.]\n16 [Example language only. Subject to ERISA review.]",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 22,
+      "score": 0.0030245117377489805
+    },
+    {
+      "answer": "freedom of",
+      "context": "nfirms that it is B subject to\nthe following (and only the following) freedom of\nthereof\", in each case within the meaning of section 7704 of the Unit",
+      "filename": "SearchContextTest1.pdf",
+      "page_no": 9,
+      "score": 0.0015655998140573502
+    }
+  ]
+}

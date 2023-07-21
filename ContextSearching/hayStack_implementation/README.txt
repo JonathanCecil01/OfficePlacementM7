@@ -8,8 +8,9 @@ Reader Model - Roberta Uncased
 
 Steps to Run the application:
 
-1. Insert the file of interest in the data folder to perform extraction
-2. install the 'nltk' library, install the complete version of haystack
+1. Insert the file of interest in the haystack implementation folder to perform extraction
+2. install the 'nltk' library, install the complete version of haystack with the command -  pip install 'farm-haystack[colab,faiss,inference,ocr,preprocessing,file-conversion,pdf]', 
+Make sure to install the pdfplumber library as well.
 3. Then run the program from the existing directory. 
 4. A faiss document db, a results json file and a new pdf with the highlights will be created.
 
