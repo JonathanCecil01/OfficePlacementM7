@@ -1,0 +1,16 @@
+[
+    {"s": "Date", "q": "What is the Date?"},
+    {"s": "Applicant Name", "q": "What is the Applicant Name?"},
+    {"s": "General Partner Name", "q": "Who is the general partner of the fund?"},
+    {"s": "Limited Partner Name", "q": "Who is the Limited partner?"},
+    {"s": "Fund Name", "q": "What is the Fund Name?"},
+    {"s": "Law Firm", "q": "Who are the lawyers to be contacted?"},
+    {"s": "Fund Address", "q": "What is the Fund Address?"},
+    {"s": "Fund Domicile", "q": "What is the Fund Domicile?"},
+    {"s": "Commitment Amount", "q": "How much is the Commitment Fees?"},
+    {"s": "Vehicle", "q": "What is the Vehicle?"},
+    {"s": "Telephone Number", "q": "What is the Telephone Number?"},
+    {"s": "Fax Number", "q": "What is the Fax Number?"},
+    {"s": "Email Address", "q": "What is the Email Address?"},
+    {"s": "Tax ID Number", "q": "What is the Tax ID Number?"}
+    ]

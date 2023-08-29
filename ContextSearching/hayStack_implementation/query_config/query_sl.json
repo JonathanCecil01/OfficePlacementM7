@@ -1,0 +1,12 @@
+[
+    {"s": "Fund Name", "q": "What is name of the demo Fund?"},
+    {"s": "Address", "q": "Where is the Address?"},
+    {"s": "Date", "q": "When is the Date of the Fund?"},
+    {"s": "Limited Partner Name", "q": "What is the Limited Partnership?"},
+    {"s": "Fund Manager", "q": "What is Name of the Fund Management Company?"},
+    {"s": "Commitment Amount", "q": "How much is the Commiment Amount?"},
+    {"s": "Favored Nation", "q": "The Most Favored Nation?"},
+    {"s": "Management Fee", "q": "What is the Management Fee Charged?"},
+    {"s": "Investment Requirement", "q": "What is the Investment Requirement?"},
+    {"s": "Fee Expense Offset", "q": "How much is the Fee Expense Offset?"}
+    ]

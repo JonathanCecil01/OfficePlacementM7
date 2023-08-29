@@ -1,0 +1,5351 @@
+{
+    "Science Comprehensive Exam 01": [
+        {
+            "question": "The second law of thermodynamics involves the concept of",
+            "options": {
+                "a": "entropy",
+                "b": "spontaneous reactions",
+                "c": "enthalpy",
+                "d": "catalyzed reactions",
+                "e": "calorimetry"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "When an acid and a base react, the products are",
+            "options": {
+                "a": "chlorofluorocarbons",
+                "b": "water and oxygen",
+                "c": "asalt and water",
+                "d": "a precipitate and a liquid",
+                "e": "water and carbon dioxide"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The other passenger, besides Jacques Charles, on the firstmanned hydrogen-fueled balloon flight was",
+            "options": {
+                "a": "Anne-Jean Robert",
+                "b": "Robert Boyle",
+                "c": "Nicolas-Louis Robert",
+                "d": "James Watson",
+                "e": "Benjamin Franklin"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "In 1808, John Dalton published",
+            "options": {
+                "a": "A New System of Chemical Philosophy",
+                "b": "A System of Chemistry",
+                "c": " Philosophia Naturalis Principia Mathematica",
+                "d": "Journal de Physique",
+                "e": "Dattonian Theory"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following reactions is NOT one of the fivebasic types of reactions?",
+            "options": {
+                "a": "single replacement",
+                "b": "synthesis",
+                "c": "acid-base",
+                "d": "combustion",
+                "e": "double replacement"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "In which manner are elements arranged in the periodictable?",
+            "options": {
+                "a": "decreasing electron affinity",
+                "b": "increasing atomic radius",
+                "c": "increasing ionization energy",
+                "d": "increasing atomic number",
+                "e": "decreasing atomic mass"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following concepts is NOT a state function?",
+            "options": {
+                "a": "Gibbs Free Energy",
+                "b": "heat",
+                "c": "enthalpy",
+                "d": "pressure",
+                "e": "entropy"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Joseph Black's term \"fixed air\" referred to",
+            "options": {
+                "a": "carbon dioxide",
+                "b": "nitrogen",
+                "c": "oxygen",
+                "d": "hydrogen",
+                "e": "helium"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The law of multiple proportions states that",
+            "options": {
+                "a": "chemical reactions can cause atoms to combine,separate, and rearrange",
+                "b": "if two elements combine to form more than onecompound, their masses will combine in wholenumber ratios",
+                "c": "a substance's properties depend on the ratios of itselements according to mass",
+                "d": "asubstance is always composed of the sameproportion of each element",
+                "e": "the proportions in which atoms combine aredependent on their weight"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Organic solutions are those in which the solvent",
+            "options": {
+                "a": "isa polar substance",
+                "b": "is a nonpolar substance",
+                "c": "is water",
+                "d": "occurs naturally",
+                "e": "contains carbon"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which intermolecular force creates electrical conductivity?",
+            "options": {
+                "a": "hydrogen bonds",
+                "b": "dipole moments",
+                "c": "metallic bonds",
+                "d": "ionic bonds",
+                "e": "covalent bonds"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which element did Henry Cavendish identify?",
+            "options": {
+                "a": "carbon",
+                "b": "helium",
+                "c": "hydrogen",
+                "d": "carbon dioxide",
+                "e": "oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following properties do metals NOT have?",
+            "options": {
+                "a": "sonorous",
+                "b": "lustrous",
+                "c": "malleable",
+                "d": "insulating",
+                "e": "ductile"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When the AG value of a reaction is negative, the",
+            "options": {
+                "a": "spontaneity of the reaction depends on thetemperature",
+                "b": "reaction is nonspontaneous",
+                "c": "change in enthalpy is positive",
+                "d": "reaction is spontaneous",
+                "e": "change in entropy is negative"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " A positive cell voltage indicates a(n)",
+            "options": {
+                "a": "nonspontaneous reaction",
+                "b": "spontaneous reaction",
+                "c": "change in entropy",
+                "d": "change in enthalpy",
+                "e": "release of heat"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following ideas did Dalton NOT propose?",
+            "options": {
+                "a": "Atoms of the same element will have the sameproperties.",
+                "b": "All matter is composed of indivisible particles.",
+                "c": "Chemical reactions cause atoms to combine,separate and rearrange.",
+                "d": "Atoms of different elements can combine incertain ratios to form compounds.",
+                "e": "Atoms are composed of protons, neutrons, andelectrons."
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The chemical formula of mercuric oxide is",
+            "options": {
+                "a": "HgOs",
+                "b": "HgO\u00ab",
+                "c": "HgO",
+                "d": "HgO",
+                "e": "HgOs"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The field of science that deals with the wave-particleduality of matter is",
+            "options": {
+                "a": "quantum physics",
+                "b": "electromagnetism",
+                "c": "cosmology",
+                "d": "relativity",
+                "e": "electrochemistry"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following scientific devices are usedcommonly in airports?",
+            "options": {
+                "a": "micrometers",
+                "b": "magnetographs",
+                "c": " electroscopes",
+                "d": "mass spectrometers",
+                "e": "burets"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Charged atoms are referred to as",
+            "options": {
+                "a": "isotopes",
+                "b": "positrons",
+                "c": "ions",
+                "d": "alpha particles",
+                "e": "beta particles"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of these quantities strictly increases down a group ofthe periodic table?",
+            "options": {
+                "a": "atomic radius",
+                "b": "ionization energy",
+                "c": "number of valence electrons",
+                "d": "electron affinity",
+                "e": " electronegativity"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The type of relationship between the volume andtemperature of a gas is called",
+            "options": {
+                "a": "constant proportionality",
+                "b": "geometric proportionality",
+                "c": "inverse proportionality",
+                "d": "direct proportionality",
+                "e": "_ inverse-square proportionality"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which main question could phlogiston theory not answer?",
+            "options": {
+                "a": "Why is oxygen emitted during combustion?",
+                "b": "Why do humans exhale carbon dioxide?",
+                "c": "Why is hydrogen tasteless and odorless?",
+                "d": "Why is carbon monoxide undetectable?",
+                "e": "Why does air require combustion?"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Solubility refers to the",
+            "options": {
+                "a": "amount of solute that will dissolve in a certainamount of solvent",
+                "b": "relative amounts of solute and solvent present",
+                "c": "interaction of polar and nonpolar molecules",
+                "d": "effects of the forces of hydration on polarmolecules",
+                "e": "changes in physical properties as a solution isformed"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What makes a solution acidic?",
+            "options": {
+                "a": "an excess of H'* ions",
+                "b": "a lack of OH ions",
+                "c": "_ its ability to react with bases",
+                "d": "a positive charge",
+                "e": "_ its ability to accept H' ions in a reaction"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following formulae is the chemical formulafor table salt?",
+            "options": {
+                "a": "NaCh",
+                "b": "NaCl",
+                "c": "NaCl",
+                "d": "NaCl",
+                "e": "NaCl"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The transition towards empiricism occurred in the",
+            "options": {
+                "a": "1400s",
+                "b": "1800s",
+                "c": "1700s",
+                "d": "1600s",
+                "e": "1300s"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which types of molecules can be characterized as havingpermanent van der Waals forces?",
+            "options": {
+                "a": "molecules with covalent bonds",
+                "b": "nonpolar molecules",
+                "c": "polar molecules",
+                "d": "molecules with hydrogen bonds",
+                "e": "molecules with ionic bonds"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When a silver metal is placed in a copper solution, whatwill happen?",
+            "options": {
+                "a": "Combustion will occur.",
+                "b": "No reaction will occur.",
+                "c": "Carbon dioxide will be produced.",
+                "d": "A precipitate will form.",
+                "e": "Hydrogen gas will be produced."
+            },
+            "answer": "B"
+        },
+        {
+            "question": " When the heat of fusion is involved in the phase change ofa solid, the solid",
+            "options": {
+                "a": "dissociates",
+                "b": "breaks",
+                "c": "melts",
+                "d": " sublimates",
+                "e": "freezes"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " In the photoelectric effect, energy is transferred to anelectron from a",
+            "options": {
+                "a": "proton",
+                "b": "positron",
+                "c": "photon",
+                "d": "neutron",
+                "e": "beta particle"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Jacques Charles was interested in hydrogen as a means of",
+            "options": {
+                "a": "_ exploring alternative electricity sources",
+                "b": "fueling balloon flight",
+                "c": "refining petroleum",
+                "d": "methanol production",
+                "e": "manufacturing ammonia"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Raising the temperature of 1 gram of water by 1\u00b0 C takes",
+            "options": {
+                "a": "5.85 J of heat",
+                "b": "4.18 J of heat",
+                "c": "4.37 J of heat",
+                "d": "4J of heat",
+                "e": "3.29 J of heat"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Enthalpy is proportional to the",
+            "options": {
+                "a": "volume of a gas",
+                "b": "amount of heat added",
+                "c": "pressure of a gas",
+                "d": "amount of a chemical present",
+                "e": "temperature of a gas"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Nonpolar solvents normally only contain",
+            "options": {
+                "a": "hydrogen and oxygen",
+                "b": "nitrogen and oxygen",
+                "c": "carbon and hydrogen",
+                "d": "carbon and hydrogen",
+                "e": "carbon and oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The scientific principle that essentially restates the law ofconservation of mass is",
+            "options": {
+                "a": "Hess's law",
+                "b": " Raoult's law",
+                "c": "Lavoisier's principle",
+                "d": "Avogadro's law",
+                "e": "Boyle's law"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " At97\u00b0 C and 218 atm, according to the phase diagrambelow, matter is anPressure218 atm \u00ae e\\ is /\\ /\\ Jiy| water vapor, 7 (eas)= 97\u00b0CTemperature (\u00b0C)",
+            "options": {
+                "a": "gas",
+                "b": "supercritical fluid",
+                "c": "solid",
+                "d": "liquid",
+                "e": "plasma"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which experiment showed the wave properties ofelectrons?",
+            "options": {
+                "a": "Gay-Lussac experiment",
+                "b": "Raoult-Lewis experiment",
+                "c": "Scheele-Davisson experiment",
+                "d": "Davisson-Germer experiment",
+                "e": "Franklin-Watson experiment"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Forces between temporary dipoles are called",
+            "options": {
+                "a": "hydrogen bonds",
+                "b": "intramolecular forces",
+                "c": "van der Waals forces",
+                "d": "London dispersion forces",
+                "e": "dipole-dipole forces"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " An atom's electronegativity refers to",
+            "options": {
+                "a": "_ its ability to form covalent bonds",
+                "b": "_ its level of polarity",
+                "c": "its number of electron shells",
+                "d": "the attraction it has for neighboring electrons",
+                "e": "the energy required to remove an outer electronfrom it"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following substances is a substitute forchlorofluorocarbons?",
+            "options": {
+                "a": "ammonia",
+                "b": "nitrogen",
+                "c": "methane",
+                "d": "ozone",
+                "e": "carbon"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which molecule is chemically arranged in a ratio of 1:2:1?",
+            "options": {
+                "a": "salt",
+                "b": "methane",
+                "c": "ammonia",
+                "d": "glucose",
+                "e": "caffeine"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of these compounds combines in a ratio of 1:19?",
+            "options": {
+                "a": "HF",
+                "b": "H,O",
+                "c": "CO;",
+                "d": "NaCl",
+                "e": "CH,"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Generally, increasing temperature will",
+            "options": {
+                "a": "increase the chance of a spontaneous reaction",
+                "b": "decrease reaction rates",
+                "c": "increase the stability of a substance",
+                "d": "increase the amount of a substance",
+                "e": "increase reaction rates"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following contributions did AntoineLavoisier NOT make to the field of chemistry?",
+            "options": {
+                "a": "proving that matter is conserved in chemical andphysical interactions",
+                "b": "refuting the notion of element transmutation",
+                "c": "discovering that air is composed mostly of oxygenand nitrogen",
+                "d": "developing the current system of chemicalnomenclature",
+                "e": "discovering that water cannot be converted intoEarth"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which scientific concept did James Watt use wheninventing the steam engine?",
+            "options": {
+                "a": "distillation",
+                "b": "sublimation",
+                "c": "combustion",
+                "d": "oxidization",
+                "e": "latent heat"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Reactions that have a net absorption of heat are called",
+            "options": {
+                "a": "nonspontaneous",
+                "b": "endothermic\u00a2. spontaneous",
+                "d": "catalyzed",
+                "e": "exothermic"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The metal single replacement reaction of Cu + 2AgNO3will have products",
+            "options": {
+                "a": "2Cu(NOs)2+ Ag",
+                "b": "2CuAg + NO;",
+                "c": "Cu(NOs)2+ 2Ag",
+                "d": "CuNO3+ Ag",
+                "e": "CuNOs;+ Ag"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The use of supernatural explanations for naturalphenomena is characteristic of",
+            "options": {
+                "a": "hermeticism",
+                "b": "transmutation",
+                "c": "phrenology",
+                "d": "alchemy",
+                "e": "astronomy"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " No temperature can ever go lower than",
+            "options": {
+                "a": "-273\u00b0C",
+                "b": "-273\u00b0F",
+                "c": "273K",
+                "d": "-273Ke 0\u00b0C"
+            },
+            "answer": "A"
+        }
+    ],
+    "Science Comprehensive Exam 02": [
+        {
+            "question": "Two water molecules are produced when methane is usedin the process of",
+            "options": {
+                "a": "precipitation",
+                "b": "decomposition",
+                "c": "combustion",
+                "d": "percolation",
+                "e": "oxidation"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The Davisson-Germer experiment proved the",
+            "options": {
+                "a": "particle properties of electrons",
+                "b": "radioactivity of deuterium",
+                "c": "existence of hydrogen bonds",
+                "d": "double helix model of DNA",
+                "e": "wave properties of electrons"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Absorbing a photon makes an electron",
+            "options": {
+                "a": "move to a higher energy level",
+                "b": "leave its atom entirely",
+                "c": "move to a lower energy level",
+                "d": "become more negatively charged",
+                "e": "attract other electrons towards its atom"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Who identified hydrogen?",
+            "options": {
+                "a": "Joseph Black",
+                "b": "Antoine Lavoisier",
+                "c": "Nicolas-Louis Robert",
+                "d": "Robert Boyle",
+                "e": "Henry Cavendish"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "96,500 coulombs of charge are present in a(n)",
+            "options": {
+                "a": "becquerel",
+                "b": "Faraday",
+                "c": "volt",
+                "d": "candela",
+                "e": "ampere"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "3:8 is the mass ratio of the atoms in a molecule of",
+            "options": {
+                "a": "ammonia",
+                "b": "permanganate",
+                "c": "octane",
+                "d": "carbon dioxide",
+                "e": "chromateDemIDECWe do our best, so you can do yours. ee"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following isotopes is radioactive?",
+            "options": {
+                "a": "aH37",
+                "b": "17\u00b0 l35",
+                "c": "17\u00b0 l18",
+                "d": "8 (a)60",
+                "e": "27\u00a3 0"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The MOST ordered substance at room temperature out ofthe following is",
+            "options": {
+                "a": "methane",
+                "b": "mercury",
+                "c": "carbon dioxide",
+                "d": "water",
+                "e": "lead"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "How many kilograms of gold did construction of theColumbia require?",
+            "options": {
+                "a": "42",
+                "b": "40",
+                "c": "44",
+                "d": "36",
+                "e": "38"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The Bronsted-Lowry model expands on Arrhenius's workby explaining why",
+            "options": {
+                "a": "water is amphoteric",
+                "b": "weak bases do not ionize",
+                "c": "bases have an excess of OH",
+                "d": "ammonia is basic despite not containing OH\u201d",
+                "e": "the molarity of every acid and base is different"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following reactions is an example of a metalreplacement reaction?",
+            "options": {
+                "a": "Cl, + 2NaBr <sym-Wingdings-FOEO> 2NaCl + Bry",
+                "b": "K+ NaCl <sym-Wingdings-FOEO> KCI + Na",
+                "c": "Ch + Cah <sym-Wingdings-FOEO> CaCh + h",
+                "d": "Cu + 2AgNOs <sym-Wingdings-FOEO> 2Ag +Cu(NOs)2",
+                "e": "2K +2H)O <sym-Wingdings-FOEO> 2KOH + H2"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Dalton's findings drew on the work of",
+            "options": {
+                "a": "Nicolas-Louis Robert and Anne-Jean Robert",
+                "b": "Antoine Lavoisier and Joseph Louis Proust",
+                "c": "Clinton Davisson and Lester Germer",
+                "d": "Leucippus and Democritus",
+                "e": "James Watson and Francis Crick"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Calorimetry is the process of measuring",
+            "options": {
+                "a": "changes in enthalpy",
+                "b": "the activation energy required for a reaction",
+                "c": "the spontaneity of a reaction",
+                "d": "the Gibbs Free Energy",
+                "e": "changes in entropy"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Carl Wilhelm Scheele discovered the physical properties of",
+            "options": {
+                "a": "helium",
+                "b": "hydrogen",
+                "c": "oxygen",
+                "d": "carbone, nitrogen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The 1600s saw a transition towards",
+            "options": {
+                "a": "alchemy",
+                "b": "empiricism",
+                "c": "hereticism",
+                "d": "supernatural thought",
+                "e": "deism"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " NaCl combines in a ratio of",
+            "options": {
+                "a": "23:35",
+                "b": "8:13",
+                "c": "8:19",
+                "d": "3:7",
+                "e": "1:17"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " When 1 mole of carbon is converted to 1 mole of carbondioxide, the heat given off is equal to",
+            "options": {
+                "a": "594 kj",
+                "b": "394.5 kJ",
+                "c": "362 kJ",
+                "d": "393.5 kJ",
+                "e": "395.5 kJ"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Different isotopes of the same atom have different",
+            "options": {
+                "a": "atomic masses",
+                "b": "numbers of valence electrons",
+                "c": "numbers of electrons",
+                "d": "atomic numbers",
+                "e": "radioactivity levels"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " A mass spectrometer separates atoms and compounds using",
+            "options": {
+                "a": "Faraday collectors",
+                "b": "electromagnetic fields",
+                "c": "radioactivity levels",
+                "d": "magnetic fields",
+                "e": "electric fields"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " An atom's attraction for neighboring electrons is its",
+            "options": {
+                "a": "electronegativity",
+                "b": "electron affinity",
+                "c": "polarity",
+                "d": "ionization energy",
+                "e": "atomic radius"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Boyle's law influenced the invention of the",
+            "options": {
+                "a": "cotton gin",
+                "b": "telegraphc, jet engine",
+                "d": "_hydrogen-powered balloone, steam engine"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The first manned hydrogen-fueled balloon flight took placeon",
+            "options": {
+                "a": "December 1, 1789",
+                "b": "December 1, 1783",
+                "c": "December 1, 1783",
+                "d": "December 1, 1782",
+                "e": "December 1, 1785"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " John Dalton's A New System of Chemical Philosophycontained his",
+            "options": {
+                "a": "support for the Copernican model",
+                "b": "proof of the ideal gas law",
+                "c": "conclusions on atomic behavior",
+                "d": "refutation of atomism",
+                "e": "experiments with gases"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Johann Baptista van Helmont wanted to apply his findingsin chemistry to understand the",
+            "options": {
+                "a": "inaccuracies of phlogiston theory",
+                "b": "bonding of atoms",
+                "c": "structure of DNA",
+                "d": "causes of disease",
+                "e": "relationship between a gas's temperature andpressure"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following chemical processes is NOTassociated with alchemy?",
+            "options": {
+                "a": "distillation",
+                "b": "combustion",
+                "c": "percolation",
+                "d": "transmutation",
+                "e": "extraction"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which characteristic explains water's high melting point?",
+            "options": {
+                "a": "hydrogen bonds",
+                "b": "\u2014 surface tension",
+                "c": "polarity",
+                "d": "atomic structure",
+                "e": "strong covalent bonds"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The molecular motion within a substance can be measuredusing its",
+            "options": {
+                "a": "heat",
+                "b": "temperature",
+                "c": "density",
+                "d": "electrical conductivity",
+                "e": "volume"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Water's amphoteric state describes its",
+            "options": {
+                "a": "ability to be an acid or base",
+                "b": "low boiling point",
+                "c": "high level of polarity",
+                "d": "good surface tension",
+                "e": "high boiling point"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The symbol used to denote enthalpy isa G",
+            "options": {
+                "b": "Ec HAdLe S\u00a7"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Joseph Black started researching heat directly after he",
+            "options": {
+                "a": "invented the steam engine",
+                "b": "discovered carbon dioxide",
+                "c": "invented the ice-calorimeter",
+                "d": "published his findings on latent heat",
+                "e": "observed melting snow"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following materials are allotropes of the sameelement?",
+            "options": {
+                "a": "ozone and black selenium",
+                "b": "diamond and graphite",
+                "c": " stanene and diamond",
+                "d": "samarium and graphite",
+                "e": "austenite and ferrite"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Non-bonding electron pairs are specifically called lone pairswithin the",
+            "options": {
+                "a": "collision model",
+                "b": "quantum mechanical model",
+                "c": "planetary model",
+                "d": "Bohr model",
+                "e": "Lewis structure"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " An element's chemical behavior is determined by theatom's",
+            "options": {
+                "a": "internal structure",
+                "b": "_ electronegativity",
+                "c": "valence electrons",
+                "d": "polarity",
+                "e": "adjacent atoms"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The parameters within the equation for non-ideal gases arecalled",
+            "options": {
+                "a": "Faraday constants",
+                "b": "coulombs",
+                "c": "Boyle's parameters",
+                "d": "molecular activity constants",
+                "e": "van der Waals constants"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Brass is an alloy of",
+            "options": {
+                "a": "gold and silver",
+                "b": "copper and silver",
+                "c": "copper and zinc",
+                "d": "silver and zinc",
+                "e": "gold and platinum"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The 1840s saw the rise of",
+            "options": {
+                "a": "electroplating",
+                "b": "transmutation",
+                "c": "effusion",
+                "d": "distillation",
+                "e": "controlled combustion"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Who MOST likely benefited from the work of JosephLouis Proust?",
+            "options": {
+                "a": "John Dalton",
+                "b": "Claude Louis Berthollet",
+                "c": "Joseph Black",
+                "d": "Antoine Lavoisier",
+                "e": "Francis Crick"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " When lithium is added to water, Which gas is produced?",
+            "options": {
+                "a": "oxygen",
+                "b": "nitrogen",
+                "c": "helium",
+                "d": "carbon",
+                "e": "hydrogen"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which idea did Dalton NOT originally propose?",
+            "options": {
+                "a": "Atoms cannot be created or destroyed.",
+                "b": "Atoms of the same element have the sameproperties.",
+                "c": "Chemical reactions can cause atoms to combine,separate, and rearrange.",
+                "d": "Matter is composed of extremely small, indivisibleparticles.",
+                "e": "Atoms of different elements can combine inwhole-number ratios to form compounds."
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Metallic bonds explain why metals are",
+            "options": {
+                "a": "ductile",
+                "b": "lustrous\u00a2. sonorous",
+                "d": "malleable",
+                "e": "electrical conductors"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Chrome plating is used to",
+            "options": {
+                "a": "raise the conductivity of certain metals",
+                "b": "make airplanes more aerodynamic",
+                "c": "create shiny parts on automobiles",
+                "d": "transfer electrons from one metal to another",
+                "e": "prevent tarnishing on silverware"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Quantum physics deals with matter's",
+            "options": {
+                "a": "particle properties",
+                "b": "electromagnetic radiation",
+                "c": "special relativity",
+                "d": "wave properties",
+                "e": "_wave-particle duality"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The idea that nature was made of four elements was an",
+            "options": {
+                "a": "organic hydrocarbon",
+                "b": "ethanol",
+                "c": "mercuric substance",
+                "d": "oxide",
+                "e": "nonpolar substance"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " How many more electrons does sodium need to fill itsvalence shell?",
+            "options": {
+                "a": "two",
+                "b": "five",
+                "c": "one",
+                "d": "eight",
+                "e": "seven"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Paracelsus accidentally produced",
+            "options": {
+                "a": "hydrogen",
+                "b": "carbon",
+                "c": "carbon dioxide",
+                "d": "oxygene, nitrogen"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The main factor for lowered soil pH in some regions is theabsorption of",
+            "options": {
+                "a": "chlorofluorocarbons",
+                "b": "silver halide",
+                "c": "chlorine",
+                "d": "metallic mercury",
+                "e": "acid rain"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Beyond the critical point on a phase diagram, all substancesexist as",
+            "options": {
+                "a": "gases",
+                "b": "supercritical fluids",
+                "c": "solids",
+                "d": "plasma",
+                "e": "liquids"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Many acids are substances whose formulas start with atomsor compounds of",
+            "options": {
+                "a": "oxygen",
+                "b": "hydroxide",
+                "c": "hydrogen",
+                "d": "carbon",
+                "e": "hydrate"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Dissolved toxic substances are often removed fromcontaminated water using",
+            "options": {
+                "a": "distillation",
+                "b": "percolation",
+                "c": "oxidation",
+                "d": "dehydration",
+                "e": "precipitation"
+            },
+            "answer": "E"
+        }
+    ],
+    "Science Comprehensive Exam 03": [
+        {
+            "question": "Which of the following forces are the only intermolecularforces that occur between nonpolar molecules?",
+            "options": {
+                "a": "London dispersion forces",
+                "b": "dipole-dipole moments",
+                "c": "hydrogen bonds",
+                "d": "metallic bonds",
+                "e": "van der Waals forces"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following substances is NOT an acid?",
+            "options": {
+                "a": "HBr",
+                "b": "HCl",
+                "c": "HNO;",
+                "d": "HNO;",
+                "e": "CaCO;"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which diagram or model shows the interchange of all threestates of matter of a pure substance?",
+            "options": {
+                "a": "concentration model",
+                "b": "phase diagram",
+                "c": "energy diagram",
+                "d": "molecular motion projection",
+                "e": "collision model"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Luigi Galvani discovered what he termed \"animalelectricity\" using",
+            "options": {
+                "a": "dogs",
+                "b": "rats",
+                "c": "frogs",
+                "d": "hamsters",
+                "e": "cats"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Alchemists pioneered all the following chemical processesEXCEPT",
+            "options": {
+                "a": "electroplating",
+                "b": "transmutation",
+                "c": "percolation",
+                "d": "extraction",
+                "e": "distillationDemIDECWe do our best, so you can do yours. ee"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The equation for a gas molecule's \"root mean square\"speed is3kTa m= [\u2014mbo r= Ptm3Krc u= femd s= {=3m\u2014 = /SKre u= |7. The sign that indicates a partial charge within a molecule isa+",
+            "options": {
+                "b": "\u00a7c 6dbe \u00a9"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The sign that indicates a partial charge within a molecule isa+",
+            "options": {
+                "b": "\u00a7c 6dbe \u00a9"
+            },
+            "answer": ""
+        },
+        {
+            "question": "In which ratio of deuterium to hydrogen does the formercompound naturally exist?",
+            "options": {
+                "a": "1:5000",
+                "b": " 1:5682ec. 1:10000",
+                "d": " 1:7500",
+                "e": "1:6500"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "When a proton is added to an atom's nucleus, its atomicnumber",
+            "options": {
+                "a": "increases by three",
+                "b": "decreases by one",
+                "c": "decreases by two",
+                "d": "increases by one",
+                "e": "increases by two"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " 2Na+ Ch <sym-Wingdings-FOEO> 2NaCl is an exampleofa",
+            "options": {
+                "a": "double replacement reaction",
+                "b": "synthesis reaction",
+                "c": "salt-water reaction",
+                "d": "single replacement reaction",
+                "e": "decomposition reaction"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following hydrogen bases bonds withthymine within a DNA molecule?",
+            "options": {
+                "a": "ligase",
+                "b": "guanine",
+                "c": "adenine",
+                "d": "uracil",
+                "e": "cytosine"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following statements is NOT a ruleconcerning oxidation numbers?",
+            "options": {
+                "a": "Oxidation numbers of atoms in neutralcompounds must add up to 0.",
+                "b": "The oxidation number of all monatomic ions is theion's charge.",
+                "c": "Halogens have oxidation numbers of -1.",
+                "d": "Hand Group 1 elements have oxidation numbersof +1.",
+                "e": "All neutral atoms have an oxidation number of 0."
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When copper wire is added to silver nitrate, what occurs isa",
+            "options": {
+                "a": "acid-base reaction",
+                "b": "double replacement reaction",
+                "c": "single replacement reaction",
+                "d": "precipitation reaction",
+                "e": "oxidation reaction"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Who disproved phlogiston theory?",
+            "options": {
+                "a": "Antoine Lavoisier",
+                "b": "Johann Baptista van Helmont",
+                "c": "Henry Cavendish",
+                "d": "Joseph Priestley",
+                "e": "Joseph Black"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The collisions that occur between gas molecules and thewalls of their container are",
+            "options": {
+                "a": "ideal",
+                "b": "one-dimensional",
+                "c": "partially inelastic",
+                "d": "completely inelastic",
+                "e": "elastic"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following substances is used to manufactureartificial diamonds?",
+            "options": {
+                "a": "carbon nanotubes",
+                "b": "ethanol",
+                "c": "octane",
+                "d": "graphite",
+                "e": "graphene"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The hydrogen bonds present in water molecules explain",
+            "options": {
+                "a": "water has a low boiling point",
+                "b": "ice has a higher density than liquid water",
+                "c": "ice has a lower density than liquid water",
+                "d": "a warm body of water has less surface tension",
+                "e": "water takes up less volume when it freezes"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following metals can displace hydrogen fromits source in a single replacement reaction?",
+            "options": {
+                "a": "Au",
+                "b": "Agc Cu",
+                "d": "Fe",
+                "e": "Hg"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The MOST common use of Carbon-14 is",
+            "options": {
+                "a": "cosmic ray identification",
+                "b": "detecting bacteria",
+                "c": "radiolabeling",
+                "d": "carbon dating",
+                "e": "disinfect nuclear power plants"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Joseph Priestley observed the release of oxygen in 1774 byheating a sample of",
+            "options": {
+                "a": "magnesium oxide",
+                "b": ". silica",
+                "c": "mercuric oxide",
+                "d": "ethanol",
+                "e": "sulfur dioxide"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which part of the chemical reaction CHs + 202 > 2H2O+ CO, allows us to conclude that the reactant is an organichydrocarbon?",
+            "options": {
+                "a": "water as a combustion product",
+                "b": "carbon dioxide as a combustion product",
+                "c": "oxygen being a reactant",
+                "d": "methane being a natural gas",
+                "e": "water & carbon dioxide as combustion products"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What fraction of helium's mass carbon's mass?",
+            "options": {
+                "a": "1/5",
+                "b": "1/4c 1/7",
+                "d": "1/2",
+                "e": "1/3"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How many carbon isotopes are found in nature?",
+            "options": {
+                "a": "four",
+                "b": "one",
+                "c": "five",
+                "d": "two",
+                "e": "three"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which function does the pH scale use?",
+            "options": {
+                "a": "exponential",
+                "b": "linearc,  inverse-square",
+                "d": "logarithmic",
+                "e": "square"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Except at absolute zero, all substances are considered",
+            "options": {
+                "a": "a mixture of a solute and a solvent",
+                "b": "mixtures of gases",
+                "c": "an ensemble of rapidly moving particles",
+                "d": "particles bonded together",
+                "e": "mixtures of other substances"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which radioactive isotope is used to examine steelcomponents?",
+            "options": {
+                "a": "2c2H",
+                "b": "1",
+                "c": "4H14",
+                "d": "6 C60",
+                "e": "27\u00a3 0"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following atomic structural models is NOT atype of solid?",
+            "options": {
+                "a": "metallic",
+                "b": "covalent lattice",
+                "c": "covalent network",
+                "d": "ionic lattice",
+                "e": "molecular"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Electrons are symmetrically distributed between two nucleiwhen the two atoms",
+            "options": {
+                "a": "are ionically bonded",
+                "b": "are covalently bonded",
+                "c": "are hydrogen and oxygen",
+                "d": "are identical",
+                "e": "have an electronegativity difference greater than1.8"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which element has the highest Pauling electronegativity?",
+            "options": {
+                "a": "lithium",
+                "b": "chlorine",
+                "c": "fluorine",
+                "d": "nitrogen",
+                "e": "helium"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The Bronsted-Lowry acid-base theory defined a base as any",
+            "options": {
+                "a": "amphoteric substance",
+                "b": "H+ donator in a reaction",
+                "c": "Hf acceptor in a reaction",
+                "d": "reactant with a pH below seven",
+                "e": "reactant that forms hydronium ions"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " 41 kilograms of gold were used in the construction of thespace shuttle",
+            "options": {
+                "a": "Columbia",
+                "b": "Voyager",
+                "c": "Discovery",
+                "d": "Sputnik",
+                "e": "Challenger"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The relationship PV/T = CD is characteristic of combiningBoyle's law with",
+            "options": {
+                "a": "the ideal gas law",
+                "b": " Raoult's Law",
+                "c": "Avogadro's law",
+                "d": "Gay-Lussac's Law",
+                "e": "Charles's law"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The electric charge on one mole of electrons is called a(n)",
+            "options": {
+                "a": "Weber",
+                "b": "Faraday",
+                "c": "ampere",
+                "d": " volt-meter",
+                "e": "Gauss"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " In the modern periodic table, elements are arranged inorder of increasing",
+            "options": {
+                "a": "ionization energy",
+                "b": "valence electrons",
+                "c": "electron shells",
+                "d": "atomic number",
+                "e": " electronegativity"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When lithium metal is added to water, what results is",
+            "options": {
+                "a": "ice",
+                "b": "water vapor",
+                "c": "hydrogen gas",
+                "d": "oxygen gas",
+                "e": "liquid oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Chrome plating is used to help manufacture",
+            "options": {
+                "a": "railroad tracks",
+                "b": "automobiles",
+                "c": "nanotubes",
+                "d": "refrigerators",
+                "e": "airplanes"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following type of chemical bonds is NOT anintramolecular force?",
+            "options": {
+                "a": "hydrogen",
+                "b": "dipole-dipole",
+                "c": "metallic",
+                "d": "covalent",
+                "e": "ionic"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following statements is NOT an assumptionof kinetic-molecular theory?",
+            "options": {
+                "a": "Gas molecules all move at the same speed inrandom directions.",
+                "b": "Gas molecules are moving rapidly in all directions.",
+                "c": "The volume of actual gas molecules is negligible.",
+                "d": "Gas pressure is a result of molecules colliding withthe walls of their container.",
+                "e": "No intermolecular forces exist between adjacentgas molecules."
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which main question could phlogiston theory not answer?",
+            "options": {
+                "a": "Why is carbon dioxide a product of combustion?",
+                "b": "Why is water a product of combustion?",
+                "c": "Why do acid-base reactions produce a salt andwater?",
+                "d": "Why is air required for combustion?",
+                "e": "Why does the activity series of metals affect singlereplacement reactions?"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Where is Carbong-14 naturally formed?",
+            "options": {
+                "a": "underwater",
+                "b": "hydrothermal vents",
+                "c": "peat bogs",
+                "d": "the upper atmosphere",
+                "e": "plant leaves"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The field of alchemy is defined as",
+            "options": {
+                "a": "the relationship between heat and substances",
+                "b": "_ the interaction of different substances",
+                "c": "scientific conclusions based on experiments",
+                "d": "the continuum of human exploration",
+                "e": "mystical explanations for natural phenomena"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which two scientists performed an experiment that showedthe wave properties of electrons?",
+            "options": {
+                "a": "Clinton Davisson and Luigi Brugnatelli",
+                "b": "Clinton Davisson and Lester Germer",
+                "c": "Johannes Bronsted and Thomas Lowry",
+                "d": "Henry Cavendish and Lester Germer",
+                "e": "Francis Crick and Ernest Rutherford"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The transfer of electrons from one molecule to anotheroccurs in a",
+            "options": {
+                "a": "electron affinity",
+                "b": "_ electronegativity",
+                "c": "ionization energy",
+                "d": "bonding ability",
+                "e": "atomic radius"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which type of reaction occurs when a substance reacts withoxygen gas?",
+            "options": {
+                "a": "oxidation reaction",
+                "b": "dehydration reaction",
+                "c": "decomposition reaction",
+                "d": "organic decomposition",
+                "e": "combustion reaction"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Isotopes differ from atoms in their",
+            "options": {
+                "a": "number of neutrons",
+                "b": "number of protons",
+                "c": "number of electrons",
+                "d": "electrical conductivity",
+                "e": " electronegativity"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The first hydrogen-fueled balloon flight lasted",
+            "options": {
+                "a": "50 minutes",
+                "b": "2 hours",
+                "c": "30 minutes",
+                "d": "1 hour",
+                "e": "45 minutes"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Robert Boyle first suggested the relationship between agas's pressure and",
+            "options": {
+                "a": "Boltzmann constant",
+                "b": "temperature",
+                "c": "molar mass",
+                "d": "volume",
+                "e": "number of moles"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " To which gas did Carl Wilhelm Scheele refer using theterm \"fire-air\"?",
+            "options": {
+                "a": "oxygen",
+                "b": "nitrogen",
+                "c": "helium",
+                "d": "carbon dioxide",
+                "e": " phlogiston"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The oxygen side of the molecule has a partial negativecharge in a molecule of",
+            "options": {
+                "a": "methane",
+                "b": "carbon dioxide",
+                "c": "water",
+                "d": "sulfuric acid",
+                "e": "calcium carbonate"
+            },
+            "answer": "C"
+        }
+    ],
+    "Science Comprehensive Exam 04": [
+        {
+            "question": "How many gases is Joseph Priestley credited with isolating?a Il",
+            "options": {
+                "b": "8c 0",
+                "d": "9",
+                "e": "10"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following processes is NOT a type ofnaturally occurring chemical process?",
+            "options": {
+                "a": "acid-base reactions",
+                "b": "transmutation",
+                "c": "redox reactions",
+                "d": "beta minus decaye, precipitation reactions"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Joseph Black conducted his experiments involving theheating of limestone in",
+            "options": {
+                "a": "1754",
+                "b": "1755",
+                "c": "1730",
+                "d": "1772",
+                "e": "1786"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Relative atomic masses were established for every elementin relation to",
+            "options": {
+                "a": "hydrogen",
+                "b": "rubidium",
+                "c": "carbon",
+                "d": "nitrogen",
+                "e": "oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The quantity that results from the calculation E\u00b0req- E\u00b0ox isthe",
+            "options": {
+                "a": "galvanic projection",
+                "b": "Faraday parameter",
+                "c": "electron gain",
+                "d": "possible voltage",
+                "e": "redox potential"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "A methane molecule's shape can be described as",
+            "options": {
+                "a": "bent",
+                "b": "trigonal pyramidal",
+                "c": "tetrahedral",
+                "d": "linear",
+                "e": "square pyramidal"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following is NOT a solubility rule forcommon compounds?",
+            "options": {
+                "a": "All acetates and chlorates are soluble.",
+                "b": "All common compounds of Group I are soluble.",
+                "c": "Most sulfides are insoluble, except for calcium andbarium.",
+                "d": "Strontium and magnesium are insoluble.",
+                "e": "All carbonates and hydroxides are insoluble."
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Historians use the term \"Scientific Revolution\" to refer toscientific developments in the",
+            "options": {
+                "a": "fourteenth and fifteenth centuries",
+                "b": "seventeenth and eighteenth centuries",
+                "c": "eighteenth and nineteenth centuries",
+                "d": "sixteenth and seventeenth centuries",
+                "e": "fifteenth and sixteenth centuries"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following statements does NOT express anadvantage of distillation over reverse osmosis?",
+            "options": {
+                "a": "It is easier to scale up to large sizes.",
+                "b": "There is less pretreatment needed.",
+                "c": "It has lower energy needs.",
+                "d": "There is less waste to dispose of.",
+                "e": "There is less need for membrane cleaning."
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Increasing the temperature of a substance generallyincreases its",
+            "options": {
+                "a": "number of moles",
+                "b": "volume",
+                "c": "heat",
+                "d": "pressure",
+                "e": "rate of chemical change"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Impurities are added to metal to increase the substance's",
+            "options": {
+                "a": "malleability",
+                "b": "conductivity",
+                "c": " sonority",
+                "d": "\u2014lustrousness",
+                "e": "strength. A"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " In the chemical symbol ae Z stands for the",
+            "options": {
+                "a": "mass number",
+                "b": "atomic number",
+                "c": "element symbol",
+                "d": "molar mass",
+                "e": "number of valence electrons"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " James Watt's invention of the steam engine drewinspiration from the discovery of his teacher",
+            "options": {
+                "a": "Fritz London",
+                "b": "Antoine Henri Becquerel",
+                "c": "Joseph Black",
+                "d": "Francis Crick",
+                "e": "Luigi Galvani"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following properties is NOT considered astate function?",
+            "options": {
+                "a": "heat",
+                "b": "energy",
+                "c": "pressure",
+                "d": "volume",
+                "e": "temperature"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Ina nuclear reactor, uranium fission begins when theuranium atom is hit by a free",
+            "options": {
+                "a": "positron",
+                "b": "helium atom",
+                "c": "beta particle",
+                "d": "electron",
+                "e": "neutron"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The pressure at the critical point of carbon dioxide is",
+            "options": {
+                "a": "41 atm",
+                "b": "65 atm",
+                "c": "94 atm",
+                "d": "73 atm",
+                "e": "89 atm"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which law explains the colligative properties of solutions?",
+            "options": {
+                "a": "Proust's law",
+                "b": "Hess's law",
+                "c": "Charles's law",
+                "d": "Rate law",
+                "e": "Raoult's law"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The Nernst equation connects cell potentials to the",
+            "options": {
+                "a": "reaction's equilibrium constant",
+                "b": "ratio of product to reactant concentrations",
+                "c": "spontaneity of reactions",
+                "d": "the changes in entropy",
+                "e": "free energy changes"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Nuclei break down via alpha decay when they have anatomic number greater than 83, or are larger than",
+            "options": {
+                "a": "thallium",
+                "b": "bismuth",
+                "c": "radon",
+                "d": "lead",
+                "e": "polonium"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The oxidation state of Lit is",
+            "options": {
+                "a": "+2",
+                "b": "0c -l",
+                "d": "-2e +1"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The wave properties of electrons are shown in the",
+            "options": {
+                "a": "quantum mechanical model",
+                "b": "molecular orbital projection",
+                "c": "orbital projection model",
+                "d": "Bohr model",
+                "e": "collision model"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following rules does NOT apply to oxidationnumbers?",
+            "options": {
+                "a": "Alkali metals have oxidation numbers of +1.",
+                "b": "The oxidation number of O is +2.",
+                "c": "All neutral atoms have an oxidation number of 0.",
+                "d": "H hasan oxidation number of +1.",
+                "e": "The sum of the oxidation numbers must equal thecharge of the polyatomic ion."
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following letters does NOT refer to a type oforbital shape?ae",
+            "options": {
+                "b": "pcsdde f"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The process by which enthalpy changes are measured iscalled",
+            "options": {
+                "a": "calibration",
+                "b": "potentiometry",
+                "c": "spectroscopy",
+                "d": "spectrophotometry",
+                "e": "calorimetry"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Who established that elements combine in defined ratios toform compounds?",
+            "options": {
+                "a": "Linus Pauling",
+                "b": " Joseph-Louis Proust",
+                "c": "Joseph-Louis Gay-Lussac",
+                "d": "Jean Baptiste Perrin",
+                "e": "Leucippus"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The empirical formula for acetylene is",
+            "options": {
+                "a": "HiC",
+                "b": "HeC",
+                "c": "CHa",
+                "d": "2CH",
+                "e": "CH"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The molality unit used is a",
+            "options": {
+                "a": "milliliter",
+                "b": "kilogram",
+                "c": "gram",
+                "d": "kiloliter",
+                "e": "liter"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following metals is NOT often used chromeplating?",
+            "options": {
+                "a": "palladium",
+                "b": "copper",
+                "c": "platinum",
+                "d": "rhodium",
+                "e": "bronze"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The idea that all substances are comprised of smallindivisible particles is called",
+            "options": {
+                "a": "atomism",
+                "b": "_ kinetic-molecular theory",
+                "c": "Charles' Law",
+                "d": "empiricism",
+                "e": "Raoult's Law"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Atoms that decay over time are",
+            "options": {
+                "a": "radioactive atoms",
+                "b": "nuclides",
+                "c": "ions",
+                "d": "positronse, isotopes"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " In 1919, the physicist Ernest Rutherford created oxygenatoms by colliding alpha particles with atoms of",
+            "options": {
+                "a": "fluorine",
+                "b": "hydrogen",
+                "c": "chlorine",
+                "d": "heliume, nitrogen"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following symbols is NOT used for anequilibrium constant?",
+            "options": {
+                "a": "Ka",
+                "b": " Ksp",
+                "c": "Kd",
+                "d": "Ke",
+                "e": "Kb"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The point past which both a liquid and a gas exhibit thesame properties is called the",
+            "options": {
+                "a": "triple point",
+                "b": "transitional point",
+                "c": "critical point",
+                "d": "point of no return",
+                "e": "supercritical point"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Reactions that have a net absorption of heat are describedas",
+            "options": {
+                "a": "nonspontaneous",
+                "b": "endothermic\u00a2. spontaneous",
+                "d": "catalyzed",
+                "e": "exothermic"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The chlorine isotope with 25% abundance is",
+            "options": {
+                "a": "C133",
+                "b": "Cl-37",
+                "c": "C35",
+                "d": "Cl-32",
+                "e": "Cl31"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " In caves, stalactites and stalagmites are formed from thecompound",
+            "options": {
+                "a": "calcium chloride",
+                "b": "calcium carbonate",
+                "c": "calcium phosphate",
+                "d": "calcium carbide",
+                "e": "calcium citrate"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How many electrons are shared between two atoms with atriple covalent bond?",
+            "options": {
+                "a": "2",
+                "b": "3c 9",
+                "d": "6e 1"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What is the MOST well-known environmentalcontaminant?",
+            "options": {
+                "a": "metal hydroxides",
+                "b": "chlorine",
+                "c": "chlorofluorocarbons",
+                "d": "ammonium",
+                "e": "mercury"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The geometric shapes of molecules are predicted using the",
+            "options": {
+                "a": "quantum mechanical model",
+                "b": "Bohr model",
+                "c": "resonance model",
+                "d": "VSEPR model",
+                "e": "collision model"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Dalton presented his research on gases to the Literary andPhilosophical Society in",
+            "options": {
+                "a": "London",
+                "b": " Newcastle-upon-Tyne",
+                "c": "Birmingham",
+                "d": "Manchester",
+                "e": "Paris"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Who is MOST associated with the view that naturalprocesses revolved around four elements (earth, fire, air andwater)?",
+            "options": {
+                "a": "Democritus",
+                "b": "Socrates",
+                "c": "Plato",
+                "d": "Leucippus",
+                "e": "Aristotle"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " When AH is positive and AS is negative, the",
+            "options": {
+                "a": "reaction will be spontaneous",
+                "b": "_ reaction's spontaneity will depend on the currentatmospheric pressure",
+                "c": "_ reaction's spontaneity will depend on thetemperature",
+                "d": " reaction's spontaneity will depend on the heatadded or removed",
+                "e": "reaction will be nonspontaneous"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The chemical formula for a molecule of bleach is",
+            "options": {
+                "a": "NaHCl",
+                "b": "NaOCl",
+                "c": "NaCl",
+                "d": "NaOCl",
+                "e": "ONaCl"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The lowest melting and boiling points are present inmolecules that",
+            "options": {
+                "a": "are covalently bonded",
+                "b": "have a bent shape",
+                "c": "are nonpolar",
+                "d": "are ionically bonded",
+                "e": "are polar"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The \"father of modern chemistry\" was another name for",
+            "options": {
+                "a": "Aristotle",
+                "b": "Robert Boyle",
+                "c": "Paracelsus",
+                "d": "Antoine Lavoisier",
+                "e": "Johann Baptista van Helmont"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Alpha decay results in the loss of",
+            "options": {
+                "a": "two protons and two neutrons",
+                "b": "one proton and two neutrons",
+                "c": "three protons",
+                "d": "one proton and one electron",
+                "e": "three neutrons"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The salt produced from the reaction of HBr and KOH is",
+            "options": {
+                "a": "KBr",
+                "b": "BrOH",
+                "c": "20H",
+                "d": "HK",
+                "e": "HBr"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Electrons are excited to the next energy level when theyabsorb a(n)",
+            "options": {
+                "a": "photon",
+                "b": "quantum",
+                "c": "coulomb",
+                "d": "ampere",
+                "e": "Faraday"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The molar mass of water is",
+            "options": {
+                "a": "14 g/mol",
+                "b": "12 g/mol",
+                "c": "2 g/mol",
+                "d": "18 g/mol",
+                "e": "16 g/mol"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When a metal is sonorous, it",
+            "options": {
+                "a": "can be beaten into different shapes",
+                "b": "can be pulled into a wire",
+                "c": "is shiny",
+                "d": "conducts electricity well",
+                "e": "rings when struck"
+            },
+            "answer": "E"
+        }
+    ],
+    "Science Comprehensive Exam 05": [
+        {
+            "question": "The energies before and after a chemical reaction appear ona",
+            "options": {
+                "a": "collision model",
+                "b": "potential energy diagram",
+                "c": "VSEPR model",
+                "d": "rate projection",
+                "e": "Lewis structure"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following substances is a weak base?",
+            "options": {
+                "a": "silver nitrate",
+                "b": "sodium acetate",
+                "c": "strontium",
+                "d": "chlorine",
+                "e": "ammonia"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The 1600s saw a transition towards",
+            "options": {
+                "a": "transmutation",
+                "b": "empiricism",
+                "c": "alchemy",
+                "d": "astrology",
+                "e": "hermeticism"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Calorimetry measures changes in",
+            "options": {
+                "a": "entropy",
+                "b": "cell potential",
+                "c": "temperature",
+                "d": "pressure",
+                "e": "enthalpy"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following equations best describes the idealgas law?",
+            "options": {
+                "a": "PV=T/nR",
+                "b": "PV/T=CDc PV=C",
+                "d": "V/T=D",
+                "e": "PV=nRT"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Paracelsus accidentally produced hydrogen when",
+            "options": {
+                "a": "dissolving copper in silver nitrate",
+                "b": "heating mercury calx",
+                "c": "burning liquid oxygen",
+                "d": "mixing ammonia with water",
+                "e": "dissolving metals in acid"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "When a rotational field exists if a molecule is placed in anelectric field, the molecule is said to have a",
+            "options": {
+                "a": "hydrogen bond",
+                "b": "dipole moment",
+                "c": "_ polarizable electron cloud",
+                "d": "dipole-dipole force",
+                "e": "induced dipole"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "The backbone of a DNA double helix is made up of bondsbetween sugars and",
+            "options": {
+                "a": "phosphites",
+                "b": " oxalates",
+                "c": "sulfates",
+                "d": "sulfites",
+                "e": "phosphates"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which processes refers to the interactions of ions withwater molecules when a salt dissolves in water?",
+            "options": {
+                "a": "hydrolysis",
+                "b": "precipitation",
+                "c": "cataclysm",
+                "d": "conjugation",
+                "e": "dehydration synthesis"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following features is NOT part of a typicalphase diagram?",
+            "options": {
+                "a": "pressure axis",
+                "b": "volume axis",
+                "c": "triple point",
+                "d": "temperature axis",
+                "e": "critical point"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Ammonia is a substitute for",
+            "options": {
+                "a": "butane",
+                "b": "ethanol",
+                "c": "chlorofluorocarbons",
+                "d": "methane",
+                "e": "ozone"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Kinetic-molecular theory concerns the",
+            "options": {
+                "a": "behavior of gases",
+                "b": "bonding of atoms",
+                "c": "behavior of solids",
+                "d": "behavior of liquids",
+                "e": "interaction between metals and nonmetals"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following is NOT a main element of nature,according to the Aristotelian view?",
+            "options": {
+                "a": "water",
+                "b": "fire",
+                "c": "space",
+                "d": "earth",
+                "e": "air"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Hydrogen combines in a 1:19 ratio with",
+            "options": {
+                "a": "fluorine",
+                "b": "carbon",
+                "c": "sodium",
+                "d": "oxygen",
+                "e": "chlorine"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The type of relationship between the pressure and volumeof a gas is called",
+            "options": {
+                "a": "inverse proportionality",
+                "b": "_ inverse-square proportionality",
+                "c": "constant proportionality",
+                "d": "geometric proportionality",
+                "e": "direct proportionality"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Energy is transferred from an electron to a photon in",
+            "options": {
+                "a": "hybridization",
+                "b": "the photoelectric effect",
+                "c": "redox reactions",
+                "d": "distillation",
+                "e": "Induced dipoles"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which scale do scientists use to measure temperature?",
+            "options": {
+                "a": "Celsius",
+                "b": "Fahrenheit",
+                "c": "Rankine",
+                "d": "Delisle",
+                "e": "Kelvin"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following reactions has the lowest electrodepotential?",
+            "options": {
+                "a": "Lit+e> Li",
+                "b": "2H*+2e\u2014> Hpc Fi,+2e\u2014> 2F",
+                "d": "MnO) + 4Ht + 2e\u00a2 > Mn? + 2H,O",
+                "e": "Ch+2e\u2014> 2Cr"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Nonpolar solvents are characteristic of",
+            "options": {
+                "a": "isotonic solutions",
+                "b": "supersaturated solutions",
+                "c": "heterogenous solutions",
+                "d": "organic solutions",
+                "e": "hypertonic solutions"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " In general, substances that speed up reactions are called",
+            "options": {
+                "a": "enzymes",
+                "b": "sparks",
+                "c": "stimuli",
+                "d": "activators",
+                "e": "catalysts"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following inventions does NOT date fromthe eighteenth century?",
+            "options": {
+                "a": "sewing machine",
+                "b": "steamshipc, steam engine",
+                "d": "power looms",
+                "e": "gas lighting"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Neutral substances have a pH of exactlya 5",
+            "options": {
+                "b": "14c 1",
+                "d": "0e 7"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Along with Antoine Lavoisier, the scientist that inspiredDalton's research was",
+            "options": {
+                "a": "Lester Germer",
+                "b": "Joseph Louis Proust",
+                "c": "Democritus",
+                "d": "Francis Crick",
+                "e": "James Watson"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which scientist referred to carbon dioxide as \"fixed air\"?",
+            "options": {
+                "a": "Robert Boyle",
+                "b": "John Dalton",
+                "c": "Fritz London",
+                "d": "Joseph Black",
+                "e": "Albert Einstein"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The chemist that determined the relationship betweenenthalpy and entropy was",
+            "options": {
+                "a": "British",
+                "b": "Russian",
+                "c": "Scottish",
+                "d": "American",
+                "e": "French"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Along with Joseph Louis Proust, the scientist who inspiredDalton's research was",
+            "options": {
+                "a": "Leucippus",
+                "b": "Aristotle",
+                "c": "Anne-Jean Robert",
+                "d": "Nicolas-Louis Robert",
+                "e": "Clinton Davisson"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " HgO is the chemical formula for",
+            "options": {
+                "a": "mercuric oxide",
+                "b": " dimethylmercury",
+                "c": " thiomersal",
+                "d": "methylmercury",
+                "e": "calomel"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " London dispersion forces are the only type ofintermolecular forces between molecules that are",
+            "options": {
+                "a": "nonpolar",
+                "b": "covalently bonded",
+                "c": "radioactive",
+                "d": "polar",
+                "e": "ionically bonded"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following reactions is MOST likely asynthesis reaction?",
+            "options": {
+                "a": "Cu+2AgNO3 > 2Ag + Cu(NO3)2",
+                "b": "H202\u2014> H20 +02",
+                "c": "Pb(NO3)2 + 2KI> Pbhl + 2KNO;",
+                "d": "2Na+Ch\u2014 2NaCl",
+                "e": "CH4+202.\u2014> H20 + CO"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Ernest Rutherford created oxygen by colliding nitrogenwith",
+            "options": {
+                "a": "hydrogen",
+                "b": "beta particles",
+                "c": "alpha particles",
+                "d": "positrons",
+                "e": "neutrinos"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When did Ernest Rutherford create oxygen?",
+            "options": {
+                "a": "1920",
+                "b": "1914",
+                "c": "1925",
+                "d": "1928",
+                "e": "1919"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Brass is made from copper and",
+            "options": {
+                "a": "germanium",
+                "b": "arsenic",
+                "c": "mercury",
+                "d": "yttrium",
+                "e": "zinc"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " A mixture is called a solution when",
+            "options": {
+                "a": "it looks like a single substance",
+                "b": "the substances are heated",
+                "c": "the substances are covalently bonded together",
+                "d": "the substances have undergone radioactive decay",
+                "e": "itis made up of a single substance"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " One of the half-reactions for the reaction of copper with asilver ion is",
+            "options": {
+                "a": "Cu+2Agt\u2014> Cu' + 2Ag",
+                "b": "Ag' + le > Ag",
+                "c": "2Ag' + 2e > 2Ag",
+                "d": " Agt + 2e \u2014> Ag*",
+                "e": "Cu >Cu* + 3e"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " If silver metal were to be put in a copper solution, then",
+            "options": {
+                "a": "no reaction would occur",
+                "b": "a precipitate would form",
+                "c": "combustion would occur",
+                "d": "water vapor would be produced",
+                "e": "oxidation would occur"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which scientist made significant contributions to the fieldof thermochemistry?",
+            "options": {
+                "a": "Ludwig Boltzmann",
+                "b": "Johannes Bronsted",
+                "c": "Jean Baptiste Perrin",
+                "d": "Luigi Brugnatelli",
+                "e": "Joseph Black"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following relationships represents Charles'slaw?",
+            "options": {
+                "a": "VT=D",
+                "b": "P/T=D",
+                "c": "PV=nRT",
+                "d": "PT=D",
+                "e": "W/T=D"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The enthalpy of formation of CO is",
+            "options": {
+                "a": "-110 kJ/mol",
+                "b": "200 kJ/mol",
+                "c": "-150 kJ/mol",
+                "d": "-100 kJ/mol",
+                "e": "-164 kJ/mol"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " If the products are placed lower on a potential energydiagram than the reactants, then the reaction is",
+            "options": {
+                "a": "endothermic",
+                "b": "spontaneous",
+                "c": "transitional",
+                "d": "nonspontaneous",
+                "e": "exothermic"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Catalysts are used to",
+            "options": {
+                "a": "increase reaction rates",
+                "b": "increase pHc, increase temperatures",
+                "d": "decrease reaction rates",
+                "e": "decrease pressure"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " London dispersion forces occur between",
+            "options": {
+                "a": "temporary dipoles",
+                "b": "polar molecules",
+                "c": "unstable atoms",
+                "d": "ionically bonded atoms",
+                "e": "adjacent molecules"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Carbon was used to establish",
+            "options": {
+                "a": "2:16",
+                "b": "1:10c 1:8",
+                "c": " electronegativity",
+                "d": "5:8e 1:2",
+                "e": "atomic numbers43, Water combines in a ratio of"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " To which branch of science did Joseph Black makesignificant contributions?",
+            "options": {
+                "a": "thermochemistry",
+                "b": "_ kinetic-molecular theory",
+                "c": "quantum physics",
+                "d": "thermodynamics",
+                "e": "calorimetry"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How many neutrons does a hydrogen atom have?",
+            "options": {
+                "a": "zero",
+                "b": "one",
+                "c": "four",
+                "d": "three",
+                "e": "two"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The equation to change from free energy to equilibriumconstants is",
+            "options": {
+                "a": "AG = \u2014NFE\u00b0cey3RTbo u= a",
+                "c": "AG = AH \u2014 TAS",
+                "d": "AG = \u2014RTInk_ po _ .0592InQe E=E \u2014\u2014"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Carbon and hydrogen are elements characteristic of",
+            "options": {
+                "a": "amphoteric solvents",
+                "b": "_ protophilic solvents",
+                "c": " protogenic solvents",
+                "d": "polar solvents",
+                "e": "nonpolar solvents"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Who published A New System of Chemical Philosophy",
+            "options": {
+                "a": "Henry Cavendish",
+                "b": "Paracelsus",
+                "c": "John Dalton",
+                "d": "Joseph Priestley",
+                "e": "Robert Boyle"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following groups of substances is solubleaccording to solubility rules?",
+            "options": {
+                "a": "silicates",
+                "b": "hydroxides",
+                "c": "chlorates",
+                "d": "carbonates",
+                "e": "phosphates"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Quantum mechanical models are used to show the",
+            "options": {
+                "a": "bonding between valence electrons",
+                "b": "wave properties of electrons",
+                "c": "attractive force between protons and neutrons",
+                "d": "particle properties of electrons",
+                "e": "shapes of orbitals"
+            },
+            "answer": "B"
+        }
+    ],
+    "Science Comprehensive Exam 06": [
+        {
+            "question": "When a certain atom has a different atomic mass than thestandard form of the atom, it is called a/an",
+            "options": {
+                "a": "nuclide",
+                "b": "ionc, isotope",
+                "d": "elemente, inotrope"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "When a metal is described as lustrous, it",
+            "options": {
+                "a": "can be hammered into wires",
+                "b": "can conduct electricity",
+                "c": "can be bent into shapes",
+                "d": "has shiny experience",
+                "e": "rings when struck"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "All standard half-cell potentials are measured relative to thereduction of",
+            "options": {
+                "a": "helium",
+                "b": "hydrogen",
+                "c": "carbon",
+                "d": "rubidium",
+                "e": "oxygen"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "The idea that elements combine in whole-number ratios toform compounds is characteristic of",
+            "options": {
+                "a": "the law of multiple proportions",
+                "b": "_ the law of definite proportions",
+                "c": "Hess's law",
+                "d": " Raoult's law",
+                "e": "Proust's law"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "A positive ion is also referred to as a(n)",
+            "options": {
+                "a": "alpha particle",
+                "b": "nuclide",
+                "c": "beta particle",
+                "d": "cation",
+                "e": "anion"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following values is NOT a possible oxidationnumber for bromine?",
+            "options": {
+                "a": "+3",
+                "b": "+2c +1",
+                "d": "-1e +5"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Elements are arranged by increasing electrons in the",
+            "options": {
+                "a": "Newland elemental grid",
+                "b": "_ activity series",
+                "c": "familial model",
+                "d": "reactivity series",
+                "e": "periodic table"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which idea of Dalton's was later proven wrong?",
+            "options": {
+                "a": "Chemical reactions can cause atoms to combine,separate, and rearrange.",
+                "b": "Matter is composed of indivisible particles calledatoms.",
+                "c": "Atoms of different elements can combine inwhole-number ratios to form compounds.",
+                "d": "Atoms of the same element have the sameproperties.",
+                "e": "Atoms cannot be created or destroyed."
+            },
+            "answer": "B"
+        },
+        {
+            "question": "At their triple point, all substances can be",
+            "options": {
+                "a": "plasma",
+                "b": "transitional fluids",
+                "c": "universal solvents",
+                "d": "supercritical fluids",
+                "e": "every state of matter simultaneously"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The state function that tracks the relationship betweenenthalpy and entropy is symbolized by",
+            "options": {
+                "a": "AH",
+                "b": "AG",
+                "c": "AE",
+                "d": "AS",
+                "e": "AP"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " When a metal ion replaces a hydrogen ion in an acid, thesubstance that is formed is (a)",
+            "options": {
+                "a": "nuclide",
+                "b": " ciprotic acid",
+                "c": "base",
+                "d": "salt",
+                "e": "water"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When the reactant in a combustion reaction is an organichydrocarbon, the products will be carbon dioxide and",
+            "options": {
+                "a": "ammonia",
+                "b": "ozone",
+                "c": "carbon monoxide",
+                "d": "oxygen",
+                "e": "water"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " With which property of matter does quantum physics deal?",
+            "options": {
+                "a": "Doppler effect",
+                "b": "relativity",
+                "c": "wave-particle duality",
+                "d": "electromagnetism",
+                "e": "mass-energy equivalence"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The Aristotelian view of nature was that",
+            "options": {
+                "a": "the Earth is at the center of the universe",
+                "b": "different types of organisms possess different typesof souls",
+                "c": "a separate being is the source of all other beings",
+                "d": "nature is made up of four elements",
+                "e": "the soul dies with the animal"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The MOST similar subatomic particle to an electron isa(n)",
+            "options": {
+                "a": "alpha particle",
+                "b": "beta particle\u00a2. proton",
+                "d": "neutrino",
+                "e": "neutron"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Van der Waals constants are parameters used for",
+            "options": {
+                "a": "supercritical fluids",
+                "b": "substances at their triple point",
+                "c": "plasma",
+                "d": "ideal gases",
+                "e": "non-ideal gases"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The substance that Antoine Lavoisier heated to createoxygen was",
+            "options": {
+                "a": "gypsum",
+                "b": "gold hydrazide",
+                "c": " cinnabar",
+                "d": "bluestone",
+                "e": "mercury calx"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How many electrons do two atoms with a double covalentbond share?a 4",
+            "options": {
+                "b": "2ec 12",
+                "d": "8e 6"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Isotopes differ from atoms in their standard form in theirnumber of",
+            "options": {
+                "a": "orbitals",
+                "b": "electrons",
+                "c": "protons",
+                "d": "neutrons",
+                "e": "valence electrons"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " To convert a temperature from Kelvin to Celsius,",
+            "options": {
+                "a": "subtract 273",
+                "b": "multiply by 9/5",
+                "c": "add 274",
+                "d": "add 273",
+                "e": "divide by 9/5"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which substance protected the Columbia from solarradiation?",
+            "options": {
+                "a": "bronze",
+                "b": "| silver",
+                "c": "tungsten",
+                "d": "gold",
+                "e": "platinum"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The type of relationship between the temperature andpressure of a gas is called",
+            "options": {
+                "a": "constant proportionality",
+                "b": "geometric proportionality",
+                "c": "inverse proportionality",
+                "d": " inverse-square proportionality",
+                "e": "direct proportionality"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How many electrons does hydrogen need to fill its valenceshell?a 6",
+            "options": {
+                "b": "4",
+                "c": "10",
+                "d": "2e 8"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Joseph Black made significant contributions tothermochemistry through his",
+            "options": {
+                "a": "invention of the steam engine",
+                "b": "creation of phase diagrams",
+                "c": "discovery of carbon dioxide",
+                "d": "research into melting snow",
+                "e": "proposal of kinetic-molecular theory"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Besides Jacques Charles and Nicolas-Louis Robert, thethird person involved with hydrogen balloon flight was",
+            "options": {
+                "a": "Ernest Rutherford",
+                "b": "Albert Einstein",
+                "c": "Benjamin Franklin",
+                "d": "J.J. Thompson",
+                "e": "Anne-Jean Robert"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " If the cell voltages of the reactions Li* + & <sym-Symbol-FOAE> Li and Fe** <sym-Symbol-FOAE> Fe** + \u20ac are -3.05 V and -0.77 V respectively, the total cell voltage is",
+            "options": {
+                "a": "3.82 V",
+                "b": "2.28 V",
+                "c": "-3.82V",
+                "d": "-2.28Ve 2.34V"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " At which temperature does \"zero volume\" temperatureoccur?",
+            "options": {
+                "a": "-273\u00b0C",
+                "b": "273\u00b0K",
+                "c": "273\u00b0C",
+                "d": "-273\u00b0F",
+                "e": "-273K"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The temperature of a substance has a direct relationship toits",
+            "options": {
+                "a": "volume",
+                "b": "density",
+                "c": "molecular motion",
+                "d": "pressure",
+                "e": "mass"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Henry Cavendish confirmed that water was producedthrough the",
+            "options": {
+                "a": "combustion of methane",
+                "b": "burning of oxygen",
+                "c": "decomposition of carbonic acid",
+                "d": "addition of oxygen to a methane molecule",
+                "e": "burning of hydrogen"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " A New System of Chemical Philosophy was published in",
+            "options": {
+                "a": "1808",
+                "b": "1809",
+                "c": "1810",
+                "d": "1812",
+                "e": "1811"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The lowest pH that an acid can have isa 5",
+            "options": {
+                "b": "1c 7",
+                "d": "14e 0"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which scientist accidentally produced hydrogen?",
+            "options": {
+                "a": "Thales of Miletus",
+                "b": " Leucippus",
+                "c": "Paracelsus",
+                "d": "Democritus",
+                "e": "Hipparchus"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The process of electroplating was discovered in the",
+            "options": {
+                "a": "early 1810s",
+                "b": "mid 1880s",
+                "c": "late 1890s",
+                "d": "early 1800s",
+                "e": "late 1850s"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following properties is NOT an elementalproperty that the periodic table can explain?",
+            "options": {
+                "a": "radioactivity",
+                "b": "electron affinity",
+                "c": " electronegativity",
+                "d": "atomic radiuse, ionization energy"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following ideas does Hess's law state?",
+            "options": {
+                "a": "The heat evolved or absorbs in a chemical reactionno matter how many steps the process takes stepsin.",
+                "b": "No mass is lost or gained as substances changeduring a reaction.",
+                "c": "The volume of a gas is directly proportional to thenumber of moles of the gas.",
+                "d": "A compound is always composed of the sameelements in the same ratios according to mass.",
+                "e": "The total pressure of a mixture of gases equals thesum of the pressures of each individual gas."
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The earliest created reliable battery was the",
+            "options": {
+                "a": "lithium battery",
+                "b": "lead-acid battery",
+                "c": "chromic acid cell",
+                "d": "flow battery",
+                "e": "galvanic electrochemical cell"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What is the subatomic breakdown of an alpha particle?",
+            "options": {
+                "a": "2neutrons, 2 electrons",
+                "b": "1 proton, 2 electronsc, 2 protons, 2 neutrons",
+                "d": "4 electrons",
+                "e": "2 beta particles"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " A mass spectrometer uses magnetic fields to",
+            "options": {
+                "a": "_ identify isotopes of elements",
+                "b": "quantify the number of protons present",
+                "c": "separate atoms and compounds",
+                "d": "identify types of radiation",
+                "e": "perform titrations"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which compound was used to process photographs?",
+            "options": {
+                "a": "_ silver fluoride",
+                "b": ". silver iodide",
+                "c": "_ silver chloride",
+                "d": "silver halide",
+                "e": "silver bromide"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When AG is negative,",
+            "options": {
+                "a": "the reaction favors the formation of reactants",
+                "b": "Kel",
+                "c": " E%en is positive",
+                "d": " E*cei is negativee K>1"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The measure of the acidity or basicity of an aqueoussolution is called",
+            "options": {
+                "a": "saturation",
+                "b": "polarity",
+                "c": "pH",
+                "d": "solubility",
+                "e": "concentration"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following substances is NOT a solution?",
+            "options": {
+                "a": "tea",
+                "b": "smog",
+                "c": "lemonade",
+                "d": "air",
+                "e": "steel"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Polar molecules have permanent",
+            "options": {
+                "a": "dipole moments",
+                "b": "hydrogen bonds",
+                "c": "London dispersion forces",
+                "d": "van der Waals forces",
+                "e": "dipole-dipole forces"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Antoine Lavoisier is often called the father of modern",
+            "options": {
+                "a": "chemistry",
+                "b": "biology",
+                "c": "calorimetry",
+                "d": "physics",
+                "e": "thermochemistry"
+            },
+            "answer": ""
+        },
+        {
+            "question": " It takes 4.18 joules of heat to raise the temperature by 1\u00b0 Cfor 1 gram of",
+            "options": {
+                "a": "alcohol",
+                "b": "oil",
+                "c": "water",
+                "d": "octane",
+                "e": "distilled water"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Joseph Black began researching heat in the",
+            "options": {
+                "a": "1780s",
+                "b": "1770s",
+                "c": "1790s",
+                "d": "1760s",
+                "e": "1750s"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Ions differ from atoms in their standard form in theirnumber of",
+            "options": {
+                "a": "neutrons",
+                "b": "electrons",
+                "c": "positrons",
+                "d": "valence electrons",
+                "e": "protons"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The Greek letter used to denote a change in a quantity is",
+            "options": {
+                "a": "Bbyc ad 6e A"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " An atom's ionization energy is its",
+            "options": {
+                "a": "attractive force within the nucleus",
+                "b": "amount of energy needed to add an electron",
+                "c": "amount of energy needed to remove an electron",
+                "d": "attraction for neighboring electrons",
+                "e": "ability to merge electron orbitals"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The endpoint of a titration is also called its",
+            "options": {
+                "a": "equivalence point",
+                "b": "equilibrium",
+                "c": "conclusion",
+                "d": "stable state",
+                "e": "transitional equilibrium"
+            },
+            "answer": "A"
+        }
+    ],
+    "Science Comprehensive Exam 07": [
+        {
+            "question": "Which of the following quantities increases down a groupof the periodic table?",
+            "options": {
+                "a": "electronegativity",
+                "b": "radioactivity",
+                "c": "ionization energy",
+                "d": "atomic radius",
+                "e": "electron affinity"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Enthalpy for the formation of CO, is equal to the",
+            "options": {
+                "a": "enthalpy for oxidation of CO to CO2",
+                "b": "heat of reaction for the combustion of COz",
+                "c": "heat of formation for CO,",
+                "d": "enthalpy of formation for CO",
+                "e": "heat of vaporization for CO"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "When water accepts a hydrogen ion, it forms a(n)",
+            "options": {
+                "a": "molten salt",
+                "b": "nitrate",
+                "c": "acetate",
+                "d": "electrolyte",
+                "e": "nitrite"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The lowest temperature physically possible is",
+            "options": {
+                "a": "-273\u00b0F",
+                "b": " -273\u00b0C",
+                "c": "-273K",
+                "d": "-274\u00b0C",
+                "e": "273K"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Van der Waals constants a and 6 are correction values forthe volume of molecules and the",
+            "options": {
+                "a": "_ levels of electronegativity",
+                "b": "levels of ionization energy",
+                "c": "intramolecular forces",
+                "d": "intermolecular forces",
+                "e": "repelling force between electrons"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which type of relationship does free energy have withequilibrium constants?",
+            "options": {
+                "a": "exponential",
+                "b": "direct",
+                "c": "logarithmic",
+                "d": "inverse",
+                "e": "Inverse-square"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "When a reaction is endothermic, it",
+            "options": {
+                "a": "absorbs heat",
+                "b": "releases heat",
+                "c": "occurs naturally",
+                "d": "favors reactants over products",
+                "e": "occurs naturally in reverseDemIDECWe do our best, so you can do yours. ee"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The term MOST likely to be used as a synonym forentropy is",
+            "options": {
+                "a": "chaos",
+                "b": "spontaneity",
+                "c": "transformation",
+                "d": "uncertainty",
+                "e": "thermal energy"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "| How many electrons do most atoms have in their valenceshell?",
+            "options": {
+                "a": "10",
+                "b": "7ec 12",
+                "d": "16e 8"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following substances forms when acetic acidis added to water?",
+            "options": {
+                "a": "bleach",
+                "b": "ammonia",
+                "c": "vinegar",
+                "d": "yeast",
+                "e": "ethanol"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following contributions to chemistry didJohann Baptista van Helmont NOT make?",
+            "options": {
+                "a": "developing a scientific explanation for combustion",
+                "b": "developing the balance",
+                "c": "refuting element transmutation",
+                "d": "introducing the term \"gas\u201d",
+                "e": "anticipating the law of conservation of mass"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which gas did Jacques Charles wish to use to fuel balloonflight?",
+            "options": {
+                "a": "oxygen",
+                "b": "neon",
+                "c": "nitrogen",
+                "d": "helium",
+                "e": "hydrogen"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The sign of AG determines the",
+            "options": {
+                "a": "ideal temperature of the reaction",
+                "b": "cell potential of the reaction",
+                "c": "spontaneity of a reaction",
+                "d": "existence of a change in enthalpy",
+                "e": "existence of a change in entropy"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following relationships represents Boyle'slaw?",
+            "options": {
+                "a": "P/V=C",
+                "b": "PV/T=Cc VWT=C",
+                "d": "V/T=Ce PV=C"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " With which of the following quantities does entropy havean inverse relationship?",
+            "options": {
+                "a": "Gibbs Free Energy",
+                "b": "enthalpy",
+                "c": "temperature",
+                "d": "heat",
+                "e": "order"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How many electrons are shared between two atoms with asingle covalent bond?a 2",
+            "options": {
+                "b": "0c 6",
+                "d": "4e 1"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " CsHioN4Q: is the chemical formula for",
+            "options": {
+                "a": "caffeine",
+                "b": "methane",
+                "c": "ammonia",
+                "d": "ethanol",
+                "e": "polyester"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Plant growth relies MOST on controlling the soil's",
+            "options": {
+                "a": "deposition",
+                "b": "acidity",
+                "c": "volatilization",
+                "d": "sedimentation",
+                "e": "\u2014 friability"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How many more electrons does oxygen need to fill itsvalence shell?a 5",
+            "options": {
+                "b": "3c 8",
+                "d": "2e 1"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " In which direction does the ionization energy of an elementdecrease?",
+            "options": {
+                "a": "diagonally up",
+                "b": "left across a period",
+                "c": "down a group",
+                "d": " upagroup",
+                "e": "right across a period"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Shiny parts on automobiles are created with",
+            "options": {
+                "a": "percolation",
+                "b": "chrome plating",
+                "c": "distillation",
+                "d": "extraction",
+                "e": "effusion"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Mass spectrometers are MOST likely to be used at",
+            "options": {
+                "a": "grocery stores",
+                "b": "airports",
+                "c": "police stations",
+                "d": "hospitals",
+                "e": "post offices"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following statements is NOT correct?",
+            "options": {
+                "a": "The oxidation number of O is +2.",
+                "b": "The oxidation number of Rb is +1.",
+                "c": "The oxidation number of H is +1.",
+                "d": "The oxidation number of Li is +1.",
+                "e": "The oxidation number of Cs is +1."
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following molecules is bonded by triplecovalent bonds?",
+            "options": {
+                "a": "O;",
+                "b": "CHy",
+                "c": "Ha",
+                "d": "Oye No"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which decomposition reaction was used to make oxygengas when it was first discovered?",
+            "options": {
+                "a": "water into hydrogen and oxygen",
+                "b": "iron oxide into iron and oxygen",
+                "c": "mercury oxide into mercury and oxygen",
+                "d": "carbonic acid into water and carbon dioxide",
+                "e": "hydrogen peroxide into water and oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When experimenting with dissolving metals in acids,Paracelsus accidentally produced",
+            "options": {
+                "a": "helium",
+                "b": "oxygen",
+                "c": "carbon",
+                "d": "nitrogen",
+                "e": "hydrogen"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " The branch of science that focuses on the quantities of heatreleased or absorbed is",
+            "options": {
+                "a": "entropy",
+                "b": "thermodynamics",
+                "c": "calorimetry",
+                "d": "thermochemistry",
+                "e": "enthalpy"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following compounds is NOT a triproticacid?",
+            "options": {
+                "a": "H3SO4",
+                "b": "H3PO\u00ab",
+                "c": "H3SO\u00ab",
+                "d": "CH;COOH",
+                "e": "Co6HsO7"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The \"root mean square\" speed is symbolized by the lettera ou",
+            "options": {
+                "b": "Ucs",
+                "d": "Rer"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The person who expanded on Leucippus's concept ofatomism was",
+            "options": {
+                "a": "Paracelsus",
+                "b": " Hipparchus",
+                "c": "Leucippus",
+                "d": "John Dalton",
+                "e": "Democritus"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " AG is equal to zero when the reaction is",
+            "options": {
+                "a": "exothermic",
+                "b": "spontaneous",
+                "c": "endothermic",
+                "d": "at equilibrium\u20ac. nonspontaneous"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " All substances exist as supercritical fluids beyond their",
+            "options": {
+                "a": "gaseous boundary",
+                "b": "final boundary",
+                "c": "transitional point",
+                "d": "critical point",
+                "e": "triple point"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The highest pH that an base can have isa 1",
+            "options": {
+                "b": "0c 7",
+                "d": "14e -14"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " On what grounds do scientists question the idea of theScientific Revolution?",
+            "options": {
+                "a": "Great Awakening",
+                "b": "Second Great Awakening",
+                "c": "Scientific Revolution",
+                "d": "Enlightenment",
+                "e": "Renaissance"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Ifthe products are placed higher on a potential energydiagram than the reactants, the reaction is",
+            "options": {
+                "a": "spontaneous",
+                "b": "exothermic",
+                "c": "transitional",
+                "d": "endothermic",
+                "e": "nonspontaneous"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Foran ionic bond to form, the difference inelectronegativity between two atoms has to be greater thana 15",
+            "options": {
+                "b": "2.0c 18",
+                "d": "4.0e 5"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which atom has 6 protons, 6 neutrons and 6 electrons?",
+            "options": {
+                "a": "Carbon-15",
+                "b": "Carbon-13",
+                "c": "Carbon-12",
+                "d": "Carbon-16",
+                "e": "Carbon-14"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The Pauling electronegativity value of beryllium is",
+            "options": {
+                "a": "2.1",
+                "b": "1.5c 1.0",
+                "d": "4.0e 3.0"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Mass spectrometers scan different masses by varying their",
+            "options": {
+                "a": "ion source strength",
+                "b": "detector strength",
+                "c": "resonance levels",
+                "d": "magnetic fields",
+                "e": "electric fields"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What type of relationship does free energy have withelectrode potentials?",
+            "options": {
+                "a": "inverse",
+                "b": "_ inverse-square",
+                "c": "logarithmic",
+                "d": "direct",
+                "e": "exponential"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The number of elements within the periodic table is over",
+            "options": {
+                "a": "10",
+                "b": "75",
+                "c": "25",
+                "d": "100",
+                "e": "50"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following statements is LEAST likely to havebeen published in A New System of Chemical Philosophy?",
+            "options": {
+                "a": "All matter is composed of atoms.",
+                "b": "Atoms combine in certain ratios to formcompounds.",
+                "c": "Atoms can be divided into protons, neutrons, andelectrons.",
+                "d": "Atoms cannot be created or destroyed.",
+                "e": "Chemical reactions cause atoms to combine andseparate."
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The first hydrogen-fueled balloon flight took place in",
+            "options": {
+                "a": "1754",
+                "b": "1783",
+                "c": "1729",
+                "d": "1782",
+                "e": "1795"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The law of definite proportions is also called",
+            "options": {
+                "a": "Dalton's law",
+                "b": " Hess's law",
+                "c": " Proust's law",
+                "d": "Lavoisier's principle",
+                "e": "Raoult's law"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " John Dalton was born in",
+            "options": {
+                "a": "1766",
+                "b": "1720",
+                "c": "1795",
+                "d": "1738",
+                "e": "1750"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Van der Waals constants a and 6 are correction values forthe intermolecular forces and the",
+            "options": {
+                "a": "_ repelling force between electrons",
+                "b": "molecular motion",
+                "c": "intramolecular forces",
+                "d": "volume of molecules",
+                "e": "temperature of the substances"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which isotope of carbon does carbon dating use?",
+            "options": {
+                "a": "Carbon-14",
+                "b": "Carbon-16",
+                "c": "Carbon-12",
+                "d": " Carbon-13",
+                "e": "Carbon-15"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " All substances can be considered ensembles of rapidlymoving particles, except when they",
+            "options": {
+                "a": "are radioactive",
+                "b": "have reached their triple point",
+                "c": "are in a plasmatic state of matter",
+                "d": "have reached their critical point",
+                "e": "are at absolute zero temperature"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " \"Electron seas\" are associated with",
+            "options": {
+                "a": "covalent bonds",
+                "b": "hydrogen bonds",
+                "c": "metallic bonds",
+                "d": "dipole moments",
+                "e": "ionic bonds"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When uranium-238 undergoes alpha decay, the resultingproduct is",
+            "options": {
+                "a": "europium-151",
+                "b": "neon-22",
+                "c": "ytterbium-173",
+                "d": " uranium-236",
+                "e": "thorium-234"
+            },
+            "answer": "E"
+        }
+    ],
+    "Science Comprehensive Exam 08": [
+        {
+            "question": "The difference in electronegativity between an Na atomand an F atom isa 2",
+            "options": {
+                "b": "2.3c 17",
+                "d": "3.8e 3"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Asample of contained gas with a volume of 1 liter has apressure of 5.0 atm at a temperature of 200 K. What is thepressure at 400 K?",
+            "options": {
+                "a": "10.0 atm",
+                "b": "5.0 atm",
+                "c": "20.0 atm",
+                "d": "40.0 atm",
+                "e": "7.5 atm"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following substances is amphoteric?",
+            "options": {
+                "a": "water",
+                "b": "octane",
+                "c": "ethanol",
+                "d": "vinegar",
+                "e": "liquid nitrogen"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How many elements did the Aristotelian view of sciencedescribe?",
+            "options": {
+                "a": "three",
+                "b": "five",
+                "c": "two",
+                "d": "one",
+                "e": "four"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The collisions between gas molecules and the walls of theircontainer are elastic, which means that",
+            "options": {
+                "a": "no kinetic energy is lost",
+                "b": "no momentum or kinetic energy is lost",
+                "c": "momentum is conserved, but kinetic energy is lost",
+                "d": "kinetic energy is conserved, but momentum is lost",
+                "e": "no momentum is lost"
+            },
+            "answer": ""
+        },
+        {
+            "question": "Which type of reaction was used to discover oxygen gas?",
+            "options": {
+                "a": "synthesis",
+                "b": "combustion",
+                "c": "decomposition",
+                "d": "oxidation",
+                "e": "precipitationDemIDECWe do our best, so you can do yours. ee"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "When the K value of a reaction is positive, the reaction",
+            "options": {
+                "a": "favors the formation of products",
+                "b": "is nonspontaneous",
+                "c": "favors the formation of reactants",
+                "d": "is endothermice, is spontaneous"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The inverse relationship between pressure and volume ishighlighted in",
+            "options": {
+                "a": "Charles's law",
+                "b": " Proust's law",
+                "c": "Gay-Lussac's law",
+                "d": "Avogadro's law",
+                "e": "Boyle's law"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "How many electrons does helium need to fill its valenceshell?a 4",
+            "options": {
+                "b": "2",
+                "c": "10",
+                "d": "6e 8"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following is a similarity between the Bohrmodel and quantum mechanical model?",
+            "options": {
+                "a": "Electron energies are limited to certain values.",
+                "b": "The electron is put in a stationary, fixed location.",
+                "c": "The electron rotates in a certain orbit.",
+                "d": "The electron's path around the nucleus isdescribed.",
+                "e": "The electron is placed at an exact distance from thenucleus."
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Hess's law is MOST useful to calculate changes in",
+            "options": {
+                "a": "Gibbs Free Energy",
+                "b": "Ionization energy",
+                "c": "enthalpy",
+                "d": "entropy",
+                "e": "radioactivity"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which Founding Father watched the first hydrogen-powered balloon flight?",
+            "options": {
+                "a": "George Washington",
+                "b": "Thomas Jefferson",
+                "c": "Benjamin Franklin",
+                "d": "John Hancock",
+                "e": "John Adams"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " How many grams of Carbon-12 does it take for thenumber of carbon atoms to equal 1 mole?a 6",
+            "options": {
+                "b": "15c 8",
+                "d": "12",
+                "e": "10"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Hydroxide ions are formed when",
+            "options": {
+                "a": "acids break apart in water",
+                "b": "hydrogen ions are donated by an acid",
+                "c": "the pH ofa solution is too high",
+                "d": "there is an excess of hydrogen ions",
+                "e": "bases break apart in water"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Luigi Galvani's research into electricity revolved aroundexperiments involving",
+            "options": {
+                "a": "hamsters",
+                "b": "rats",
+                "c": "newts",
+                "d": "mice",
+                "e": "frogs"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which famous figure was in the audience during thelaunch of the first hydrogen-powered balloon?",
+            "options": {
+                "a": "Nikola Tesla",
+                "b": "Thomas Edison",
+                "c": "Benjamin Franklin",
+                "d": "Samuel Morse",
+                "e": "James Watt"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The law of definite proportions was proposed in",
+            "options": {
+                "a": "1956",
+                "b": "1799",
+                "c": "1689",
+                "d": "2001",
+                "e": "1497"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Ernest Rutherford created oxygen atoms by combiningnitrogen atoms with",
+            "options": {
+                "a": "_ beta particles",
+                "b": "alpha particles",
+                "c": "Hydrogen nuclei",
+                "d": "photons",
+                "e": "neutrinos"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Empiricism was rooted in",
+            "options": {
+                "a": "experimentation",
+                "b": "mysticism",
+                "c": "debate",
+                "d": "philosophy",
+                "e": "theory"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Dalton proposed the first modern atomic theory in theearly",
+            "options": {
+                "a": "fifteenth century",
+                "b": "nineteenth century",
+                "c": "seventeenth century",
+                "d": "twentieth century",
+                "e": "sixteenth century"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " A neutral substance has a H* concentration of",
+            "options": {
+                "a": "1.0*107M",
+                "b": "1.0*107M",
+                "c": "1.0*10\u00b0M",
+                "d": "1.0*10\u00b0M",
+                "e": "1.0*10\u00b0M"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Gold plating is most notably used in the industry of",
+            "options": {
+                "a": "_ electronics",
+                "b": "aerospace",
+                "c": "photonics",
+                "d": "biomechanics",
+                "e": "nuclear research"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which scientist showed that two volumes of hydrogen andone volume of oxygen were needed to produce water?",
+            "options": {
+                "a": "Amedeo Avogadro",
+                "b": "Alessandro Volta",
+                "c": "Maurice Wilkins",
+                "d": "Joseph-Louis Gay Lussac",
+                "e": "Joseph-Louis Proust"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following physicists was inspired by love forthe weather?",
+            "options": {
+                "a": "Francis Crick",
+                "b": "Amedeo Avogadro",
+                "c": "Robert Boyle",
+                "d": "John Dalton",
+                "e": "Antoine Lavoisier"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " John Dalton first observed the direct relationship betweena gas's pressure and",
+            "options": {
+                "a": "temperature",
+                "b": "heat added",
+                "c": "mass",
+                "d": "volume",
+                "e": "number of moles"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following factors would LEAST influence aperson's choice of water purification method?",
+            "options": {
+                "a": "energy used",
+                "b": "pretreatment needed",
+                "c": "proximity to water source",
+                "d": "maintenance frequency",
+                "e": "waste to be discharged"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The rarest carbon isotope is",
+            "options": {
+                "a": "Carbon-16",
+                "b": "Carbon-14",
+                "c": "Carbon-12",
+                "d": " Carbon-13",
+                "e": "Carbon-18"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The steam engine was an invention of the",
+            "options": {
+                "a": "nineteenth century",
+                "b": "eighteenth century",
+                "c": "seventeenth century",
+                "d": "twentieth century",
+                "e": "sixteenth century"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " CHz is the chemical formula for",
+            "options": {
+                "a": "acetylene",
+                "b": "ethanol",
+                "c": "propylene",
+                "d": "acetone",
+                "e": "propane"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Sigma and pi bonds form through the combination of",
+            "options": {
+                "a": "atomic orbitals",
+                "b": "nuclides",
+                "c": "nuclei",
+                "d": "valence shells",
+                "e": "electron shells"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How many coulombs of charge does 1 Faraday have?",
+            "options": {
+                "a": "96,500",
+                "b": "99,500",
+                "c": "97,500",
+                "d": "95,500",
+                "e": "98,500"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Neutrons are converted to protons during",
+            "options": {
+                "a": "beta plus decay",
+                "b": "nuclear fusion",
+                "c": "beta minus decay",
+                "d": "nuclear fission",
+                "e": "alpha decay"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What did Antoine Lavoisier call the gas he discovered?",
+            "options": {
+                "a": "hydrog\u00e9ne",
+                "b": " h\u00e9lium",
+                "c": "n\u00e9odyme",
+                "d": " oxyg\u00e9ne",
+                "e": "mangan\u00e9se"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " When a reaction is exothermic, it",
+            "options": {
+                "a": "absorbs heat",
+                "b": "occurs naturally in reverse",
+                "c": "occurs naturally",
+                "d": "releases heat",
+                "e": "favors products over reactants"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The hydrogen-powered balloon was based on",
+            "options": {
+                "a": "Charles's law",
+                "b": "Avogadro's law",
+                "c": "Gay-Lussac's law",
+                "d": " Raoult's law",
+                "e": "Boyle's law"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How many assumptions does kinetic-molecular theorymake?",
+            "options": {
+                "a": "3",
+                "b": "1c 4",
+                "d": "5e 2"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " A positive sign for the enthalpy of formation for a certaincompound indicates that the reaction is",
+            "options": {
+                "a": "non-spontaneous",
+                "b": "exothermic",
+                "c": "endothermic",
+                "d": "spontaneous",
+                "e": "unstable"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which compound is added to silver to make it precipitateas metallic silver?",
+            "options": {
+                "a": "mercury",
+                "b": "iron",
+                "c": "zirconium",
+                "d": "nickel",
+                "e": "zinc"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The photoelectric effect is very common in",
+            "options": {
+                "a": "laptops",
+                "b": "flash drives",
+                "c": "digital cameras",
+                "d": "smartphones",
+                "e": "televisions"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which is the CLOSEST figure to the ratio of naturallyfound deuterium atoms to hydrogen atoms?",
+            "options": {
+                "a": "1:15000",
+                "b": " 1:10000",
+                "c": " 1:5000",
+                "d": "1:500",
+                "e": "1:100"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " AH - TAS is the equation to find a certain quantity of",
+            "options": {
+                "a": "temperature",
+                "b": "entropy",
+                "c": " Faradays",
+                "d": "Gibbs Free Energy",
+                "e": "enthalpy"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The sum of the oxidation numbers of atoms that arebonded together must be equal to the total",
+            "options": {
+                "a": "cell potential of each atom",
+                "b": "number of valence electrons",
+                "c": "charge of the compound",
+                "d": "number of bonds between atoms",
+                "e": "Pauling electronegativity"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Nonpolar solvents are compounds that contain only carbonand",
+            "options": {
+                "a": "oxygen",
+                "b": "hydrogen",
+                "c": "nitrogen",
+                "d": "helium",
+                "e": "phosphorus"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " A vertical column on the periodic table is called a",
+            "options": {
+                "a": "period",
+                "b": "set",
+                "c": "level",
+                "d": "group",
+                "e": "class"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Ifan atom of a certain element has an oxidation number of+1, itis likely",
+            "options": {
+                "a": "a lanthanide",
+                "b": "an alkali metal",
+                "c": "an actinide",
+                "d": "ametalloid",
+                "e": "an alkaline earth metal"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The publication of scientific papers is MOST associatedwith",
+            "options": {
+                "a": "formation of scientific societies",
+                "b": "creation of an international postage system",
+                "c": "increase in funding for scientific research",
+                "d": "rise in literacy",
+                "e": "invention of the printing press"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Within equilibrium problems, the concentration ofsubstance A in moles per liter would be denoted by thesymbol",
+            "options": {
+                "a": "{A}",
+                "b": "<A>",
+                "c": "[A]",
+                "d": "[Al",
+                "e": "(A)"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Who proposed that a substance's properties are determinedby the properties of its particles?",
+            "options": {
+                "a": "John Dalton",
+                "b": "Antoine Lavoisier",
+                "c": "Leucippus",
+                "d": "Democritus",
+                "e": "Joseph-Louis Proust"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following structures is NOT a VSEPR shape?",
+            "options": {
+                "a": "octahedral",
+                "b": "trigonal bipyramidal",
+                "c": "hexagonal bipyramidal",
+                "d": "trigonal planar",
+                "e": "tetrahedral"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which idea was first proposed in the fifth century CE?",
+            "options": {
+                "a": "atomism",
+                "b": " kineticism",
+                "c": "VSEPR theory",
+                "d": "thermodynamics",
+                "e": "entropy"
+            },
+            "answer": "A"
+        }
+    ],
+    "Science Comprehensive Exam 09": [
+        {
+            "question": "If the gas molecules within a container are moving veryrapidly, that is a clear indication that MOST likely the gashas a",
+            "options": {
+                "a": "high pressure",
+                "b": "high temperature",
+                "c": "high volume",
+                "d": "low pressure",
+                "e": "low temperature"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "A negative sign for the enthalpy of formation for a certaincompound indicates that the reaction is",
+            "options": {
+                "a": "exothermic",
+                "b": "non-spontaneous",
+                "c": "unstable",
+                "d": "endothermic\u20ac. spontaneous"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Properties that depend on the relative numbers of moles ofsolute and solvent are called",
+            "options": {
+                "a": "paragonal properties",
+                "b": "concentrated properties",
+                "c": "isotopes",
+                "d": "allotropes",
+                "e": "_colligative properties"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The latent heat associated with vaporizing a solid is calledthe",
+            "options": {
+                "a": "heat of sublimation",
+                "b": "heat of fusion",
+                "c": "heat of condensation",
+                "d": "heat of vaporization",
+                "e": "heat of solidification"
+            },
+            "answer": "D"
+        },
+        {
+            "question": "The measurement of a mole is based on 12 grams of",
+            "options": {
+                "a": "helium",
+                "b": "oxygen",
+                "c": "iron",
+                "d": "hydrogen",
+                "e": "carbon"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What type of conditions are measured at 298 K withregards to cell potential?",
+            "options": {
+                "a": "\"stable\u201d",
+                "b": "\"standard state\u201d",
+                "c": "\"increased activity\u201d",
+                "d": "\"equilibrium\u201d",
+                "e": "\"reduced activity\u201d"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "During uranium fission, the uranium atom is hit by a free",
+            "options": {
+                "a": "neutron",
+                "b": "proton",
+                "c": "neutrino",
+                "d": "electron",
+                "e": "positron"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How many electrons can exist in the same orbit?a 2",
+            "options": {
+                "b": "4c 6",
+                "d": "8e 1"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The \"energy associated with disorder\" is also known as",
+            "options": {
+                "a": "enthalpy",
+                "b": "Internal energy",
+                "c": "entropy",
+                "d": "exergy",
+                "e": "Gibbs Free Energy"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " An atom's mass number is equal to the sum of its",
+            "options": {
+                "a": "neutrons and valence electrons",
+                "b": "protons and valence electrons",
+                "c": "protons and neutrons",
+                "d": "neutrons and electrons",
+                "e": "protons and electrons"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following elements could replace H2 fromany source?",
+            "options": {
+                "a": "Ag",
+                "b": "Cu",
+                "c": "Au",
+                "d": "Li",
+                "e": "Hg"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following materials can be carbon dated?",
+            "options": {
+                "a": "glass",
+                "b": "metal",
+                "c": "rock",
+                "d": "wood",
+                "e": "clay"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What fraction of the mass of a carbon atom is a hydrogenatom?",
+            "options": {
+                "a": "1/10",
+                "b": "1/2ce 1/4",
+                "d": "1/3",
+                "e": "1/12"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following isotopes is made in nuclearreactors?",
+            "options": {
+                "a": "Actinium-227",
+                "b": "Carbon-14",
+                "c": "Cobalt-60",
+                "d": "Uranium-235",
+                "e": "Hydrogen-2"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " John Dalton maintained daily records of the weather for",
+            "options": {
+                "a": "37 years",
+                "b": "17 years",
+                "c": "57 years",
+                "d": "64 years",
+                "e": "84 years"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " In what unit is heat measured?",
+            "options": {
+                "a": "amperes",
+                "b": "\u2014 watt-seconds",
+                "c": "coulombs",
+                "d": "joules",
+                "e": "hertz"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which substance forms when cosmic rays interact withnitrogen atoms?",
+            "options": {
+                "a": "Nitrogen-12",
+                "b": "ozone",
+                "c": "Carbon-12",
+                "d": "Carbon-14",
+                "e": "carbon monoxide"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The first manned hydrogen-fueled balloon flight took placein the",
+            "options": {
+                "a": "late 1750s",
+                "b": "late 1760s",
+                "c": "early 1740s",
+                "d": "early 1730s",
+                "e": "early 1770s"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " V/T = Dis the relationship highlighted in",
+            "options": {
+                "a": "Avogadro's law",
+                "b": "Charles's law",
+                "c": " Proust's law",
+                "d": " Raoult's law",
+                "e": "Gay-Lussac's law"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following contributions did AntoineLavoisier NOT make to the field of chemistry?",
+            "options": {
+                "a": "the law of partial pressure",
+                "b": "the principle of conservation of mass",
+                "c": "the current system of chemical nomenclature",
+                "d": "the composition of air",
+                "e": "a better understanding of combustion"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The first modern atomic theory was put forth in the early",
+            "options": {
+                "a": "16th century",
+                "b": "18th century",
+                "c": "19th century",
+                "d": "20th century",
+                "e": "17th century"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When the K-value of a reaction is negative, the reaction",
+            "options": {
+                "a": "_ is exothermic",
+                "b": "favors the formation of reactants",
+                "c": "favors the formation of products",
+                "d": "requires a catalyst to occur naturally",
+                "e": "is endothermic"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which scientist first estimated Avogadro's number?",
+            "options": {
+                "a": "J.J. Thompson",
+                "b": "Jean Baptiste Perrin",
+                "c": "Amedeo Avogadro",
+                "d": "Joseph-Louis Gay-Lussac",
+                "e": "Fritz London"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How long did Charles's second hydrogen-powered balloonflight last?",
+            "options": {
+                "a": "2 hours",
+                "b": "1 hour",
+                "c": "30 minutes",
+                "d": "2.5 hours",
+                "e": "3 hours"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following scientists worked at the Universityof California?",
+            "options": {
+                "a": "Niels Bohr",
+                "b": "Maurice Wilkins",
+                "c": "Gilbert N. Lewis",
+                "d": "Joseph Black",
+                "e": "Lester Germer"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " A horizontal row on the periodic table is called a",
+            "options": {
+                "a": "set",
+                "b": "level",
+                "c": "period",
+                "d": "class",
+                "e": "group"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Thermodynamics is the study of",
+            "options": {
+                "a": "how molecules react with each other",
+                "b": "energy and temperature in relation to particlemotion",
+                "c": "wave-particle duality",
+                "d": "the movement of matter and energy within systems",
+                "e": "energy changes in chemical reactions"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " A basic substance has a H* concentration below",
+            "options": {
+                "a": "1.0*107M",
+                "b": "1.0*10\u00b0M",
+                "c": "1.0*104M",
+                "d": "1.0*10\u00b0Me 1.0*10\u00b0M"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " In some regions, the lowering of soil pH is due to",
+            "options": {
+                "a": "sulfur fertilizers",
+                "b": "_ loss of organic matter",
+                "c": "acid rain",
+                "d": "nitrogen fertilizers",
+                "e": "erosion"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following options is the NEXT most orderedstate of matter after liquids?",
+            "options": {
+                "a": "solids",
+                "b": "liquids",
+                "c": "gases",
+                "d": "solutions",
+                "e": "precipitates"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Who proposed the first modern atomic theory?",
+            "options": {
+                "a": "Walther Nernst",
+                "b": "Joseph Priestley",
+                "c": "Robert Boyle",
+                "d": "Sir James Chadwick",
+                "e": "John Dalton"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " If the pressure of a gas is increased, its volume will",
+            "options": {
+                "a": "decrease linearly",
+                "b": "increase exponentially",
+                "c": "increase linearly",
+                "d": "decrease exponentially",
+                "e": "stay the same"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following groups contains all the elementsidentified by Aristotle?",
+            "options": {
+                "a": "earth, air, fire, water",
+                "b": "air, fire, water",
+                "c": "air, earth, space, fire",
+                "d": "earth, air, fire, water, space",
+                "e": "fire, water"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Joseph Black derived his inspiration for his experimentsfrom his observations of",
+            "options": {
+                "a": "the phase diagram of water",
+                "b": "_ ice's expansion in volume",
+                "c": "melting snow",
+                "d": "the decomposition of silver halide salts",
+                "e": "the combustion process"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which Western scientist built off the ideas of Leucippusand Democritus?",
+            "options": {
+                "a": "Joseph-Louis Proust",
+                "b": "Carl Wilhelm Scheele",
+                "c": "John Dalton",
+                "d": "Antoine Lavoisier",
+                "e": "Antoine Henri Becquerel"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following carbon isotopes is NOTradioactive?",
+            "options": {
+                "a": "Carbon-8",
+                "b": "Carbon-21",
+                "c": "Carbon-22",
+                "d": "Carbon-14",
+                "e": "Carbon-13"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " When was gas lighting adopted?",
+            "options": {
+                "a": "1700s",
+                "b": "1400s",
+                "c": "1500s",
+                "d": "1600s",
+                "e": "1800s"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Scientists didn't agree that elements mixed in fixed ratiosuntil the",
+            "options": {
+                "a": "late 1700s",
+                "b": "late 1800s",
+                "c": "early 1800s",
+                "d": "early 1700s",
+                "e": "early 1900s"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following scientists did the research of RobertBoyle inspire?",
+            "options": {
+                "a": "Joseph Black",
+                "b": "Maurice Wilkins",
+                "c": "Jacques Charles",
+                "d": "Luigi Galvani",
+                "e": "Lester Germer"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When a region of high electron density holds two nucleitogether, the bond that forms is a(n)",
+            "options": {
+                "a": "sigma bond",
+                "b": "beta bond",
+                "c": "pibond",
+                "d": "gamma bond",
+                "e": "alpha bond"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How many coulombs of charge do three Faradays contain?",
+            "options": {
+                "a": "395,000",
+                "b": "289,500",
+                "c": "267,500",
+                "d": "270,000",
+                "e": "280,000"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The process of removing excess silver while developingphotographs is called",
+            "options": {
+                "a": "plating",
+                "b": "fixing",
+                "c": "dissolving",
+                "d": "eroding",
+                "e": "exposing"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following compounds is MOST likely todissolve in octane?",
+            "options": {
+                "a": "water",
+                "b": "ammonia",
+                "c": "vegetable oil",
+                "d": "hydrogen fluoride",
+                "e": "ethanol"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Isotopes are formed by changing an atom's",
+            "options": {
+                "a": "positrons",
+                "b": "electrons",
+                "c": "neutrinos",
+                "d": "neutrons",
+                "e": "protons"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following scientific principles basicallyrestates the law of conservation of energy?",
+            "options": {
+                "a": "Dalton's law",
+                "b": " Hess's law",
+                "c": "Gay-Lussac's law",
+                "d": "Proust's law",
+                "e": "Raoult's law"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How many neutrons does a +2 cation of silver (108-47 Ag)have?",
+            "options": {
+                "a": "62",
+                "b": "61",
+                "c": "67",
+                "d": "58e 59"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Who originally proposed the theory of atomism?",
+            "options": {
+                "a": "Aristarchus",
+                "b": " Leucippus",
+                "c": "Aristotle",
+                "d": "Democritus",
+                "e": "Paracelsus"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following transformations was MOST oftenthe goal of transmutation?",
+            "options": {
+                "a": "73K",
+                "b": "373Kc 173K",
+                "c": "deuterium to hydrogen",
+                "d": "-273K",
+                "e": "-173K"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The idea that all substances are comprised of very smallindivisible particles is characteristic of",
+            "options": {
+                "a": "Hess's law",
+                "b": "_ the law of definite proportions",
+                "c": "atomism",
+                "d": "Proust's law",
+                "e": "Dalton's atomic theory"
+            },
+            "answer": "C"
+        }
+    ],
+    "Science Comprehensive Exam 10": [
+        {
+            "question": "Nonpolar solvents are compounds that contain onlyhydrogen and",
+            "options": {
+                "a": "oxygen",
+                "b": "phosphorus",
+                "c": "silicon",
+                "d": "boron",
+                "e": "carbon"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Hydrogen ions are formed when",
+            "options": {
+                "a": "_ bases break apart in water",
+                "b": "acids break apart in water",
+                "c": "hydrogen ions are donated by an acid",
+                "d": "there is an excess of hydrogen ions",
+                "e": "the pH ofa solution is too high"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "The moles of gas A divided by the sum of the moles of allthe gases present is referred to as a",
+            "options": {
+                "a": "partial pressure fraction",
+                "b": "partial gas fraction",
+                "c": "mole fraction",
+                "d": "amount fraction",
+                "e": "gas fraction"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following people was a student of Leucippus?",
+            "options": {
+                "a": "Aristotle",
+                "b": "Democritus",
+                "c": "Euclid",
+                "d": "Paracelsus",
+                "e": "Plato"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Who invented the steam engine?",
+            "options": {
+                "a": "Charles Babbage",
+                "b": "Eli Whitney",
+                "c": "James Watt",
+                "d": "James Naismith",
+                "e": "Cyrus McCormick"
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Accell that contains a voltage even when E\u00b0 = 0 is calleda(n)",
+            "options": {
+                "a": "electrochemical cell",
+                "b": "concentration cell",
+                "c": "electrolytic cell",
+                "d": "galvanic electrochemical cell",
+                "e": "fuel cell"
+            },
+            "answer": "B"
+        },
+        {
+            "question": "An acidic substance has a H' concentration above",
+            "options": {
+                "a": "1.0*10\u00b0M",
+                "b": "1.0*104M",
+                "c": "1.0*10\u00b0M",
+                "d": "1.0*10\u00b0M",
+                "e": "1.0*107M"
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Who proposed that the physical properties of a solution aredetermined by the relative number of moles of solute?",
+            "options": {
+                "a": "Raoult's law",
+                "b": " Proust's law",
+                "c": "Charles's law",
+                "d": "Hess's law",
+                "e": "Boyle's law"
+            },
+            "answer": "A"
+        },
+        {
+            "question": "The goal of kinetic-molecular theory is to explain",
+            "options": {
+                "a": "how acids and bases interact with each other",
+                "b": "_ orbital behavior when molecules form",
+                "c": "the behavior of gases",
+                "d": "the behavior of atomic structures",
+                "e": "the motion of particles"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " With which of the following elements is the process of\"fixing\" associated?",
+            "options": {
+                "a": "molybdenum",
+                "b": ". silver",
+                "c": "manganese",
+                "d": "gold",
+                "e": "platinum"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What was Alessandro Volta's accomplishment?",
+            "options": {
+                "a": "causing dissected frogs to twitch by applyingelectrical currents",
+                "b": "_ proving that electricity caused blood to circulate",
+                "c": "discovering that current flow through a conductoris directly proportional to the potential difference",
+                "d": "creating the first battery to provide a continuouselectrical current",
+                "e": "discovering the process of gold plating"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The collision rate of gas molecules increases in proportionto the increase in",
+            "options": {
+                "a": "moles of gas",
+                "b": "_ the gas container's volume",
+                "c": "gas pressure",
+                "d": "the temperature of the gas",
+                "e": "the number of gas molecules"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Positron emission occurs during",
+            "options": {
+                "a": "beta plus decay",
+                "b": "nuclear fusion",
+                "c": "nuclear fission",
+                "d": "beta minus decay",
+                "e": "alpha decay"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which equilibrium constant would a chemical reactioninvolving precipitate formation MOST likely use?",
+            "options": {
+                "a": "Kpr",
+                "b": "Kp",
+                "c": "Ksp",
+                "d": "Kpre",
+                "e": "Kpc"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " An alpha particle has the same composition as a",
+            "options": {
+                "a": "tritium atom",
+                "b": "hydrogen isotope",
+                "c": "helium nucleus",
+                "d": "deuterium atom",
+                "e": "helium cation"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The most abundant carbon isotope is",
+            "options": {
+                "a": "Carbon-12",
+                "b": "Carbon-18",
+                "c": "Carbon-14",
+                "d": " Carbon-13",
+                "e": "Carbon-16"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " The hydrogen-powered balloon was based on the researchof",
+            "options": {
+                "a": "Amedeo Avogadro",
+                "b": "Jacques Charles",
+                "c": "Joseph-Louis Gay-Lussac",
+                "d": "Robert Boyle",
+                "e": "Johann Baptista van Helmont"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " An atom's number of protons is equal to its",
+            "options": {
+                "a": "electronegativity",
+                "b": "atomic number",
+                "c": "number of valence electrons",
+                "d": "ionization energy",
+                "e": "number of neutrons"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Photons are emitted from metal surfaces in the",
+            "options": {
+                "a": "callendar effect",
+                "b": "Compton effect",
+                "c": "Eberhard effect",
+                "d": "photovoltaic effect",
+                "e": "photoelectric effect"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Ions are formed by changing an atom's",
+            "options": {
+                "a": "electrons",
+                "b": "neutrinos",
+                "c": "protons",
+                "d": "neutronse, positrons"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Of which reaction type are precipitation reactions anexample?",
+            "options": {
+                "a": "synthesis",
+                "b": "_ single-replacement",
+                "c": "acid-base",
+                "d": "decomposition",
+                "e": "double replacement"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Jacques Charles was inspired by the research of",
+            "options": {
+                "a": "Robert Boyle",
+                "b": "John Jacoband Berzelius",
+                "c": "Germain Hess",
+                "d": "J.W. Gibbs",
+                "e": "Johannes van der Waals"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What fraction of the mass of a carbon atom is a heliumatom?",
+            "options": {
+                "a": "1/6",
+                "b": "1/3ce 1/4",
+                "d": "1/5e 1/2"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which California city uses reverse osmosis at theirdesalination operation?",
+            "options": {
+                "a": "San Bruno",
+                "b": "Bakersfield",
+                "c": "Carlsbad",
+                "d": "Sacramento",
+                "e": "Fresco"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which scientist built off of the research of Luigi Galvani?",
+            "options": {
+                "a": "James Clark Maxwell",
+                "b": "Sir James Chadwick",
+                "c": "Linus Pauling",
+                "d": "Alessandro Volta",
+                "e": "John Jacoband Berzelius"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The equation PV/T = CD is derived by combining",
+            "options": {
+                "a": "Gay-Lussac's law and Avogadro's law",
+                "b": " Boyle's law and Avogadro's law",
+                "c": "Charles's law and Gay-Lussac's law",
+                "d": "Boyle's law and Gay-Lussac's law",
+                "e": "Boyle's law and Charles' law"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Dalton's law is also known as the law of",
+            "options": {
+                "a": "kinetic-molecular motion",
+                "b": "conservation of mass",
+                "c": "definite proportions",
+                "d": "partial pressures",
+                "e": "multiple proportions"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Chemistry's origins are in the field of",
+            "options": {
+                "a": "hermeticism",
+                "b": " esotericism",
+                "c": "herbalism",
+                "d": "transmutation",
+                "e": "alchemy"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which scientist's ideas were notably challenged by leadingphysicians at first?",
+            "options": {
+                "a": "Joseph Black",
+                "b": "Henry Cavendish",
+                "c": "Robert Boyle",
+                "d": "Johann Baptista van Helmont",
+                "e": "Joseph Priestley"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Oxygen atoms can be created by combining alpha particleswith atoms of",
+            "options": {
+                "a": "chlorine",
+                "b": "carbon",
+                "c": "fluorine",
+                "d": "nitrogen",
+                "e": "boron"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " One would measure the heat given off in a chemicalreaction to find its",
+            "options": {
+                "a": "enthalpy",
+                "b": "free energy",
+                "c": "entropy",
+                "d": "potential energye, spontaneity"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Where does Carbon-14 naturally form?",
+            "options": {
+                "a": "within inactive volcanoes",
+                "b": "along fault lines",
+                "c": "the upper atmosphere",
+                "d": "the lower atmosphere",
+                "e": "within hot springs"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The leftmost elements on the periodic table have oxidationnumbers of",
+            "options": {
+                "a": "-2",
+                "b": "+2c -l",
+                "d": "+1e 0"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following scientists refuted phlogistontheory?",
+            "options": {
+                "a": "Antoine Lavoisier",
+                "b": "Joseph Black",
+                "c": "Henry Cavendish",
+                "d": "Johann Baptista van Helmont",
+                "e": "Robert Boyle"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How many groups does the periodic table contain?",
+            "options": {
+                "a": "16",
+                "b": "10",
+                "c": "20",
+                "d": "18",
+                "e": "24"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which element's atomic mass was established FIRST?",
+            "options": {
+                "a": "sulfur",
+                "b": "helium",
+                "c": "carbon",
+                "d": "hydrogen",
+                "e": "oxygen"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When atomic orbitals combine, the new orbitals that formare referred to as",
+            "options": {
+                "a": "merged",
+                "b": "hybridized",
+                "c": "crossed",
+                "d": "combined",
+                "e": "integrated"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which atomic model predicts the geometry of simplemolecules?",
+            "options": {
+                "a": "collision model",
+                "b": "VSEPR model",
+                "c": "Molecular orbital theory",
+                "d": "Lewis structures",
+                "e": "quantum mechanical model"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " The point within an orbital where an electron CANNOTbe located is called a(n)",
+            "options": {
+                "a": "intersection",
+                "b": "_ singularity",
+                "c": "node",
+                "d": "junction",
+                "e": "knot"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Lower energy pathways for reactions are provided by the",
+            "options": {
+                "a": "catalyst",
+                "b": "enzymes",
+                "c": "reactants",
+                "d": "transition statese, activation energy"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following groups of compounds is soluble?",
+            "options": {
+                "a": "carbonates",
+                "b": "hydroxides",
+                "c": "sulfates",
+                "d": "oxides",
+                "e": "silicates"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Decomposition reactions were used to create",
+            "options": {
+                "a": "carbon monoxide",
+                "b": "ozone",
+                "c": "water vapor",
+                "d": "oxygen",
+                "e": "carbon dioxide"
+            },
+            "answer": "D"
+        },
+        {
+            "question": " The rise in publications of scientific papers was encouragedby the",
+            "options": {
+                "a": "_ law of definite proportions",
+                "b": "law of partial pressures",
+                "c": "ideal gas law",
+                "d": "law of multiple proportions",
+                "e": "law of conservation of mass"
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How many neutrons does deuterium contain?",
+            "options": {
+                "a": "0",
+                "b": "4c 3",
+                "d": "2e 1"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Electrons are not placed in fixed locations in",
+            "options": {
+                "a": "covalent networks",
+                "b": "VSEPR models",
+                "c": "quantum mechanical models",
+                "d": "Bohr models",
+                "e": "Lewis structures"
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which scientist created oxygen atoms manually in 1919?",
+            "options": {
+                "a": "Ernest Rutherford",
+                "b": "Jean Baptiste Perrin",
+                "c": "James Clerk Maxwell",
+                "d": "Luigi Galvani",
+                "e": "Albert Einstein"
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Avogadro's law is MOST related to",
+            "options": {
+                "a": "temperature",
+                "b": "pressure",
+                "c": "volume",
+                "d": "root mean square speed",
+                "e": "moles of gas"
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What was NOT a feature of the balloon flight ofDecember 1, 1783?",
+            "options": {
+                "a": "Peasants attacked the balloon at the end of theflight.",
+                "b": "The flight lasted over two hours.",
+                "c": "Charles experienced ear pain during the secondascent.",
+                "d": "Nicolas-Louis Robert was a passenger.",
+                "e": "Hydrogen was the gas used."
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Even after temperatures are above freezing temperatures,ice will still melt at a slow pace. This phenomenon isassociated with the idea of",
+            "options": {
+                "a": "insulating temperatures",
+                "b": "heat of fusion",
+                "c": "latent heat",
+                "d": "heat conductivity",
+                "e": "heat of vaporization"
+            },
+            "answer": "C"
+        }
+    ]
+}

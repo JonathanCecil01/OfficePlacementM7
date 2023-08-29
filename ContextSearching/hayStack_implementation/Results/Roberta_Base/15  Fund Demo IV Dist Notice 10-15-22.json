@@ -1,0 +1,172 @@
+{
+  "file": "15  Fund Demo IV Dist Notice 10-15-22.pdf",
+  "data": {
+    "Fund Name": [
+      {
+        "answer": "Invent M7 PE Fund Demo IV",
+        "context": "Invent M7 PE Fund Demo IV L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date:",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=218.37901306152344&y=98.227783203125",
+        "score": 0.33323490619659424
+      }
+    ],
+    "General Partner Name": [],
+    "Limited Partner Name": [],
+    "Investment Name": [
+      {
+        "answer": "Invent M7 PE Fund Demo IV L.P.",
+        "context": "Invent M7 PE Fund Demo IV L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date:",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=218.37901306152344&y=98.227783203125",
+        "score": 0.20320168137550354
+      }
+    ],
+    "Investment Amount": [
+      {
+        "answer": "$20,000,000.00",
+        "context": "L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn o",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=74.2750015258789&y=211.77777099609375",
+        "score": 0.24703329801559448
+      },
+      {
+        "answer": "5,000,000.00",
+        "context": "100,000.00 2,800,000.00\n8 950,000.00 2,850,000.00 3,800,000.00\n9 50,000.00 150,000.00 200,000.00\nTotal (USD): 5,000,000.00 15,000,000.00 20,000,000.00",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=66.5250015258789&y=695.4227294921875",
+        "score": 0.07061214745044708
+      }
+    ],
+    "Notice Date": [
+      {
+        "answer": "October 1, 2022",
+        "context": "0\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn of Capital: $ 5,000,000.00\nReali",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=244.02777099609375",
+        "score": 0.7498674392700195
+      }
+    ],
+    "Due Date": [
+      {
+        "answer": "October 15, 2022",
+        "context": "tributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn of Capital: $ 5,000,000.00\nRealized Gains: 15,000,000.00\nTo",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=260.77777099609375",
+        "score": 0.8969353437423706
+      },
+      {
+        "answer": "15, 2022",
+        "context": "ubscription\nAgreement or on or before the close of business on October 15, 2022.\nInvestor Return of Capital Realized Gains Distribution Total\n1 500,00",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=74.7750015258789&y=474.5977478027344",
+        "score": 0.053415581583976746
+      }
+    ],
+    "Currency Code": [],
+    "Amount Due": [
+      {
+        "answer": "$20,000,000.00",
+        "context": "L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn o",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=74.2750015258789&y=211.77777099609375",
+        "score": 0.28880441188812256
+      }
+    ],
+    "Commitment Amount": [],
+    "Unfunded Commitment Amount": [],
+    "Investor Number": [],
+    "Notice Number": [],
+    "Investment Fast Logics": [],
+    "Excess Cash Returned": [],
+    "Management Fee": [],
+    "Management Fee Discount": [],
+    "Make Up Management Fee": [],
+    "Management Fee Interest": [],
+    "Net Management Fee": [],
+    "Partnership Expenses": [],
+    "Organizational Costs": [],
+    "Distribution of Proceeds": [
+      {
+        "answer": "$20,000,000.00",
+        "context": "L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn o",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=74.2750015258789&y=211.77777099609375",
+        "score": 0.09357300400733948
+      }
+    ],
+    "Capital Contribution": [],
+    "Aggregate Capital Call Amount": [],
+    "Total Capital Call Amount": [],
+    "Total Make up Contributions": [],
+    "Make Up Interest Payment": [],
+    "Total Due From Investor": [
+      {
+        "answer": "20,000,000.00",
+        "context": "5,000,000.00\nRealized Gains: 15,000,000.00\nTotal\nAmount Distributed: 20,000,000.00\nPayment under this notice will be delivered to the wire instruction",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=340.5477600097656",
+        "score": 0.08137626945972443
+      },
+      {
+        "answer": "5,000,000.00 15,000,000.00 20,000,000.00",
+        "context": "100,000.00 2,800,000.00\n8 950,000.00 2,850,000.00 3,800,000.00\n9 50,000.00 150,000.00 200,000.00\nTotal (USD): 5,000,000.00 15,000,000.00 20,000,000.00",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=66.5250015258789&y=695.4227294921875",
+        "score": 0.056054674088954926
+      }
+    ],
+    "Undrawn Commitment before": [],
+    "Undrawn Commitment Effect": [],
+    "Undrawn Commitment After": [],
+    "Distribution Amount": [],
+    "Total Make Up Contributions": [],
+    " Interest Owed": [],
+    " Interest Rebalance Contributions": [],
+    " Cummulative Distribution Prior": [],
+    " Current Distribution Amount": [
+      {
+        "answer": "$20,000,000.00",
+        "context": "L.P.\nDISTRIBUTION NOTICE 2022-10\nCompany: X-Ray\nAmount Distributed: $20,000,000.00\nDate of Notice: October 1, 2022\nDue Date: October 15, 2022\nReturn o",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=74.2750015258789&y=211.77777099609375",
+        "score": 0.057762958109378815
+      }
+    ],
+    " Total Distribution Amount": [
+      {
+        "answer": "20,000,000.00",
+        "context": "5,000,000.00\nRealized Gains: 15,000,000.00\nTotal\nAmount Distributed: 20,000,000.00\nPayment under this notice will be delivered to the wire instruction",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=340.5477600097656",
+        "score": 0.3359312415122986
+      },
+      {
+        "answer": "5,000,000.00",
+        "context": "100,000.00 2,800,000.00\n8 950,000.00 2,850,000.00 3,800,000.00\n9 50,000.00 150,000.00 200,000.00\nTotal (USD): 5,000,000.00 15,000,000.00 20,000,000.00",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=66.5250015258789&y=695.4227294921875",
+        "score": 0.09708385169506073
+      }
+    ],
+    " Return of Capital": [
+      {
+        "answer": "$ 5,000,000.00",
+        "context": "tice: October 1, 2022\nDue Date: October 15, 2022\nReturn of Capital: $ 5,000,000.00\nRealized Gains: 15,000,000.00\nTotal\nAmount Distributed: 20,000,000.",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=299.0477600097656",
+        "score": 0.17669004201889038
+      }
+    ],
+    " Special Contribution": [],
+    " Realized Gains": [
+      {
+        "answer": "15,000,000.00",
+        "context": ": October 15, 2022\nReturn of Capital: $ 5,000,000.00\nRealized Gains: 15,000,000.00\nTotal\nAmount Distributed: 20,000,000.00\nPayment under this notice w",
+        "page_no": 0,
+        "book_mark": "file:///15  Fund Demo IV Dist Notice 10-15-22_highlighted.pdf#page=0&x=84.2750015258789&y=312.7977600097656",
+        "score": 0.16099955141544342
+      }
+    ],
+    " Carried Interest": []
+  }
+}

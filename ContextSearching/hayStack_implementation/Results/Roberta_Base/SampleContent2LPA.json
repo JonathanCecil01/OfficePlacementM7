@@ -1,0 +1,207 @@
+{
+  "file": "SampleContent2LPA.pdf",
+  "data": {
+    "Fund Name": [
+      {
+        "answer": "Invent M7 Private Equity Fund Demo IV",
+        "context": "Invent M7 Private Equity Fund Demo IV [January 2019]\nThis Model Limited Partnership Agreement is the work product of an international group of counsel",
+        "page_no": 0,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=0&x=80.27650451660156&y=88.75",
+        "score": 0.41571420431137085
+      },
+      {
+        "answer": "Invent M7 Private Equity Demo Fund IV",
+        "context": "business of the Fund shall be conducted under\nthe name [ Invent M7 Private Equity Demo Fund IV].2.1.2 The Fund is a Ohio Limited Partnership and is\nau",
+        "page_no": 12,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=12&x=71.7750015258789&y=136.44329833984375",
+        "score": 0.13888831436634064
+      }
+    ],
+    "Start Date": [
+      {
+        "answer": "Initial Closing Date",
+        "context": "The term of the Fund commenced on the Initial Closing Date and the Fund shall continue, unless\nthe Fund is sooner dissolved in accordance with this Ag",
+        "page_no": 68,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=68&x=298.8299865722656&y=72.92333984375",
+        "score": 0.6670240163803101
+      }
+    ],
+    "Carried Interest": [
+      {
+        "answer": "14.3.3 and 14.3.4",
+        "context": "distributions received by the General\nPartner pursuant to Sections 14.3.3 and 14.3.4 hereof and any distributions received by the General Partner\nwith",
+        "page_no": 2,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=2&x=71.7750015258789&y=693.8682861328125",
+        "score": 0.3307754695415497
+      },
+      {
+        "answer": "Section\n14.3",
+        "context": "has received cumulative distributions of Carried Interestpursuant to Section\n14.3 (Distributions of Distributable Proceeds), Section 14.5 (Tax Distrib",
+        "page_no": 52,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=52&x=439.6109313964844&y=210.47332763671875",
+        "score": 0.21448230743408203
+      }
+    ],
+    "General Partner Name": [
+      {
+        "answer": "Invent M7 Capital Partners",
+        "context": "\u201cGeneral Partner\u201d means Invent M7 Capital Partners or any replacement general partner appointed in\naccordance withArticle 10 (Removal of the General P",
+        "page_no": 5,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=5&x=190.83050537109375&y=555.8132934570312",
+        "score": 0.8821596503257751
+      },
+      {
+        "answer": "responsible for the management and control of the Fund",
+        "context": "1 General Partner. The General Partner shall be responsible for the management and control of the Fund.\n3.2.1 No Limited Partner shall take part in th",
+        "page_no": 21,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=21&x=292.30694580078125&y=540.0632934570312",
+        "score": 0.4996517598628998
+      }
+    ],
+    "Initial Closing Date": [
+      {
+        "answer": "December 31",
+        "context": " ninety (90) days after the end of each Fiscal Year (commencing after\nDecember 31 of the Fiscal Year of the Initial Closing Date), prepare and send, o",
+        "page_no": 61,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=61&x=71.7750015258789&y=484.0433044433594",
+        "score": 0.542852520942688
+      },
+      {
+        "answer": "12 months",
+        "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+        "page_no": 5,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=5&x=265.22052001953125&y=286.7433166503906",
+        "score": 0.2943307161331177
+      }
+    ],
+    "Final Closing Date": [
+      {
+        "answer": "12 months from the Initial Closing Date",
+        "context": "\u201cFinal Closing Date\u201d means the date that is 12 months from the Initial Closing Date. \u201cFiscal Year\u201d has\nthemeaning set forth in Section 2.3 (Fiscal Yea",
+        "page_no": 5,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=5&x=265.22052001953125&y=286.7433166503906",
+        "score": 0.6657681465148926
+      },
+      {
+        "answer": "July 2020",
+        "context": "st in the capital or profits of the\nFund.\n18.TERM, DISSOLUTION ANDWINDING UP OF THE FUND\n18.2 Dissolution.\n18.3 Winding Up. 63 Last Updated: July 2020",
+        "page_no": 70,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=70&x=71.2750015258789&y=277.7433166503906",
+        "score": 0.36360105872154236
+      }
+    ],
+    "Management Company": [
+      {
+        "answer": "Invent M7 Capital Partners",
+        "context": " the meaning set forth in Section 2.5.1.\n\u201cFund Manager\u201d means Invent M7 Capital Partners or any replacement fund manager appointed in\naccordance withA",
+        "page_no": 5,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=5&x=71.2750015258789&y=428.7933044433594",
+        "score": 0.6171671152114868
+      },
+      {
+        "answer": "[Ohio",
+        "context": "nd is authorized to operate as such\nunder the [ ]. The Fund Manager is a [Ohio and is authorized to operate as such under the [ ].\n2.2.1 [ ]; and\n2.2.",
+        "page_no": 12,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=12&x=71.7750015258789&y=291.7433166503906",
+        "score": 0.2207653522491455
+      }
+    ],
+    "Investment Limitations": [
+      {
+        "answer": "Section 7.1",
+        "context": "s, the Investment Policy and the investment restrictions set\nforth in Section 7.1 (Investment Restrictions) and the standard of care set forth in Sect",
+        "page_no": 31,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=31&x=71.7750015258789&y=464.5433044433594",
+        "score": 0.8713155388832092
+      },
+      {
+        "answer": "The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness",
+        "context": "7.2.1 The Fund may not borrow amounts, issue guarantees or otherwise incur indebtedness except on a\nshortterm basis for periods of less than six month",
+        "page_no": 30,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=30&x=101.24200439453125&y=570.8132934570312",
+        "score": 0.2659774422645569
+      }
+    ],
+    "Purpose": [
+      {
+        "answer": "to:\n2.\n2.1\nAct and the regulations made thereunder",
+        "context": "The purposes of the Fund are to:\n2.\n2.1\nAct and the regulations made thereunder. The General Partner is a [Ohio and is authorized to operate as such\nu",
+        "page_no": 12,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=12&x=79.2655029296875&y=72.92333984375",
+        "score": 0.8010997271537781
+      },
+      {
+        "answer": "financial and accounting",
+        "context": "The fiscal year of the Fund for financial and accounting purposes shall be [the calendar year]\n(\u201cFiscal Year\u201d). 2.4 Register. The General Partner shal",
+        "page_no": 12,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=12&x=275.91650390625&y=369.5133056640625",
+        "score": 0.7634966373443604
+      }
+      
+    ],
+    "Partnership Term": [
+      {
+        "answer": "Limited Partner",
+        "context": "\u201cLimited Partner\u201d means any Person that is admitted to the Fu nd as a limited partner and any Person that has\nbeen admitted to the Fund as a substitut",
+        "page_no": 6,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=6&x=83.02850341796875&y=689.6182861328125",
+        "score": 0.4366406798362732
+      },
+      {
+        "answer": "20.7.5",
+        "context": "20.7.5 The General Partner shall cause Schedule 1 (Partner Commitments) at all times to containthe name,\nCommitment and accurate contact details of ea",
+        "page_no": 80,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=80&x=76.5250015258789&y=72.92333984375",
+        "score": 0.3893824815750122
+      }
+    ],
+    "Main Fund": [
+      {
+        "answer": "distribute only cash or Marketable Securities to a Partner",
+        "context": "ution of assets in connection with the dissolution and winding upof the Fund, the\nFundmay distribute only cash or Marketable Securities to a Partner.\n",
+        "page_no": 48,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=48&x=71.7750015258789&y=414.2633056640625",
+        "score": 0.2864052355289459
+      },
+      {
+        "answer": "2.\n2.1\nAct and the regulations made thereunder",
+        "context": "The purposes of the Fund are to:\n2.\n2.1\nAct and the regulations made thereunder. The General Partner is a [Ohio and is authorized to operate as such\nu",
+        "page_no": 12,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=12&x=79.2655029296875&y=72.92333984375",
+        "score": 0.07848982512950897
+      }
+    ],
+    "Transaction Fees": [
+      {
+        "answer": "quarterly installments",
+        "context": "The Management\nFee shall be payable in quarterly installments in advance commencing on the Initial Investment Date and on\neach of January 1, April 1, ",
+        "page_no": 33,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=33&x=71.7750015258789&y=135.19329833984375",
+        "score": 0.28058695793151855
+      },
+      {
+        "answer": "2.5.1.7",
+        "context": "2.5.1.6 interest expense for Credit Facilities;\n2.5.1.7 fees, costs and expenses incurred in connection with the investigation, evaluation, diligence ",
+        "page_no": 13,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=13&x=71.2750015258789&y=85.67333984375",
+        "score": 0.1600123643875122
+      }
+    ],
+    "Makeup Contribution": [
+      {
+        "answer": "Fee Income",
+        "context": " to such investment or proposed\ninvestment shall be borne by, and any Fee Income shall be allocated among, the Fund and such Alternative\nVehicle in pr",
+        "page_no": 20,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=20&x=71.7750015258789&y=160.69329833984375",
+        "score": 0.4375036060810089
+      },
+      {
+        "answer": "Partner\u2019s distributive share of Net Loss",
+        "context": "Partner\u2019s distributive share of Net Loss and any item in the nature of loss or expense that is specially allocated\nto such Partner pursuant to Section",
+        "page_no": 54,
+        "book_mark": "file:///SampleContent2LPA_highlighted.pdf#page=54&x=77.52899932861328&y=72.92333984375",
+        "score": 0.10842116922140121
+      }
+    ]
+  }
+}

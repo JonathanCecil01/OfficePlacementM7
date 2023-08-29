@@ -1,0 +1,4678 @@
+{
+    "PP.6": [
+        {
+            "question": "Which of the following answer choices is the BEST definition of a scarce resource?  ",
+            "options": {
+                "a": "can be sold on the market ",
+                "b": "has diminishing returns ",
+                "c": "involves opportunity costs ",
+                "d": "exists in a limited quantity ",
+                "e": "requires inputs "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following topics does economics NOT study? ",
+            "options": {
+                "a": "how trade-offs create a diverse economy ",
+                "b": "how individuals make choices ",
+                "c": "how to distribute resources ",
+                "d": "how individuals deal with unlimited wants ",
+                "e": "how a quarter is minted "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "How many items does the average supermarket contain? ",
+            "options": {
+                "a": "2,700 ",
+                "b": "270,000 ",
+                "c": "27,000 ",
+                "d": "3,300 ",
+                "e": "33,000 "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Economics MOST broadly includes anything related to ",
+            "options": {
+                "a": "national economies ",
+                "b": "decision-making ",
+                "c": "gross domestic product ",
+                "d": "markets ",
+                "e": "money "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices is NOT scarce, according to economic assumptions? ",
+            "options": {
+                "a": "money ",
+                "b": "wants ",
+                "c": "knowledge ",
+                "d": "technology ",
+                "e": "time "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following questions would an economist NOT answer? ",
+            "options": {
+                "a": "How do taxes affect consumers and producers? ",
+                "b": "How do prices affect demand? ",
+                "c": "How do markets face imperfect competition? ",
+                "d": "How does the money supply affect GDP? ",
+                "e": "How does capitalism inhibit democracy? "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Who wrote An Inquiry into the Wealth of Nations? ",
+            "options": {
+                "a": "Adam Smith ",
+                "b": "Milton Friedman ",
+                "c": "Aristotle ",
+                "d": "John Maynard Keynes ",
+                "e": "Joseph Schumpeter "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How do people make decisions, according to economic assumptions?  ",
+            "options": {
+                "a": "They act in the interest of humanity. ",
+                "b": "They conduct cost-benefit analysis. ",
+                "c": "They allow others to make decisions for them. ",
+                "d": "They choose the option that is easiest. ",
+                "e": "They act without thinking. "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Jane has to choose either takeout or instant noodles for dinner tonight. Which axiom of economics does her decision illustrate? ",
+            "options": {
+                "a": "self-interest ",
+                "b": "opportunity costs ",
+                "c": "scarcity ",
+                "d": "trade-offs ",
+                "e": "gains from trade "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What type of cost arises from making decisions? ",
+            "options": {
+                "a": "opportunity cost ",
+                "b": "marginal cost ",
+                "c": "fixed cost ",
+                "d": "total cost ",
+                "e": "variable cost "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes how economists assume people behave? ",
+            "options": {
+                "a": "rationally ",
+                "b": "optimistically ",
+                "c": "with others' intentions in mind ",
+                "d": "with a margin for error ",
+                "e": "predictably "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Why do individuals make trade-offs? ",
+            "options": {
+                "a": "to minimize costs ",
+                "b": "to determine economic values ",
+                "c": "to reduce risk ",
+                "d": "to allocate limited resources ",
+                "e": "to cooperate with others "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following concepts is NOT a basic assumption of economics? ",
+            "options": {
+                "a": "gains from trade ",
+                "b": "demand for money ",
+                "c": "opportunity cost ",
+                "d": "scarcity ",
+                "e": "rationality "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What are the results of specialization? ",
+            "options": {
+                "a": "deadweight loss ",
+                "b": "gains from trade ",
+                "c": "monopoly ",
+                "d": "perfect price discrimination ",
+                "e": "entrepreneurship "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following factors do rational actors consider LEAST? ",
+            "options": {
+                "a": "societal effects of a decision ",
+                "b": "personal beliefs ",
+                "c": "temporal costs ",
+                "d": "monetary costs ",
+                "e": "cost to the producer  "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP.7": [
+        {
+            "question": "Which of the following scenarios involves a value judgement?  ",
+            "options": {
+                "a": "How does inflation relate to the business cycle? ",
+                "b": "How should the minimum wage be adjusted to alleviate structural inequalities? ",
+                "c": "What conditions enable monopolies in countries with rising GDP? ",
+                "d": "What do prices represent in a market that demonstrates traits of an oligarchy? ",
+                "e": "How do prices affect demand for elastic versus inelastic goods? "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following statements does NOT illustrate normative economic thought? ",
+            "options": {
+                "a": "Government should do more to regulate markets. ",
+                "b": "The demand for a normal good will decrease when price increases. ",
+                "c": "Monopolies should not be allowed to exist. ",
+                "d": "The corporate tax rates should be raised. ",
+                "e": "The health system should be nationalized. "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following terms BEST describes economic models? ",
+            "options": {
+                "a": "exact ",
+                "b": "realistic ",
+                "c": "simple ",
+                "d": "opaque ",
+                "e": "rigorous "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What phenomenon DIRECTLY relates to gains from trade? ",
+            "options": {
+                "a": "rationality ",
+                "b": "scarcity ",
+                "c": "trade-offs ",
+                "d": "specialization ",
+                "e": "opportunity costs "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following assertions is NOT a basic economic assumption? ",
+            "options": {
+                "a": "Everything has a cost. ",
+                "b": "People save as much money as they can. ",
+                "c": "Trade improves welfare. ",
+                "d": "All things are limited except human desire. ",
+                "e": "People act rationally. "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following questions would a positive economist study? ",
+            "options": {
+                "a": "Is oil a necessary resource? ",
+                "b": "How does technological knowledge affect GDP? ",
+                "c": "How much regulation should companies face? ",
+                "d": "How much should the tax rate be to aid low-income families? ",
+                "e": "What is the best role for the government's humanitarian efforts? "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices is characteristic of an efficient economic outcome? ",
+            "options": {
+                "a": "never occur ",
+                "b": "address the distribution of resources ",
+                "c": "be entirely equitable ",
+                "d": "maximize profit ",
+                "e": "minimize waste "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes the concept of trade? ",
+            "options": {
+                "a": "one party benefits more than the other ",
+                "b": "both parties benefit ",
+                "c": "no comparative advantage exists ",
+                "d": "an absolute advantage exists ",
+                "e": "no coercion is involved "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following questions be answered by the criterion of Pareto efficiency? ",
+            "options": {
+                "a": "How much should the resource cost? ",
+                "b": "Who should control the resource? ",
+                "c": "How should the resource be divided? ",
+                "d": "How much of a resource should be unused? ",
+                "e": "Who should receive the resource? "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following answer choices describes normative economic statements? ",
+            "options": {
+                "a": "no bias ",
+                "b": "precision ",
+                "c": "quantifying data ",
+                "d": "expressing value judgments ",
+                "e": "objectivity "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " A pizza is cut into ten slices. Which of the following distributions is NOT Pareto efficient?  ",
+            "options": {
+                "a": "five people get two slices, and two people get no slices ",
+                "b": "ten people get one slice ",
+                "c": "two people get five slices ",
+                "d": "one person gets ten slices, and one person gets no slices ",
+                "e": "three people get three slices "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Lauren waits to buy a new pair of shoes until they are on sale. What assumption BEST explains Lauren's behavior? ",
+            "options": {
+                "a": "gains from trade ",
+                "b": "Pareto efficiency ",
+                "c": "rationality ",
+                "d": "unlimited desires ",
+                "e": "poverty "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What kind of outcome is Pareto efficient? ",
+            "options": {
+                "a": "Everyone is equal. ",
+                "b": "People can be made better off without redistribution. ",
+                "c": "Overall well-being is unmaximized. ",
+                "d": "No one can be made better off without making someone else worse off. ",
+                "e": "No one is left empty-handed. "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes the nature of economic models? ",
+            "options": {
+                "a": "predictive ",
+                "b": "manipulable ",
+                "c": "multivariant ",
+                "d": "exact ",
+                "e": "retrospective "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How would a positive economist MOST likely approach the question of increased taxes? ",
+            "options": {
+                "a": "study public reactions to increased taxes ",
+                "b": "analyze the impact of taxation on voting rights in lower-income communities ",
+                "c": "quantify the effects of taxation ",
+                "d": "poll a representative sample of individuals ",
+                "e": "consult normative economists on taxation's effects   "
+            },
+            "answer": "C"
+        }
+    ],
+    "PP.9": [
+        {
+            "question": "Which of the following topics could be the focus of a macroeconomic study?  ",
+            "options": {
+                "a": "externalities ",
+                "b": "price discrimination ",
+                "c": "gross domestic product  ",
+                "d": "monopolies ",
+                "e": "price ceilings "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What term refers to economics involving only value-free judgments?  ",
+            "options": {
+                "a": "positive economics  ",
+                "b": "microeconomics  ",
+                "c": "Keynesian economics  ",
+                "d": "normative economics  ",
+                "e": "macroeconomics  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following answer choices would MOST likely be the subject of normative economic analysis? ",
+            "options": {
+                "a": "arguing against lower taxes for the rich  ",
+                "b": "quantifying data on an oligarchic market ",
+                "c": "describing economic interaction between two nations  ",
+                "d": "predicting the effects of changing fiscal policy  ",
+                "e": "graphing the impact of price discrimination in the theater market "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "On which assumption does cost-benefit analysis rely?  ",
+            "options": {
+                "a": "opportunity cost  ",
+                "b": "gains from trade  ",
+                "c": "rationality  ",
+                "d": "trade-offs  ",
+                "e": "scarcity  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What basic economic concept is LEAST relevant to consumers?  ",
+            "options": {
+                "a": "cost-benefit analysis ",
+                "b": "opportunity cost  ",
+                "c": "trade-offs  ",
+                "d": "scarcity  ",
+                "e": "gains from trade  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "How would an economist describe voluntary trade?  ",
+            "options": {
+                "a": "It is conducted willingly and benefits those involved.  ",
+                "b": "It enables international exchange.  ",
+                "c": "It uses the private sector to facilitate the transportation of goods and services.  ",
+                "d": "It requires barter to be successful.  ",
+                "e": "It benefits one side more.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "When is a resource considered scarce?  ",
+            "options": {
+                "a": "It is in high demand.  ",
+                "b": "Its price is extremely high.  ",
+                "c": "It exists in a limited quantity.  ",
+                "d": "It requires a trade-off.  ",
+                "e": "It is deemed so by the government.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following topics would a microeconomist study?  ",
+            "options": {
+                "a": "the relationship between aggregate demand and output  ",
+                "b": "fluctuations in the unemployment rate  ",
+                "c": "a nation's labor productivity and industrialization ",
+                "d": "the effects of a price ceiling  ",
+                "e": "the impact of international trade agreements on GDP "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Sky can study for her economics exam or make $20 mowing her neighbor's lawn. She chooses to study for her exam. Which of the following answer choices BEST matches the feature of this example to its corresponding economic term? ",
+            "options": {
+                "a": "$20 - opportunity cost ",
+                "b": "moving lawn - benevolence ",
+                "c": "time - Pareto efficiency ",
+                "d": "studying - scarcity ",
+                "e": "choice - voluntary "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes time, labor, and knowledge? ",
+            "options": {
+                "a": "physical commodities  ",
+                "b": "scarce resources  ",
+                "c": "natural goods   ",
+                "d": "human capital  ",
+                "e": "intangible resources  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How are macroeconomics and microeconomics related?  ",
+            "options": {
+                "a": "They are rooted in normative observations. ",
+                "b": "They share basic assumptions.  ",
+                "c": "They influence fiscal policy.  ",
+                "d": "They analyze the economic development of a single country. ",
+                "e": "They make similar predictions.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following topics would a macroeconomist LEAST likely study? ",
+            "options": {
+                "a": "changing interest rates ",
+                "b": "inflation  ",
+                "c": "seasonal unemployment  ",
+                "d": "exports  ",
+                "e": "drug monopolies  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What definition of efficiency requires minimizing waste?  ",
+            "options": {
+                "a": "Keynesian efficiency  ",
+                "b": "productive efficiency  ",
+                "c": "consumptive efficiency  ",
+                "d": "profit efficiency  ",
+                "e": "Pareto efficiency  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following variables do economists consider infinite?  ",
+            "options": {
+                "a": "power  ",
+                "b": "desires  ",
+                "c": "knowledge  ",
+                "d": "money  ",
+                "e": "time  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What is the main purpose of economic models? ",
+            "options": {
+                "a": "to capture external variables   ",
+                "b": "to replicate real-world conditions   ",
+                "c": "to project a range of scenarios  ",
+                "d": "to identify key assumptions  ",
+                "e": "to create complex simulations    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.10": [
+        {
+            "question": "Which of the following properties describes a perfectly competitive market?  ",
+            "options": {
+                "a": "A single buyer can change the price.  ",
+                "b": "The product is differentiated.  ",
+                "c": "A monopoly controls the supply.  ",
+                "d": "Buyers do not know the exact price.  ",
+                "e": "Many buyers exist.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What type of good sees demand increase during an economic crisis?  ",
+            "options": {
+                "a": "excludable  ",
+                "b": "normal  ",
+                "c": "inferior  ",
+                "d": "complementary  ",
+                "e": "substitute  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What relationship is articulated by the law of demand? ",
+            "options": {
+                "a": "As price increases, quantity demanded decreases.  ",
+                "b": "As price decreases, quantity demanded decreases.  ",
+                "c": "As price decreases, quantity demanded remains the same.  ",
+                "d": "As price increases, quantity demanded remains the same.  ",
+                "e": "As quantity demanded increases, price stays the same.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following markets is LEAST organized?  ",
+            "options": {
+                "a": "NASDAQ  ",
+                "b": "the Chicago Stock Exchange  ",
+                "c": "Sotheby's auction house  ",
+                "d": "US Treasury auctions  ",
+                "e": "Farmers Market  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes the nature of the demand curve in microeconomic models? ",
+            "options": {
+                "a": "horizontal ",
+                "b": "inelastic  ",
+                "c": "Pareto efficient  ",
+                "d": "equal to quantity supplied  ",
+                "e": "downward-sloping  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "As citizens of the kingdom of AcDec earn higher wages, demand for alpaca plushies increases. What kind of good is an alpaca plush? ",
+            "options": {
+                "a": "inelastic  ",
+                "b": "staple  ",
+                "c": "commodity  ",
+                "d": "normal  ",
+                "e": "rival  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What is the focus of microeconomic analyses? ",
+            "options": {
+                "a": "goods and services  ",
+                "b": "governments and individuals  ",
+                "c": "buyers and sellers  ",
+                "d": "supply and demand  ",
+                "e": "banks and businesses  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Who does the market for gasoline include?  ",
+            "options": {
+                "a": "OPEC nations ",
+                "b": "only gasoline sellers   ",
+                "c": "externalities from the EV industry ",
+                "d": "buyers and sellers of gasoline  ",
+                "e": "only gasoline buyers  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What factor's change CANNOT lead to shifts in the demand curve?  ",
+            "options": {
+                "a": "price  ",
+                "b": "projections  ",
+                "c": "consumer base   ",
+                "d": "tastes  ",
+                "e": "wages  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following results occurs when the price of ramen decreases?  ",
+            "options": {
+                "a": "Demand for ramen shifts up.  ",
+                "b": "Supply of ramen shifts to the left.  ",
+                "c": "Demand for ramen shifts to the left.  ",
+                "d": "Supply of ramen shifts down.  ",
+                "e": "Demand for ramen does not move.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How is \"perfect competition\" a useful concept in the field of economics more broadly? ",
+            "options": {
+                "a": "It helps guide multinational business decisions.  ",
+                "b": "It serves as a model to avoid.  ",
+                "c": "It helps to determine fair prices in international trade. ",
+                "d": "It often appears in the real world.  ",
+                "e": "It acts as a benchmark for real-world markets.   "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following statements does NOT describe a highly competitive market?  ",
+            "options": {
+                "a": "No single buyer can influence the market price of the product.  ",
+                "b": "All sellers display their prices and update them daily.  ",
+                "c": "30% of consumers switch to a different product, but price remains constant.  ",
+                "d": "A shop reduces its prices for a good and consumers of that good increase their consumption at this shop.  ",
+                "e": "There are a limited number of market participants.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What variables are represented on the horizontal and vertical axes of a demand curve, respectively? ",
+            "options": {
+                "a": "quantity demanded and equilibrium unit price  ",
+                "b": "equilibrium price and quantity demanded  ",
+                "c": "quantity demanded and price   ",
+                "d": "price of the quantity supplied and price  ",
+                "e": "unit price and quantity demanded   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following phenomena does the law of demand explain?  ",
+            "options": {
+                "a": "total consumer surplus  ",
+                "b": "number of buyers and sellers  ",
+                "c": "elasticity of a demand curve  ",
+                "d": "slope of a demand curve  ",
+                "e": "equilibrium in a market  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following goods is traded in a highly competitive market?  ",
+            "options": {
+                "a": "diamonds  ",
+                "b": "insulin ",
+                "c": "plane tickets  ",
+                "d": "tennis balls  ",
+                "e": "currency    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP.13": [
+        {
+            "question": "How is the market supply curve calculated? ",
+            "options": {
+                "a": "multiplying each producer's supply curves weighted by size  ",
+                "b": "adding average total costs for each producer at each price   ",
+                "c": "multiplying each producer's supply curves vertically  ",
+                "d": "adding each producer's supply curves horizontally  ",
+                "e": "multiplying marginal and average cost at each price  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following factors would NOT cause a shift in the supply curve for gasoline?  ",
+            "options": {
+                "a": "The supply of crude oil decreases.  ",
+                "b": "The price of gasoline increases.  ",
+                "c": "Labor costs decrease.  ",
+                "d": "The price of crude oil increases.  ",
+                "e": "The price of gasoline is expected to increase in the future.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following changing factors does NOT shift the supply curve?  ",
+            "options": {
+                "a": "rising input prices ",
+                "b": "the price of related goods  ",
+                "c": "improving technology ",
+                "d": "consumer expectations ",
+                "e": "falling number of sellers "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following rules is articulated in the law of supply? ",
+            "options": {
+                "a": "A supply curve must slope upwards.  ",
+                "b": "A supply curve must run horizontally..  ",
+                "c": "A supply curve must be tangential to the equilibrium price axis.  ",
+                "d": "A supply curve must increase exponentially.  ",
+                "e": "A supply curve must cross the horizontal axis.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What assumption undergirds the interactions of the supply and demand curves? ",
+            "options": {
+                "a": "All variables besides price are unchanged.  ",
+                "b": "The value of money always rises.  ",
+                "c": "Market surplus is positive.  ",
+                "d": "Demand and price are negatively correlated.  ",
+                "e": "Supply and price have a positive correlation.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is the law of supply?  ",
+            "options": {
+                "a": "As the price of a good increases, producers will sell more.  ",
+                "b": "As the price of a good decreases, demand will increase.  ",
+                "c": "As the price of a good increases, demand decreases.  ",
+                "d": "As the price of a good decreases, producers will sell more.  ",
+                "e": "As demand increases, producers will sell more.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "If tortillas become 20% more expensive, what happens in the market for bread?    ",
+            "options": {
+                "a": "Supply decreases.  ",
+                "b": "Quantity decreases.  ",
+                "c": "Demand increases.  ",
+                "d": "Equilibrium quantity falls. ",
+                "e": "Price decreases.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Sam has started to sell soap on Etsy, then realizes that it is a very competitive market. At what point does Sam stop supplying?  ",
+            "options": {
+                "a": "Large firms force him out of the market.  ",
+                "b": "He makes zero economic profit.  ",
+                "c": "His profit does not cover his manufacturing costs.  ",
+                "d": "He can earn more by supplying another good instead.  ",
+                "e": "The government limits his production.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "If prices for a good are high, a producer is MOST likely to  ",
+            "options": {
+                "a": "leave the market  ",
+                "b": "hire more staff  ",
+                "c": "cut working hours  ",
+                "d": "sell other products  ",
+                "e": "automate production  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How are quantity supplied and price related?  ",
+            "options": {
+                "a": "exponentially  ",
+                "b": "positively  ",
+                "c": "ambiguously  ",
+                "d": "negatively  ",
+                "e": "inversely  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What is the definition of \"quantity supplied\"? ",
+            "options": {
+                "a": "the amount produced by sellers  ",
+                "b": "minimizing deadweight loss  ",
+                "c": "maximizing seller profit  ",
+                "d": "the amount received by consumers   ",
+                "e": "the maximum amount that is possible to produce   "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How does the market for peanut butter change when the price of its complement, jelly, falls?   ",
+            "options": {
+                "a": "Equilibrium quantity decreases. ",
+                "b": "Quantity demanded increases.  ",
+                "c": "Quantity supplied increases.  ",
+                "d": "Equilibrium price increases. ",
+                "e": "Quantity supplied decreases.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What variable is on the horizontal axis of a supply curve?  ",
+            "options": {
+                "a": "opportunity cost of all producers  ",
+                "b": "quantity produced  ",
+                "c": "price  ",
+                "d": "quantity desired  ",
+                "e": "total quantity sold  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What relationship does a supply curve state?  ",
+            "options": {
+                "a": "Quantity supplied is negatively related to elasticity.  ",
+                "b": "Supply is negatively related to price.  ",
+                "c": "Equilibrium quantity is negatively related to price.  ",
+                "d": "Quantity supplied is positively related to price.  ",
+                "e": "Equilibrium quantity is positively related to opportunity cost. "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " How is the market supply curve calculated?   ",
+            "options": {
+                "a": "summing the prices of the producers' supply horizontally ",
+                "b": "multiplying producers' quantity supplied  ",
+                "c": "multiplying consumer and producer surplus  ",
+                "d": "adding producer's quantity supplied   ",
+                "e": "adding demand curves vertically    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.15": [
+        {
+            "question": "Which of the following statements is NOT true of a competitive market at equilibrium?   ",
+            "options": {
+                "a": "Society receives the maximum benefit.  ",
+                "b": "Buyers and sellers are satisfied.   ",
+                "c": "Total surplus is maximized.   ",
+                "d": "The outcome is Pareto efficient.   ",
+                "e": "Firms earn profits equal to producer surplus.   "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following statements BEST describes equilibrium?  ",
+            "options": {
+                "a": "One force is always more dominant than others.  ",
+                "b": "All forces in a system are balanced.  ",
+                "c": "There are no measurable externalities that impact the system. ",
+                "d": "All forces are measurable and quantifiable.  ",
+                "e": "The system is in a constant state of flux.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "If market price exceeds equilibrium price, market price will decline. What factor explains this correlation?  ",
+            "options": {
+                "a": "government intervention  ",
+                "b": "excess supply  ",
+                "c": "a lack of Pareto efficiency  ",
+                "d": "excess demand  ",
+                "e": "deadweight loss  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Assume that the oil market is in equilibrium. What information does the price of oil communicate?  ",
+            "options": {
+                "a": "marginal cost per unit of oil  ",
+                "b": "relative elasticity of oil supply  ",
+                "c": "consumer surplus for the oil market  ",
+                "d": "ease of entry into the market ",
+                "e": "value that buyers place on oil  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "A car manufacturing company notices that many consumers are motivated by environmental concerns, so they start to produce EVs. What factor influenced this shift? ",
+            "options": {
+                "a": "tastes  ",
+                "b": "expectations  ",
+                "c": "input changes  ",
+                "d": "technology  ",
+                "e": "competition  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How will the vaccine market be impacted if more producers enter the market? ",
+            "options": {
+                "a": "quantity of vaccines produced will remain the same  ",
+                "b": "demand for vaccines will decrease  ",
+                "c": "supply of vaccines will increase  ",
+                "d": "price of vaccines will increase  ",
+                "e": "elasticity of supply of vaccines will decrease  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following inputs does a fashion company NOT require?  ",
+            "options": {
+                "a": "machinery   ",
+                "b": "labor  ",
+                "c": "leather  ",
+                "d": "real estate  ",
+                "e": "taxes  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which benefit naturally arises from competitive market equilibrium?  ",
+            "options": {
+                "a": "Everyone is allocated sufficient resources to survive.  ",
+                "b": "A competitive market will never produce negative externalities.  ",
+                "c": "A competitive market in equilibrium cannot be shifted.  ",
+                "d": "The market benefit of the producer and consumer is maximized.  ",
+                "e": "At competitive market equilibrium, there is no need for fiat currency.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "If Joe is willing to pay $10 for a game ticket and the price is $20, what is his consumer surplus?  ",
+            "options": {
+                "a": "$10  ",
+                "b": "$30  ",
+                "c": "-$30  ",
+                "d": "-$10  ",
+                "e": "$0  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How is information conveyed in perfectly competitive markets?  ",
+            "options": {
+                "a": "auction  ",
+                "b": "surplus  ",
+                "c": "opportunity costs  ",
+                "d": "consumer tastes  ",
+                "e": "price  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Where can equilibrium be found on an economic diagram? ",
+            "options": {
+                "a": "where consumer surplus is maximized ",
+                "b": "where the supply curve is tangent to the demand curve  ",
+                "c": "where supply and demand curves intersect  ",
+                "d": "where no deadweight loss occurs  ",
+                "e": "where producers receive all the surplus  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What change results if input prices of gasoline decrease?  ",
+            "options": {
+                "a": "Producer revenue will decrease.  ",
+                "b": "Quantity produced will increase.  ",
+                "c": "Price will increase.  ",
+                "d": "Total quantity consumed will decrease.  ",
+                "e": "Consumer surplus will decrease.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following events would cause the supply curve to shift leftwards?  ",
+            "options": {
+                "a": "The input costs of the product decrease. ",
+                "b": "Suppliers expect prices to rise in a month.  ",
+                "c": "An unexpected economic shock leads to a spike in demand. ",
+                "d": "Equilibrium price is forecasted to decrease. ",
+                "e": "Consumer surplus increases. "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following statements CORRECTLY describes market equilibrium?  ",
+            "options": {
+                "a": "There is only one equilibrium point in a market.  ",
+                "b": "Market equilibrium is never Pareto efficient. ",
+                "c": "Suppliers have an incentive to charge more at equilibrium.  ",
+                "d": "Equilibrium does not always exist in a market.  ",
+                "e": "Equilibrium ensures all consumers and producers are equal.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following events would NOT shift the supply curve for gasoline?  ",
+            "options": {
+                "a": "More suppliers enter the market.  ",
+                "b": "Crude oil prices decrease.  ",
+                "c": "Prices of gas are expected to rise in the future.  ",
+                "d": "The price of gasoline rises.  ",
+                "e": "A new self-service system is invented.    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.18": [
+        {
+            "question": "What value does the height of the supply curve of a good represent?  ",
+            "options": {
+                "a": "the price which the buyers of the good are willing to pay  ",
+                "b": "the total quantity supplied in the market  ",
+                "c": "the price at which producers of the good will sell  ",
+                "d": "the total surplus in the market  ",
+                "e": "the producer surplus in the market  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The market price of silver is lower than equilibrium price. How does market price shift?   ",
+            "options": {
+                "a": "It increases in response to supply.  ",
+                "b": "It does not change.  ",
+                "c": "It decreases in response to demand.  ",
+                "d": "It increases in response to demand.  ",
+                "e": "It decreases in response to supply.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following functions do competitive markets NOT serve?  ",
+            "options": {
+                "a": "allocating limited goods to consumers  ",
+                "b": "ensuring everyone is treated equally  ",
+                "c": "maximizing benefits from trade  ",
+                "d": "transmitting information via prices  ",
+                "e": "achieving equilibrium in markets  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Four producers are willing to supply at a price of $40, $50, $60, and $70 respectively. If the market price is now $80, what is the producer surplus per unit?  ",
+            "options": {
+                "a": "$70  ",
+                "b": "$40  ",
+                "c": "$80  ",
+                "d": "$50  ",
+                "e": "$100  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What condition describes a market with maximized total surplus?  ",
+            "options": {
+                "a": "Pareto efficiency  ",
+                "b": "positive externality ",
+                "c": "productive efficiency  ",
+                "d": "diminishing marginal returns  ",
+                "e": "equal surplus for all actors  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What factor drives market price down if it exceeds equilibrium price?  ",
+            "options": {
+                "a": "price ceilings  ",
+                "b": "excess supply  ",
+                "c": "excess demand  ",
+                "d": "deadweight loss  ",
+                "e": "diminishing marginal returns  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Where is consumer surplus on a supply-demand diagram?  ",
+            "options": {
+                "a": "below the equilibrium price and below the supply curve  ",
+                "b": "above the equilibrium price and below the supply curve  ",
+                "c": "above the equilibrium price and below the demand curve  ",
+                "d": "below the equilibrium price and above the supply curve  ",
+                "e": "below the equilibrium price and above the demand curve  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "How is consumers' willingness to pay shown on a supply/demand chart?  ",
+            "options": {
+                "a": "height of the demand curve  ",
+                "b": "area above the equilibrium point ",
+                "c": "area under the supply curve  ",
+                "d": "axis value of the demand curve  ",
+                "e": "slope of the supply curve  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What area describes producer surplus on a supply-demand diagram?  ",
+            "options": {
+                "a": "below the equilibrium price and above the supply curve  ",
+                "b": "below the equilibrium price and below the supply curve  ",
+                "c": "below the equilibrium price and above the demand curve  ",
+                "d": "above the equilibrium price and below the supply curve  ",
+                "e": "above the equilibrium price and below the demand curve  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " In which of the following situations does producer surplus exist?  ",
+            "options": {
+                "a": "The producer sells at a price lower than opportunity cost.  ",
+                "b": "The producer earns an economic profit.  ",
+                "c": "The producer earns an accounting profit.  ",
+                "d": "The producer is the marginal supplier at equilibrium price.  ",
+                "e": "The producer sells at a price equal to opportunity cost.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes a marginal seller? ",
+            "options": {
+                "a": "indifferent to selling or not selling a good  ",
+                "b": "is the first to supply the good  ",
+                "c": "supplies the largest quantity of the good  ",
+                "d": "cannot enter the market due to high barriers to entry  ",
+                "e": "has an extremely high producer surplus  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following actors values maximizing total welfare MOST?   ",
+            "options": {
+                "a": "federal government  ",
+                "b": "normative economist  ",
+                "c": "monopoly  ",
+                "d": "business firm  ",
+                "e": "social planner  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following markets would be MOST likely to gravitate towards equilibrium? ",
+            "options": {
+                "a": "pharmaceuticals  ",
+                "b": "potato chips ",
+                "c": "EV cars  ",
+                "d": "rideshare apps  ",
+                "e": "smartphones "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What value corresponds to the area above market price and below the curve?  ",
+            "options": {
+                "a": "producer surplus  ",
+                "b": "total surplus  ",
+                "c": "deadweight loss  ",
+                "d": "consumer surplus  ",
+                "e": "equilibrium   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " How are goods distributed in a competitive market?  ",
+            "options": {
+                "a": "They are sold by producers with equal access to all resources.  ",
+                "b": "People who desire the good the most purchase it.   ",
+                "c": "Some are sold and consumed while some enter inventory.   ",
+                "d": "They are shared equally among all market members.  ",
+                "e": "They are purchased by the wealthiest consumers.     "
+            },
+            "answer": "B"
+        }
+    ],
+    "PP.23": [
+        {
+            "question": "What change produces a higher equilibrium price and quantity?  ",
+            "options": {
+                "a": "Demand increases.  ",
+                "b": "Demand and supply decrease.  ",
+                "c": "Supply decreases.  ",
+                "d": "Supply increases.  ",
+                "e": "Demand decreases.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How much did milk production increase as a result of BGH?  ",
+            "options": {
+                "a": "10-15%  ",
+                "b": "20-25%  ",
+                "c": "25-30%  ",
+                "d": "5-10%  ",
+                "e": "15-20%  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "A rightward shift of the supply curve results in  ",
+            "options": {
+                "a": "higher consumer surplus  ",
+                "b": "higher producer surplus  ",
+                "c": "lower producer surplus  ",
+                "d": "lower consumer surplus  ",
+                "e": "no change in surplus  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "When a downtown area undergoes gentrification, local housing prices increase. What term refers to this welfare effect that is not priced into the market for a good?  ",
+            "options": {
+                "a": "externalities  ",
+                "b": "nuances  ",
+                "c": "marginalities  ",
+                "d": "equilibrium shifters  ",
+                "e": "diminishing returns  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Input prices for gasoline decrease. How will this impact the equilibrium in the market for gasoline? ",
+            "options": {
+                "a": "shift only to the right  ",
+                "b": "shift down and to the right  ",
+                "c": "shift in an unknown direction  ",
+                "d": "shift up and to the left  ",
+                "e": "remain the same   "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What is the \"domino effect\" of BGH adoption in farms? ",
+            "options": {
+                "a": "Organic farms have greater demand than BGH farms. ",
+                "b": "Advancing farm technologies are only made to suit BGH farms. ",
+                "c": "Many families boycott farms that use BGH due to health concerns. ",
+                "d": "Farmers must use BGH to stay competitive with farms who can now produce more.  ",
+                "e": "BGH shortens cow lifespans, leading to an increased demand for cows. "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following results does NOT occur if demand increases?  ",
+            "options": {
+                "a": "The demand curve shifts to the left. ",
+                "b": "Equilibrium price increases.  ",
+                "c": "Total surplus increases.  ",
+                "d": "Equilibrium quantity increases.  ",
+                "e": "Consumer surplus increases.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "In Mexico, foods deemed to contain excess sugar, calories, or saturated fat must be labeled with black rectangular warning labels. What is the intended impact of this policy? ",
+            "options": {
+                "a": "negative externality ",
+                "b": "decrease in supply  ",
+                "c": "normative economics ",
+                "d": "increase in price  ",
+                "e": "decrease in demand  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices MUST occur if demand increases? ",
+            "options": {
+                "a": "decrease in equilibrium surplus ",
+                "b": "increase in consumer surplus  ",
+                "c": "decrease in surplus supplied ",
+                "d": "decrease in total surplus  ",
+                "e": "increase in producer surplus  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following goods have been labeled with warning labels by public policy makers in the United States? ",
+            "options": {
+                "a": "gasoline  ",
+                "b": "bleach  ",
+                "c": "beer  ",
+                "d": "cigarettes  ",
+                "e": "energy drinks  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " How is total surplus affected by a rightward shift in the demand curve?  ",
+            "options": {
+                "a": "The effect is ambiguous.  ",
+                "b": "It increases.  ",
+                "c": "It decreases.  ",
+                "d": "It does not change.  ",
+                "e": "It increases, then decreases.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What shift MUST result in a lower equilibrium price?  ",
+            "options": {
+                "a": "Demand increases.  ",
+                "b": "Supply decreases and demand increases.  ",
+                "c": "Supply and demand increase.  ",
+                "d": "Demand decreases.  ",
+                "e": "Supply decreases.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following answer choices explains a downside to the widespread adoption of BGH? ",
+            "options": {
+                "a": "It could harm producers with high fixed costs.  ",
+                "b": "It reduces total market supply.  ",
+                "c": "It reduces total surplus via deadweight loss.  ",
+                "d": "It makes consumers worse off.  ",
+                "e": "It is very expensive to administer.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How would the equilibrium point in the pork market shift in response to a decrease in the price of beef? ",
+            "options": {
+                "a": "to the right only  ",
+                "b": "down only  ",
+                "c": "up and to the left  ",
+                "d": "down and to the left  ",
+                "e": "up and to the right  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " If the supply curve shifts upward and the demand curve shifts leftward, which of the following answer choices MUST be produced? ",
+            "options": {
+                "a": "higher quantity  ",
+                "b": "higher price  ",
+                "c": "goods oversupply   ",
+                "d": "lower price  ",
+                "e": "lower quantity    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP. 25": [
+        {
+            "question": "Why is price elasticity of demand negative?  ",
+            "options": {
+                "a": "market inefficiency ",
+                "b": "the law of demand  ",
+                "c": "diminishing returns to scale  ",
+                "d": "imperfect competition  ",
+                "e": "opportunity costs  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What relationship does price elasticity of demand indicate?  ",
+            "options": {
+                "a": "how much consumers are willing to pay on the margin  ",
+                "b": "how much utility consumers obtain from the next unit  ",
+                "c": "how marginal returns diminish with scale  ",
+                "d": "how much consumer surplus increases per unit  ",
+                "e": "how sensitive consumers are to price changes  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "In which of the following situations is supply relatively inelastic?   ",
+            "options": {
+                "a": "A 3% change in price leads to a 2.5% change in supply.  ",
+                "b": "A 3% change in price leads to a 3% change in supply.  ",
+                "c": "A 3% change in price leads to unlimited change in supply.  ",
+                "d": "A 3% change in price leads to a 4% change in supply.  ",
+                "e": "A 3% change in price leads to no change in supply.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "For what MAIN reason do gold coins have an inelastic supply?  ",
+            "options": {
+                "a": "Sellers face barriers to entry.  ",
+                "b": "The inputs are scarce.  ",
+                "c": "They are a luxury good.  ",
+                "d": "The good is hard to transport.  ",
+                "e": "The market is imperfectly competitive.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which economic concept is calculated with the formula (Q\u2206P)/(P\u2206Q)? ",
+            "options": {
+                "a": "opportunity cost  ",
+                "b": "comparative advantage  ",
+                "c": "diminishing returns   ",
+                "d": "GDP per capita  ",
+                "e": "elasticity  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following goods has the LOWEST elasticity of demand?  ",
+            "options": {
+                "a": "insulin  ",
+                "b": "cars  ",
+                "c": "milk  ",
+                "d": "toilet paper  ",
+                "e": "gasoline  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following goods has the MOST elastic supply curve?  ",
+            "options": {
+                "a": "cut diamonds  ",
+                "b": "underground bunkers  ",
+                "c": "sixteenth-century art  ",
+                "d": "artisan sandwiches ",
+                "e": "vacation yachts  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "For what factor is price elasticity of supply a proxy?  ",
+            "options": {
+                "a": "how easily suppliers can change their prices  ",
+                "b": "the opportunity cost of supplying the good  ",
+                "c": "how much price can change without affecting quantity demanded  ",
+                "d": "how much profit suppliers make  ",
+                "e": "how easily suppliers can change their output   "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following factors does NOT affect price elasticity of demand?  ",
+            "options": {
+                "a": "substitutes for the good  ",
+                "b": "time horizon  ",
+                "c": "market definition of the good  ",
+                "d": "scarce resources  ",
+                "e": "necessity of the good  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following phenomena does NOT explain long-run elasticity?  ",
+            "options": {
+                "a": "Suppliers need to adjust to different profits.  ",
+                "b": "Suppliers hire more employees.  ",
+                "c": "Suppliers need to train workers.  ",
+                "d": "Suppliers use up more raw materials.  ",
+                "e": "Suppliers require more tools.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What is the price elasticity of supply for Picasso paintings?  ",
+            "options": {
+                "a": "inelastic  ",
+                "b": "unit elastic  ",
+                "c": "perfectly inelastic  ",
+                "d": "elastic  ",
+                "e": "perfectly elastic  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " When price rises from $20 to $40, the quantity demanded falls from 12,400 to 6,200. Demand is  ",
+            "options": {
+                "a": "elastic  ",
+                "b": "perfectly elastic  ",
+                "c": "inelastic  ",
+                "d": "perfectly inelastic  ",
+                "e": "unit elastic  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following products likely has the MOST elastic demand?   ",
+            "options": {
+                "a": "Coke  ",
+                "b": "soft drinks  ",
+                "c": "gasoline  ",
+                "d": "Bernini sculptures  ",
+                "e": "milk  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following slopes corresponds to the LEAST elastic supply curve?  ",
+            "options": {
+                "a": "10  ",
+                "b": "1/2  ",
+                "c": "1  ",
+                "d": "2  ",
+                "e": "5  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " A 25% change in the price of gasoline results in an 50% change in the supply of gasoline. What is the price elasticity of supply?  ",
+            "options": {
+                "a": "-2  ",
+                "b": "-1/2  ",
+                "c": "2  ",
+                "d": "25  ",
+                "e": "1/2    "
+            },
+            "answer": "C"
+        }
+    ],
+    "PP.29": [
+        {
+            "question": "Price ceilings do NOT result in a(n)  ",
+            "options": {
+                "a": "lower equilibrium price  ",
+                "b": "reduction in total surplus  ",
+                "c": "inefficient outcome  ",
+                "d": "reduction in producer surplus  ",
+                "e": "higher quantity supplied  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following terms refers to a form of price control?  ",
+            "options": {
+                "a": "anti-trust laws  ",
+                "b": "minimum wage  ",
+                "c": "logrolling ",
+                "d": "patent laws  ",
+                "e": "income taxes  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Where does a price floor appear on a supply and demand diagram? ",
+            "options": {
+                "a": "vertically to the right of the equilibrium point ",
+                "b": "vertically at the equilibrium point   ",
+                "c": "horizontally above the equilibrium point  ",
+                "d": "horizontally at the equilibrium point  ",
+                "e": "parallel to the demand curve shifted to the right  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "On which of the following goods will a tax generate the MOST revenue?  ",
+            "options": {
+                "a": "gasoline  ",
+                "b": "insulin  ",
+                "c": "cars  ",
+                "d": "cigarettes  ",
+                "e": "soda  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices would be reduced as a result of deadweight loss?  ",
+            "options": {
+                "a": "producer surplus  ",
+                "b": "barriers to entry  ",
+                "c": "tax revenue  ",
+                "d": "social welfare  ",
+                "e": "consumer savings  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes the effects of taxes on supply and demand? ",
+            "options": {
+                "a": "overconsumption, transfer of revenue to suppliers  ",
+                "b": "deadweight loss, government revenue  ",
+                "c": "deadweight loss, transfer of revenue to consumers  ",
+                "d": "overconsumption, goods shortages   ",
+                "e": "imposition of barriers to entry, deadweight loss  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following elasticities describes the market with LEAST deadweight loss from taxes? Assume the first value is elasticity of demand and the second value is elasticity of supply. ",
+            "options": {
+                "a": "-.5, .5  ",
+                "b": "-1.5, 1.5  ",
+                "c": "-1, 1.5  ",
+                "d": "-1, 1  ",
+                "e": "-1.5, 1  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What outcome MUST result from price controls?  ",
+            "options": {
+                "a": "movement toward equilibrium  ",
+                "b": "deadweight loss  ",
+                "c": "decreased consumer surplus  ",
+                "d": "increased total surplus  ",
+                "e": "positive externalities "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "After which of the following events is a price ceiling MOST likely to be imposed?   ",
+            "options": {
+                "a": "drastic increase in apartment prices  ",
+                "b": "overconsumption of cigarettes  ",
+                "c": "farmers lobbying for higher prices  ",
+                "d": "under-consumption of honey  ",
+                "e": "over-pollution of the environment  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What change likely occurs in a market after a price ceiling is imposed?   ",
+            "options": {
+                "a": "lower-quality products  ",
+                "b": "increased entrants to the market  ",
+                "c": "increased price competition  ",
+                "d": "higher supply  ",
+                "e": "lower demand  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " How does the supply curve shift if a $1 tax is placed on suppliers?    ",
+            "options": {
+                "a": "It shifts diagonally by $1.  ",
+                "b": "It shifts rightward by $1.  ",
+                "c": "It shifts downwards by $1.  ",
+                "d": "It does not shift.  ",
+                "e": "It shifts leftwards by $1.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following markets would be MOST impacted by a social welfare tax? ",
+            "options": {
+                "a": "rare art  ",
+                "b": "milk  ",
+                "c": "diamonds  ",
+                "d": "insulin  ",
+                "e": "jam  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What MAIN factor determines the distribution of tax burdens?  ",
+            "options": {
+                "a": "total supply  ",
+                "b": "elasticity  ",
+                "c": "externalities  ",
+                "d": "rivalry  ",
+                "e": "total demand  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following statements MOST likely describes a market with a rent ceiling of $500/month?  ",
+            "options": {
+                "a": "Rent has been increasing.  ",
+                "b": "There are more landlords than renters.  ",
+                "c": "The government taxes rental income.   ",
+                "d": "Alternative rental markets have emerged.    ",
+                "e": "Renters will discriminate against certain tenants.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What MAIN factor drove the 1979 changes in United States oil prices?  ",
+            "options": {
+                "a": "reduction in complements  ",
+                "b": "reduced supply  ",
+                "c": "higher demand  ",
+                "d": "government taxation  ",
+                "e": "emergence of substitutes    "
+            },
+            "answer": "B"
+        }
+    ],
+    "PP. 35": [
+        {
+            "question": "Which of the following statements about free trade is TRUE?  ",
+            "options": {
+                "a": "Involuntary trade harms both parties.  ",
+                "b": "Specialization increases overall welfare.  ",
+                "c": "There is always an absolute advantage.  ",
+                "d": "There is always a comparative advantage. ",
+                "e": "Specialization leads to losses from trade.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What concept does the slope of a PPF MOST directly reflect?  ",
+            "options": {
+                "a": "trade-offs  ",
+                "b": "gains from trade  ",
+                "c": "rationality  ",
+                "d": "opportunity cost   ",
+                "e": "scarcity  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following choices should producer preference determine?  ",
+            "options": {
+                "a": "choosing a point above the PPF  ",
+                "b": "choosing between two points not on the PPF  ",
+                "c": "choosing between one point on the PPF and one point above the PPF  ",
+                "d": "choosing between two points on the PPF  ",
+                "e": "choosing between one point on the PPF and one point below the PPF  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "In what situation does a country's PPF reflect the whole economy?  ",
+            "options": {
+                "a": "The economy produces hundreds of different goods.  ",
+                "b": "The economy is a very active trading partner.  ",
+                "c": "The economy is closed off from the rest of the world.  ",
+                "d": "The economy only produces one good.  ",
+                "e": "The economy accepts net capital outflows.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following claims about a firm producing at the axis intercept is true? ",
+            "options": {
+                "a": "It will have an absolute advantage.  ",
+                "b": "It produces one good only.  ",
+                "c": "It will trade with another firm.  ",
+                "d": "It has no comparative advantage  ",
+                "e": "It will be unwilling to trade.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What statement describes a PPF that intersects the horizontal axis at 36 units and the vertical axis at 20 units?  ",
+            "options": {
+                "a": "The PPF can be expanded via trade.  ",
+                "b": "The producer has an absolute advantage in the vertical-axis good.  ",
+                "c": "The producer will only produce the good on the horizontal-axis.  ",
+                "d": "The PPF has a slope of -2.  ",
+                "e": "The producer is more efficient at producing the horizontal-axis good.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Importland decides to open to trade. Its domestic price of coconuts is higher than the world price. What MUST happen in its market for coconuts?  ",
+            "options": {
+                "a": "Consumer surplus increases.  ",
+                "b": "The price of coconuts rises.  ",
+                "c": "Total surplus decreases.  ",
+                "d": "Domestic production rises.  ",
+                "e": "Producer surplus increases.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "NKLA can produce a good at less opportunity cost than TSLA. Which of the following answer choices correctly describes NKLA's advantage? ",
+            "options": {
+                "a": "monopolistic advantage in producing the good  ",
+                "b": "absolute advantage in producing the good  ",
+                "c": "marginal advantage in producing the good  ",
+                "d": "comparative advantage in producing the good  ",
+                "e": "diminishing advantage in producing the good  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What function does the PPF serve?  ",
+            "options": {
+                "a": "estimating deadweight loss  ",
+                "b": "modeling efficient production decisions  ",
+                "c": "increasing a producer's surplus  ",
+                "d": "finding the point of perfect elasticity  ",
+                "e": "identifying inefficiencies  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What change occurs after a nation starts to export goods?  ",
+            "options": {
+                "a": "The domestic price of the good decreases.  ",
+                "b": "Producer surplus increases.  ",
+                "c": "Total surplus decreases.  ",
+                "d": "Consumer surplus increases.  ",
+                "e": "Domestic demand increases.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " If Fiji's water costs $2/bottle and the world price is $3, what happens if Fiji opens to trade?  ",
+            "options": {
+                "a": "Domestic production decreases.  ",
+                "b": "Total welfare decreases.  ",
+                "c": "The country becomes an importer.  ",
+                "d": "Trade will not occur.  ",
+                "e": "Domestic demand increases.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Why do some individuals oppose free trade? ",
+            "options": {
+                "a": "Other countries can manipulate the terms of the agreement.  ",
+                "b": "It decreases total welfare.  ",
+                "c": "It increases income inequality.  ",
+                "d": "Voluntary trade is not always beneficial.  ",
+                "e": "It harms some groups depending on relative prices.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What MUST be true if a PPF for two goods is a straight line?  ",
+            "options": {
+                "a": "The opportunity cost of producing one more unit of a good is constant.  ",
+                "b": "The two goods are identical.  ",
+                "c": "The two goods are perfect substitutes.  ",
+                "d": "The slope of the PPF curve is -1.  ",
+                "e": "The producers have diminishing marginal returns.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Why is the PPF NOT straight?  ",
+            "options": {
+                "a": "Producers tend to specialize.  ",
+                "b": "Preferences are not constant.  ",
+                "c": "Opportunity costs change with quantity.  ",
+                "d": "Marginal cost increases.  ",
+                "e": "The producers have market power.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " If Sarah's PPF curve is above and to the right of Tobi's, Sarah has a(n)  ",
+            "options": {
+                "a": "comparative advantage in no goods  ",
+                "b": "absolute advantage in one good   ",
+                "c": "absolute advantage in no goods  ",
+                "d": "absolute advantage in both goods  ",
+                "e": "comparative advantage in both goods    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.40": [
+        {
+            "question": "Which of the following conditions can describe a firm with diminishing returns to scale in a competitive market and negative accounting profit?  ",
+            "options": {
+                "a": "Marginal revenue exceeds marginal cost.  ",
+                "b": "Total revenue and cost are equal.  ",
+                "c": "Total revenue is zero.  ",
+                "d": "Economic profits are positive.  ",
+                "e": "Marginal cost exceeds total cost.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following statements describes a competitive market?  ",
+            "options": {
+                "a": "Economic profits do not affect the entry or exit of firms.  ",
+                "b": "Firms enter the market until marginal revenue equals marginal cost.  ",
+                "c": "Firms exit the market in response to positive economic profits.  ",
+                "d": "Economic profits will always be positive.  ",
+                "e": "Firms enter the market in response to positive economic profits.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The company DJI increases production of drones by 10% in a competitive market. Which of the following values increases 10%?  ",
+            "options": {
+                "a": "deadweight loss   ",
+                "b": "total revenue  ",
+                "c": "marginal cost  ",
+                "d": "marginal revenue  ",
+                "e": "consumer surplus  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "In which situation would accounting profit be negative? ",
+            "options": {
+                "a": "Opportunity cost exceeds total cost.  ",
+                "b": "Opportunity cost exceeds total revenue.  ",
+                "c": "Total cost exceeds total revenue.  ",
+                "d": "Total revenue exceeds total cost.  ",
+                "e": "Total revenue exceeds opportunity cost.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following values is constant for a firm in a competitive market?  ",
+            "options": {
+                "a": "total costs  ",
+                "b": "marginal cost  ",
+                "c": "marginal revenue  ",
+                "d": "variable costs  ",
+                "e": "total revenue  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following costs best describes a firm's rent? ",
+            "options": {
+                "a": "marginal cost  ",
+                "b": "social cost  ",
+                "c": "opportunity cost  ",
+                "d": "fixed cost  ",
+                "e": "variable cost  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What impact would hiring additional workers have on a firm's costs? ",
+            "options": {
+                "a": "increasing fixed costs  ",
+                "b": "diminishing returns to scale  ",
+                "c": "increasing marginal revenue  ",
+                "d": "increasing variable costs  ",
+                "e": "increasing social welfare  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following institutions is NOT a firm?  ",
+            "options": {
+                "a": "Federal Reserve  ",
+                "b": "Starbucks  ",
+                "c": "Amazon  ",
+                "d": "Charles Schwab brokerage  ",
+                "e": "ManuLife financial advisors   "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "For what PRIMARY reason do diminishing returns to scale exist?  ",
+            "options": {
+                "a": "Some costs are variable.   ",
+                "b": "Marginal revenue is constant.  ",
+                "c": "Firms cannot predict demand.  ",
+                "d": "Consumers switch to cheaper alternatives.  ",
+                "e": "Not all inputs are equally productive.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following examples BEST demonstrates diminishing returns to scale?   ",
+            "options": {
+                "a": "As firms expand, fixed costs increase.   ",
+                "b": "As more workers are hired, additional workers produce less.   ",
+                "c": "As firms increase quantity supplied, market price rises.   ",
+                "d": "As firms increase quantity, marginal cost decreases.   ",
+                "e": "As firms enter new markets, horizontal integration reduces profits.   "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following outcomes CANNOT describe a firm that earns negative economic profits?  ",
+            "options": {
+                "a": "The firm stays in the market in the long run.  ",
+                "b": "The firm experiences diminishing returns to scale.  ",
+                "c": "The firm's total costs are greater than total revenue.  ",
+                "d": "The firm's marginal revenue equals its marginal cost..  ",
+                "e": "The firm makes an accounting profit.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following equations is TRUE in a stable, competitive market?  ",
+            "options": {
+                "a": "Marginal cost is equal to zero.  ",
+                "b": "Opportunity costs are equal to zero.  ",
+                "c": "Accounting profit is equal to zero.  ",
+                "d": "Accounting profit is equal to opportunity cost.  ",
+                "e": "Total costs are equal to zero.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Economic costs (unlike accounting costs) include which of the following values? ",
+            "options": {
+                "a": "marginal costs  ",
+                "b": "total costs  ",
+                "c": "fixed costs  ",
+                "d": "variable costs  ",
+                "e": "opportunity costs  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " A firm produces thermometers at a marginal cost of $3.50 and receives marginal revenue of $3.95. What course of action should the firm choose? ",
+            "options": {
+                "a": "keep production steady  ",
+                "b": "increase production   ",
+                "c": "decrease production  ",
+                "d": "increase consumption  ",
+                "e": "leave the market  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " At what point does a firm maximize profits?  ",
+            "options": {
+                "a": "Total revenues are greater than total costs.  ",
+                "b": "Marginal revenue is greater than marginal cost.  ",
+                "c": "Opportunity cost is less than accounting profit.  ",
+                "d": "Marginal revenue is equal to marginal cost.  ",
+                "e": "Economic profit is greater than zero.    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP. 42": [
+        {
+            "question": "What type of market MOST efficiently supplies a product with very high fixed costs?  ",
+            "options": {
+                "a": "government-created monopoly  ",
+                "b": "oligopoly  ",
+                "c": "perfect competition  ",
+                "d": "monopolistically competitive market  ",
+                "e": "natural monopoly  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following market structures has fewest barriers to entry?  ",
+            "options": {
+                "a": "government monopoly  ",
+                "b": "natural monopoly  ",
+                "c": "monopolistic competition  ",
+                "d": "oligopoly  ",
+                "e": "monopsony  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "On what basis does perfect price discrimination set prices?  ",
+            "options": {
+                "a": "total income  ",
+                "b": "willingness to pay  ",
+                "c": "scarcity  ",
+                "d": "opportunity cost  ",
+                "e": "diminishing returns to scale  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following relationships is TRUE of cartels but not monopolies?   ",
+            "options": {
+                "a": "marginal revenue exceeds marginal costs ",
+                "b": "total revenue is less than total costs ",
+                "c": "marginal revenue equals marginal costs ",
+                "d": "total revenue equals total costs ",
+                "e": "total revenue exceeds total costs "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following characteristics does an oligopoly have?  ",
+            "options": {
+                "a": "It is more efficient than a free market.  ",
+                "b": "It is prohibited by government regulation.  ",
+                "c": "It has very high barriers to entry.    ",
+                "d": "It offers price transparency.   ",
+                "e": "It produces higher prices than a monopoly.   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What action is MOST likely to destabilize a cartel?  ",
+            "options": {
+                "a": "lowering output  ",
+                "b": "creating international embargos ",
+                "c": "reducing the number of firms  ",
+                "d": "raising prices  ",
+                "e": "raising output  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which market type can be more efficient than perfect competition?  ",
+            "options": {
+                "a": "government-created monopoly  ",
+                "b": "highly competitive market  ",
+                "c": "monopolistic competition  ",
+                "d": "natural monopoly  ",
+                "e": "oligopoly  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "For which market structure is marginal revenue constant?  ",
+            "options": {
+                "a": "government-created monopoly  ",
+                "b": "perfect competition  ",
+                "c": "natural monopoly  ",
+                "d": "monopolistic competition  ",
+                "e": "oligopoly  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following policies facilitates monopoly?  ",
+            "options": {
+                "a": "anti-trust regulations  ",
+                "b": "rent controls  ",
+                "c": "patent and copyright law  ",
+                "d": "international trade tariffs  ",
+                "e": "high personal income tax  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " A firm faces a demand curve with a slope of -3. Which of the following answer choices BEST describes this firm? ",
+            "options": {
+                "a": "It witnesses diminishing returns to scale.  ",
+                "b": "It exists in a perfectly competitive market.  ",
+                "c": "It earns high fixed costs.  ",
+                "d": "It has increasing marginal costs.  ",
+                "e": "It has market power.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which oligopoly action has the GREATEST impact on welfare outcomes?   ",
+            "options": {
+                "a": "enter the market  ",
+                "b": "raise prices  ",
+                "c": "maximize profits  ",
+                "d": "restrict output  ",
+                "e": "have market power  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which market is most receptive to legislation, regulation, and public ownership? ",
+            "options": {
+                "a": "natural gas  ",
+                "b": "paperback books  ",
+                "c": "utilities  ",
+                "d": "vitamins  ",
+                "e": "energy balls  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following actions is LEAST likely to increase a firm's market power?  ",
+            "options": {
+                "a": "buying over a competitor   ",
+                "b": "obtaining a patent  ",
+                "c": "raising output  ",
+                "d": "differentiating their products  ",
+                "e": "increasing prices  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following statements describes a perfectly competitive market?  ",
+            "options": {
+                "a": "Producers make economic profits.  ",
+                "b": "A firm faces a perfect elasticity of demand.  ",
+                "c": "The marginal revenue curve is downwards sloping.  ",
+                "d": "Consumers earn zero surplus.  ",
+                "e": "Producers possess market power.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following situations leads to monopoly formation?  ",
+            "options": {
+                "a": "low supply  ",
+                "b": "no market power  ",
+                "c": "diminishing marginal returns  ",
+                "d": "high barriers to entry  ",
+                "e": "high prices    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.45": [
+        {
+            "question": "What MAIN function does the Sherman Anti-Trust Act have?   ",
+            "options": {
+                "a": "allowing for free trade  ",
+                "b": "helping create monopolies  ",
+                "c": "resolving externalities  ",
+                "d": "promoting competitiveness  ",
+                "e": "reducing consumer surplus  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following statements describes perfect price discrimination?  ",
+            "options": {
+                "a": "Marginal renevue is less than in a competitive market.  ",
+                "b": "There is some deadweight loss.  ",
+                "c": "The firm's marginal revenue curve is the market demand curve.  ",
+                "d": "The firm supplies more than it did in a non-competitive market.  ",
+                "e": "Consumer surplus is maximized.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "How is price discrimination UNLIKE a price floor?  ",
+            "options": {
+                "a": "It decreases consumer surplus.  ",
+                "b": "It is illegal.  ",
+                "c": "It is socially inefficient.  ",
+                "d": "It occurs under perfect competition.  ",
+                "e": "It increases social welfare.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following goods or services is MOST heavily regulated?  ",
+            "options": {
+                "a": "semiconductors  ",
+                "b": "lasers  ",
+                "c": "utilities  ",
+                "d": "rackets  ",
+                "e": "food delivery  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Under what market structure is production MOST centralized?  ",
+            "options": {
+                "a": "monopsony  ",
+                "b": "monopoly  ",
+                "c": "oligopoly  ",
+                "d": "monopolistic competition  ",
+                "e": "perfect competition  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What incentive do all monopolies face?  ",
+            "options": {
+                "a": "forming a cartel  ",
+                "b": "restricting production  ",
+                "c": "lowering prices  ",
+                "d": "lowering social welfare ",
+                "e": "hiring more workers  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What factor drives inefficiency in monopolistic competition?  ",
+            "options": {
+                "a": "Goods are differentiated.  ",
+                "b": "Price exceeds marginal cost.  ",
+                "c": "Firms possess market power.  ",
+                "d": "Firms earn no economic profit.  ",
+                "e": "Marginal revenue equals marginal cost.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following equations is TRUE in a monopolistically competitive market?  ",
+            "options": {
+                "a": "AVC = MC  ",
+                "b": "TR > TC  ",
+                "c": "MR < MC  ",
+                "d": "P > MC  ",
+                "e": "MR > MC  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following markets is NOT a monopolistically competitive market?  ",
+            "options": {
+                "a": "calendars  ",
+                "b": "adaptors   ",
+                "c": "aircraft  ",
+                "d": "cereal  ",
+                "e": "coats  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following markets would MOST likely practice price discrimination?  ",
+            "options": {
+                "a": "an oligopoly  ",
+                "b": "a cartel  ",
+                "c": "perfect competition  ",
+                "d": "monopolistic competition  ",
+                "e": "a monopoly  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What prerequisite enables monopolistic competition?  ",
+            "options": {
+                "a": "Firms are limited in number.  ",
+                "b": "Firms do not possess market power.  ",
+                "c": "Firms cannot enter and exit freely.  ",
+                "d": "The goods require high fixed costs.  ",
+                "e": "The goods are differentiated.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What MAIN attribute promotes competition in monopolistically competitive markets?  ",
+            "options": {
+                "a": "They lack barriers to entry.  ",
+                "b": "They sell differentiated products.  ",
+                "c": "They make economic profits.  ",
+                "d": "They have downward-sloping demand curves.  ",
+                "e": "They maximize total welfare.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What outcome MUST result under oligopoly?  ",
+            "options": {
+                "a": "decreased producer surplus  ",
+                "b": "increased total surplus  ",
+                "c": "cartel formation  ",
+                "d": "tragedy of the commons  ",
+                "e": "higher deadweight loss  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Unlike a firm in perfect competition, what phenomenon do firms in monopolistic competition face?   ",
+            "options": {
+                "a": "maximized total surplus  ",
+                "b": "maximized total profits  ",
+                "c": "positive economic profits  ",
+                "d": "a downward-sloping demand curve  ",
+                "e": "barriers to entry  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What is a cartel, in economic terms?  ",
+            "options": {
+                "a": "a natural monopoly supported by government regulation  ",
+                "b": "a monopolistically competitive market becoming an oligopoly  ",
+                "c": "multiple suppliers cooperating and behaving like a monopoly  ",
+                "d": "a perfectly competitive market after government intervention   ",
+                "e": "an oligopoly joining a monopoly to create a single, unified product    "
+            },
+            "answer": "C"
+        }
+    ],
+    "PP. 48": [
+        {
+            "question": "Which of the following goods is MOST likely to produce externalities?  ",
+            "options": {
+                "a": "heating  ",
+                "b": "electricity  ",
+                "c": "education  ",
+                "d": "trams  ",
+                "e": "internet  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What change occurs if a market internalizes a negative externality?   ",
+            "options": {
+                "a": "lower price, higher quantity   ",
+                "b": "lower price, equal quantity  ",
+                "c": "higher price, higher quantity  ",
+                "d": "higher price, lower quantity  ",
+                "e": "lower price, lower quantity   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following externalities would be MOST effectively managed with a quota? ",
+            "options": {
+                "a": "positive welfare outcomes  ",
+                "b": "unquantifiable effects  ",
+                "c": "negative effects  ",
+                "d": "widespread ramifications  ",
+                "e": "sociopolitical implications  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following conditions does the Coase Theorem require?  ",
+            "options": {
+                "a": "comparative advantage ",
+                "b": "diminishing marginal returns  ",
+                "c": "a functional government  ",
+                "d": "free trade  ",
+                "e": "clearly defined property rights  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following investments would be MOST effective for a firm that aspires to engender creative destruction?  ",
+            "options": {
+                "a": "intellectual property  ",
+                "b": "financial assets  ",
+                "c": "fixed capital investment  ",
+                "d": "consumption goods  ",
+                "e": "research and development  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "When does market failure occur?  ",
+            "options": {
+                "a": "Government does not intervene in the market.  ",
+                "b": "There are clearly defined property rights.  ",
+                "c": "All surplus is directed towards producers.  ",
+                "d": "Competitive markets do not produce socially desirable outcomes.  ",
+                "e": "Markets are all perfectly competitive.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What shift occurs if a market internalizes a positive externality?  ",
+            "options": {
+                "a": "upwards shift of supply curve  ",
+                "b": "ambiguous shift of demand and supply curves  ",
+                "c": "downwards shift of supply curve  ",
+                "d": "upwards shift of demand curve  ",
+                "e": "downwards shift of demand curve  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following statements is NOT true of negative externalities?  ",
+            "options": {
+                "a": "The optimal level of production can be zero.  ",
+                "b": "They result in too little production.  ",
+                "c": "They are extremely rare.  ",
+                "d": "They increase overall welfare.  ",
+                "e": "They increase firm profits.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following phenomena exemplify negative externalities?  ",
+            "options": {
+                "a": "government taxation  ",
+                "b": "personal dietary choices  ",
+                "c": "infant vaccination   ",
+                "d": "water pollution  ",
+                "e": "firms' vertical integration  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Matt and Mark are having an issue about Matt's habit of mowing his yard at 6:00 every morning. What solution does the Coase Theorem propose?  ",
+            "options": {
+                "a": "quotas  ",
+                "b": "common property  ",
+                "c": "negotiation  ",
+                "d": "government intervention  ",
+                "e": "taxes  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes the role of entrepreneurs in the market? ",
+            "options": {
+                "a": "increasing total welfare  ",
+                "b": "delineating property rights  ",
+                "c": "internalizing externalities  ",
+                "d": "reducing inequality  ",
+                "e": "establishing new markets  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What benefit does a patent grant?   ",
+            "options": {
+                "a": "economic profits  ",
+                "b": "legal monopoly  ",
+                "c": "cartel power  ",
+                "d": "increasing marginal revenue  ",
+                "e": "transfer of consumer surplus  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following markets is most susceptible to market failure? ",
+            "options": {
+                "a": "rival goods  ",
+                "b": "collective goods  ",
+                "c": "private goods  ",
+                "d": "public goods  ",
+                "e": "common resources  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " For what purpose does the government intervene in the cigarette market?  ",
+            "options": {
+                "a": "limiting supply  ",
+                "b": "imposing a price ceiling  ",
+                "c": "breaking up a cartel  ",
+                "d": "preventing price discrimination  ",
+                "e": "remedying an externality  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following answer choices describes one of the goals of entrepreneurs?  ",
+            "options": {
+                "a": "minimize economic profits  ",
+                "b": "join competitive markets  ",
+                "c": "reduce consumer surplus  ",
+                "d": "establish efficient markets  ",
+                "e": "circumvent barriers to entry    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 56": [
+        {
+            "question": "Which of the following goods is a common resource?  ",
+            "options": {
+                "a": "websites  ",
+                "b": "satellite radio  ",
+                "c": "haircuts  ",
+                "d": "city streets  ",
+                "e": "tornado siren  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What type of good is at GREATEST risk of overconsumption?  ",
+            "options": {
+                "a": "public good  ",
+                "b": "common resource  ",
+                "c": "collective good  ",
+                "d": "private good  ",
+                "e": "excludable good  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following goods is LEAST rival?   ",
+            "options": {
+                "a": "a share-size bag of chips  ",
+                "b": "gasoline  ",
+                "c": "a news website  ",
+                "d": "radio broadcasts  ",
+                "e": "a bike-sharing program   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What solution to the tragedy of the commons is MOST efficient?  ",
+            "options": {
+                "a": "increasing taxes  ",
+                "b": "forming an oligopoly  ",
+                "c": "establishing quotas  ",
+                "d": "creating property rights  ",
+                "e": "enforcing a price floor  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following goods is CORRECTLY paired with its level of excludability?  ",
+            "options": {
+                "a": "radio, high  ",
+                "b": "websites, low  ",
+                "c": "city streets, low  ",
+                "d": "pizza, low  ",
+                "e": "national defense, high  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "By what process can a group efficiently internalize an externality?  ",
+            "options": {
+                "a": "raising taxes  ",
+                "b": "making decisions collectively  ",
+                "c": "operating independently  ",
+                "d": "monetizing it   ",
+                "e": "setting price controls  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following goods has low excludability and rivalry?  ",
+            "options": {
+                "a": "walmart.com   ",
+                "b": "Denali National Park  ",
+                "c": "Norwegian salmon  ",
+                "d": "NPR broadcasts  ",
+                "e": "Disney+  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which type of good has a high degree of rivalry and excludability?   ",
+            "options": {
+                "a": "competitive  ",
+                "b": "common  ",
+                "c": "non-renewable  ",
+                "d": "excludable  ",
+                "e": "private  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What qualities characterize goods that experience the tragedy of the commons?   ",
+            "options": {
+                "a": "high rivalry, high excludability   ",
+                "b": "low excludability only  ",
+                "c": "high rivalry, low excludability   ",
+                "d": "low rivalry only  ",
+                "e": "low rivalry, low excludability  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What negative outcome often occurs in the market for common resources?  ",
+            "options": {
+                "a": "inflation  ",
+                "b": "positive externalities  ",
+                "c": "monopolization  ",
+                "d": "taxes  ",
+                "e": "overutilization  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What type of good has high excludability and low rivalry?  ",
+            "options": {
+                "a": "normal good  ",
+                "b": "public good  ",
+                "c": "collective good  ",
+                "d": "private good  ",
+                "e": "common resource  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following statements describes collective goods?  ",
+            "options": {
+                "a": "A surplus is often produced.  ",
+                "b": "Natural monopolies can profit by supplying them.  ",
+                "c": "Monopolies have incentives to sell them cheaply.  ",
+                "d": "They have a low degree of rivalry.  ",
+                "e": "The marginal cost of production is very high.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following resource types produces externalities?  ",
+            "options": {
+                "a": "collective resources  ",
+                "b": "public resources  ",
+                "c": "private resources  ",
+                "d": "excludable resources  ",
+                "e": "common resources  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following scenarios BEST illustrates the Coase Theorem?  ",
+            "options": {
+                "a": "an economy dividing its resources between public and private  ",
+                "b": "a government setting a quota on air pollution to improve urban health conditions ",
+                "c": "a beekeeper purchasing a nearby apple farm to promote pollination and crop production  ",
+                "d": "a sanitizer plant increasing production  ",
+                "e": "a neighborhood association negotiating with a local school about the bright lights on their football field "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following circumstances invalidates the Coase Theorem?  ",
+            "options": {
+                "a": "Governments fail to step in.  ",
+                "b": "Rational individuals do not change productive behavior.  ",
+                "c": "The good cannot be quantified.   ",
+                "d": "There is no optimal solution.  ",
+                "e": "The costs of negotiating are high.    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 58": [
+        {
+            "question": "In what MAIN way do governments differ from institutions?  ",
+            "options": {
+                "a": "Governments are much less powerful.  ",
+                "b": "Governments set rules for behavior.  ",
+                "c": "Governments help structure interactions.  ",
+                "d": "Governments operate through voluntary participation.  ",
+                "e": "Governments have a monopoly on the legal use of force.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes the results of successful rent-seeking? ",
+            "options": {
+                "a": "increase in demand  ",
+                "b": "increase in total welfare  ",
+                "c": "redistribution of utility   ",
+                "d": "reduction of prices  ",
+                "e": "leveling of opportunities  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which economic actor initiates the process of collective decision-making? ",
+            "options": {
+                "a": "organizations ",
+                "b": "institutions ",
+                "c": "individuals ",
+                "d": "governments ",
+                "e": "firms "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What phenomenon occurs along with logrolling?   ",
+            "options": {
+                "a": "pork barrel politics  ",
+                "b": "regulatory capture  ",
+                "c": "monopoly regulation  ",
+                "d": "rent seeking  ",
+                "e": "taxation  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following questions can positive economic analysis BEST answer?  ",
+            "options": {
+                "a": "What is the effect of taxation on the demand for gasoline?  ",
+                "b": "How much should government tax its richest citizens?  ",
+                "c": "What role does the government play in the economy?  ",
+                "d": "Should the government punish harmful behavior?  ",
+                "e": "Should government intervene in the labor supply market?  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How do import controls affect the market for sugar in the United States?  ",
+            "options": {
+                "a": "The domestic market has many barriers to entry.   ",
+                "b": "The domestic quantity is higher than equilibrium.   ",
+                "c": "The domestic market sees monopolistic competition.  ",
+                "d": "The domestic market is monopolistically competitive.  ",
+                "e": "The domestic price is higher than the world price.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following functions does taxation serve?  ",
+            "options": {
+                "a": "decreasing employment  ",
+                "b": "increasing total welfare  ",
+                "c": "limiting inflation  ",
+                "d": "incentivizing investment  ",
+                "e": "redistributing wealth  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What MAIN economic function does governance play?  ",
+            "options": {
+                "a": "coordinating the economy  ",
+                "b": "regulating industry  ",
+                "c": "expanding the scope of economic activity  ",
+                "d": "redistributing wealth  ",
+                "e": "interfering in the free market  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Who engages in \"log rolling\"?  ",
+            "options": {
+                "a": "banks  ",
+                "b": "firms  ",
+                "c": "politicians  ",
+                "d": "carpenters  ",
+                "e": "consumers  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What is an economic downside of rent-seeking? ",
+            "options": {
+                "a": "increased inequity  ",
+                "b": "lower consumer surplus  ",
+                "c": "lower producer surplus  ",
+                "d": "higher prices  ",
+                "e": "deadweight loss  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following answer choices BEST describes the American market for sugar? ",
+            "options": {
+                "a": "price floor  ",
+                "b": "price ceiling  ",
+                "c": "tax  ",
+                "d": "quota  ",
+                "e": "subsidy  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Tim and Teresa are going to start an alpaca farm in Kansas. Tim wants to make sure that Teresa will not back out of their investments. Which function of government will protect their business ventures? ",
+            "options": {
+                "a": "the ability to tax its citizens ",
+                "b": "the enforcement of contracts ",
+                "c": "the human rights in the Bill of Rights ",
+                "d": "the legal use of force ",
+                "e": "the necessity to regulate negative externalities "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Legislator Lamar has recently been accused of \"pork barrel politics.\" Which of the following accusations is MOST likely to be the cause of this accusation? ",
+            "options": {
+                "a": "encroaching on legal use of force with a private security team ",
+                "b": "supporting another legislator's project to get support for his own plans ",
+                "c": "taking advantage of wide tax raises to slide one of his projects into a bill ",
+                "d": "inflating domestic prices with an artificial price floor ",
+                "e": "directing funding to his son's high school football program "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What is the trade-off for the protections of government? ",
+            "options": {
+                "a": "violation of contracts - safe and fair business practices ",
+                "b": "free will - totalitarian control ",
+                "c": "small amount of autonomy - protection of property and security ",
+                "d": "free speech - regulated fields of opinion ",
+                "e": "public transportation - a powerful passport "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " In DemiDecTopia, the market cost for alpaca wool is much higher than the global market cost due to the efforts of lobbyists. Which of the following answer choices BEST describes this phenomenon? ",
+            "options": {
+                "a": "price ceiling ",
+                "b": "logrolling ",
+                "c": "pork barrel politics ",
+                "d": "rent seeking ",
+                "e": "negative externality   "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP.59": [
+        {
+            "question": "Which of the following questions represents a central issue in microeconomics?  ",
+            "options": {
+                "a": "What are the consequences of high corporate taxes?  ",
+                "b": "What dictates the interaction between supply and demand in markets?  ",
+                "c": "What causes fluctuations in the unemployment rate?  ",
+                "d": "What influences changes in the overall level of economic activity in a country?  ",
+                "e": "What determines long-run growth in national economies?  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following conditions MUST be satisfied under perfect competition?  ",
+            "options": {
+                "a": "Prices must be set at auction.  ",
+                "b": "There must be a monopoly.  ",
+                "c": "The good must be highly accessible.  ",
+                "d": "The good or service must be highly standardized.  ",
+                "e": "The number of buyers must not be quantifiable.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes quantity demanded, according to the law of demand? ",
+            "options": {
+                "a": "Quantity demanded is negatively related to price. ",
+                "b": "Quantity demanded is inverted from the supply curve.   ",
+                "c": "Quantity demanded is unrelated to quantity supplied.  ",
+                "d": "Quantity demanded is linearly dependent on price.  ",
+                "e": "Quantity demanded is tangent to price at one point. "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following factors is LEAST relevant to demand for a mechanical keyboard?  ",
+            "options": {
+                "a": "price of the keycaps  ",
+                "b": "price of a touch keyboard  ",
+                "c": "current computing trends  ",
+                "d": "number of keyboard buyers  ",
+                "e": "average income of computer users  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "When does equilibrium occur in a perfectly competitive market?  ",
+            "options": {
+                "a": "Government intervention is zero.  ",
+                "b": "No participant desires to alter their behavior.  ",
+                "c": "Supply and demand are in equilibrium.  ",
+                "d": "Positive and negative externalities are perfectly balanced. ",
+                "e": "Quantity supplied equals quantity demanded.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices BEST defines elasticity? ",
+            "options": {
+                "a": "effects of barriers to entry   ",
+                "b": "fluctuations of price over time  ",
+                "c": "total surplus of all participants in a market   ",
+                "d": "degree to which supply and demand respond to price changes  ",
+                "e": "points at which the supply and demand curves intersect  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "How does the government raise most of its revenue? ",
+            "options": {
+                "a": "tariffs  ",
+                "b": "transfer payments  ",
+                "c": "taxation  ",
+                "d": "trading bonds  ",
+                "e": "treasury notes  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "How does trade affect welfare?  ",
+            "options": {
+                "a": "International trade increases total surplus.  ",
+                "b": "International trade limits pork barrel politics. ",
+                "c": "Free trade benefits the poor in an economy.  ",
+                "d": "Free trade reduces negative externalities. ",
+                "e": "International trade increases deadweight loss.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What PRIMARY goal do firms have in economic theory?   ",
+            "options": {
+                "a": "lowering barriers to entry  ",
+                "b": "maximizing social good  ",
+                "c": "minimizing deadweight loss  ",
+                "d": "maximizing economic profits  ",
+                "e": "engaging in trade  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which form of market composition leads to monopolistic competition?  ",
+            "options": {
+                "a": "A few suppliers produce vastly different goods.  ",
+                "b": "One producer sells similar but differentiated goods.  ",
+                "c": "Many suppliers produce similar but differentiated goods.  ",
+                "d": "A small number of suppliers produce a standardized good.  ",
+                "e": "A market has a natural monopoly.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following factors is HIGHER in imperfect competition when compared to perfect competition? ",
+            "options": {
+                "a": "price  ",
+                "b": "price elasticity   ",
+                "c": "quantity supplied   ",
+                "d": "deadweight loss  ",
+                "e": "quantity demanded  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What situation constitutes a  market failure?  ",
+            "options": {
+                "a": "Barriers to entry do not exist.  ",
+                "b": "Elasticity reaches zero.  ",
+                "c": "Government intervention lowers economic profits.  ",
+                "d": "Economic profits are reduced drastically.  ",
+                "e": "Socially efficient outcomes are not achieved.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How can negative externalities be resolved? ",
+            "options": {
+                "a": "international trade  ",
+                "b": "barriers to entry   ",
+                "c": "monopolistic competition  ",
+                "d": "cartel formation  ",
+                "e": "government regulation  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Apart from rivalry, which other factor can be used to describe types of goods? ",
+            "options": {
+                "a": "social cost  ",
+                "b": "desirability  ",
+                "c": "barriers to entry   ",
+                "d": "excludability  ",
+                "e": "marketability  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following elements is NOT a principal category of goods and services?  ",
+            "options": {
+                "a": "common resources  ",
+                "b": "private goods  ",
+                "c": "public goods  ",
+                "d": "collective goods  ",
+                "e": "institutional resources    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 61": [
+        {
+            "question": "Which of the following issues is LEAST relevant to macroeconomics?  ",
+            "options": {
+                "a": "international oil cartels   ",
+                "b": "growth of national economies  ",
+                "c": "long-run supply of steel   ",
+                "d": "seasonal unemployment rate  ",
+                "e": "short-run consumer goods inflation  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "During which of the following periods did United States output decrease?  ",
+            "options": {
+                "a": "World War II  ",
+                "b": "Cold War  ",
+                "c": "World War I  ",
+                "d": "the Great Depression   ",
+                "e": "Roaring Twenties  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "How have population and output in the United States changed in the past century?  ",
+            "options": {
+                "a": "Output has kept pace with population.  ",
+                "b": "Output has stagnated with population growth.  ",
+                "c": "Population has impeded output. ",
+                "d": "Population has grown much faster than output.  ",
+                "e": "Output has grown much faster than population.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What literal meaning does \u2018per capita' have?  ",
+            "options": {
+                "a": "\u2018per financial year'  ",
+                "b": "\u2018per legally recognized person'  ",
+                "c": "\u2018per capital good'  ",
+                "d": "\u2018per head'  ",
+                "e": "\u2018per taxable dollar'  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Average labor productivity equals an economy's total output divided by its  ",
+            "options": {
+                "a": "number of working years per capita  ",
+                "b": "number of employed workers  ",
+                "c": "number of working-age residents  ",
+                "d": "number of man-hours worked  ",
+                "e": "number of employed and unemployed workers  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What output per capita did the United States produce in 2008?   ",
+            "options": {
+                "a": "$37,000  ",
+                "b": "$96,000  ",
+                "c": "$12,000  ",
+                "d": "$59,000  ",
+                "e": "$43,000  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "In which of the following periods did real output per worker decline MOST?  ",
+            "options": {
+                "a": "during the 1970s oil crisis  ",
+                "b": "throughout the Great Depression  ",
+                "c": "mid-World War I  ",
+                "d": "in the Roaring Twenties  ",
+                "e": "after World War II  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following countries had the HIGHEST GDP per capita in 2007?  ",
+            "options": {
+                "a": "India  ",
+                "b": "Mexico  ",
+                "c": "South Korea  ",
+                "d": "China  ",
+                "e": "Russia  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following countries had the LARGEST GDP in 2007?  ",
+            "options": {
+                "a": "China  ",
+                "b": "Mexico  ",
+                "c": "South Korea  ",
+                "d": "India  ",
+                "e": "Russia  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What phenomena constitute the business cycle?  ",
+            "options": {
+                "a": "deflation and inflation  ",
+                "b": "consumption and capital  ",
+                "c": "employment and unemployment  ",
+                "d": "expansion and recession   ",
+                "e": "profits and expenditures  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following countries had the LONGEST life expectancy in 2007?  ",
+            "options": {
+                "a": "Japan  ",
+                "b": "South Korea  ",
+                "c": "France  ",
+                "d": "USA  ",
+                "e": "Germany  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Who is considered unemployed?  ",
+            "options": {
+                "a": "a person who is taking vacation time  ",
+                "b": "a person who is no longer looking for work  ",
+                "c": "any person without a job  ",
+                "d": "a person without a job who would like to work  ",
+                "e": "a person who is not in the labor force  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following statements is TRUE of unemployment?  ",
+            "options": {
+                "a": "It never reaches zero.  ",
+                "b": "It has been rising since the 1920s.  ",
+                "c": "It rises during expansions.  ",
+                "d": "It declines alongside output.  ",
+                "e": "It depends on microeconomic forces.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following values is MOST impacted by inflation? ",
+            "options": {
+                "a": "real output  ",
+                "b": "purchasing power  ",
+                "c": "inequality  ",
+                "d": "government revenue  ",
+                "e": "total surplus  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following answer choices describes a trade surplus? ",
+            "options": {
+                "a": "A country exports and imports equal amounts.  ",
+                "b": "A country has low import duties.  ",
+                "c": "A country exports more than in the previous year.  ",
+                "d": "A country exports more than the global average.  ",
+                "e": "A country exports more than it imports .   "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 70": [
+        {
+            "question": "Which notable economist studied national output during the Great Depression?  ",
+            "options": {
+                "a": "John Maynard Keynes ",
+                "b": "Walter Heller  ",
+                "c": "Simon Kuznets  ",
+                "d": "Friedrich Hayek  ",
+                "e": "Arthur Okun  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "How do economists account for capital goods in GDP?  ",
+            "options": {
+                "a": "GDP includes capital goods in the year of consumption.  ",
+                "b": "They include capital goods under nominal GDP only.  ",
+                "c": "Capital goods are valued according to their contribution to final goods.  ",
+                "d": "Capital goods are part of GDP for the year in which they were produced.  ",
+                "e": "Capital goods are included in GNP but not GDP.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following goods is a consumer durable?  ",
+            "options": {
+                "a": "legal services  ",
+                "b": "a t-shirt  ",
+                "c": "a college degree  ",
+                "d": "an electric scooter    ",
+                "e": "a loaf of bread  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following exchanges would United States GDP NOT count?  ",
+            "options": {
+                "a": "Hertz sells fifty used automobiles.  ",
+                "b": "Japan Steel sells steel to a Toyota plant.  ",
+                "c": "A baker sells sourdough loaves at a farmer's market.  ",
+                "d": "Maryland imports $500 million of masks.  ",
+                "e": "A salesman receives a commission from selling an old mansion.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What agency calculates the United States Consumer Price Index?  ",
+            "options": {
+                "a": "Bureau of Labor Statistics  ",
+                "b": "Federal Reserve  ",
+                "c": "Food and Drug Administration  ",
+                "d": "National Bureau of Economic Research  ",
+                "e": "World Bank  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "How does the Consumer Price Index influence the economy?  ",
+            "options": {
+                "a": "The CPI guides government intervention.  ",
+                "b": "The CPI determines producer surplus.  ",
+                "c": "The CPI affects people's Social Security benefits.  ",
+                "d": "CPI tracks unemployment rates closely.  ",
+                "e": "The CPI can affect real quantities of certain goods.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following components does GDP NOT include?  ",
+            "options": {
+                "a": "investment  ",
+                "b": "government transfers  ",
+                "c": "consumption  ",
+                "d": "net exports  ",
+                "e": "government purchases  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Why do economists calculate real GDP? ",
+            "options": {
+                "a": "to remove the cost of taxation   ",
+                "b": "to account for depreciation   ",
+                "c": "to adjust for foreign exchange  ",
+                "d": "to measure shifts in production   ",
+                "e": "to measure price in negative externalities   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following answer choices is NOT included when calculating the \"investment\" portion of GDP? ",
+            "options": {
+                "a": "home sales  ",
+                "b": "office equipment  ",
+                "c": "purchase of a new factory  ",
+                "d": "inventory growth  ",
+                "e": "bond purchases  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following statements describes a country that imports more than it exports?  ",
+            "options": {
+                "a": "Net exports remain the same.  ",
+                "b": "Foreign investment decreases.  ",
+                "c": "Net exports decrease.  ",
+                "d": "Domestic consumption starts to increase.  ",
+                "e": "Taxation increases.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following answer choices is included when calculating the \"government purchases\" portion of GDP? ",
+            "options": {
+                "a": "social security benefits  ",
+                "b": "public officials' wages  ",
+                "c": "financial aid  ",
+                "d": "food stamps  ",
+                "e": "Medicare expenses  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Caroline uses her book advance to buy a flat in Manhattan. Which of the following answer choices BEST describes this purchase?  ",
+            "options": {
+                "a": "capital goods investment  ",
+                "b": "deadweight loss  ",
+                "c": "monetary policy   ",
+                "d": "residential fixed investment  ",
+                "e": "government subsidy  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " On what basis is nominal GDP calculated?  ",
+            "options": {
+                "a": "the current year's prices  ",
+                "b": "a base year's prices  ",
+                "c": "the previous year's projected output  ",
+                "d": "the federal funds rate  ",
+                "e": "data from the Consumer Price Index  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following statements is TRUE of the Consumer Price Index?  ",
+            "options": {
+                "a": "The CPI draws on the Consumer Expenditure Survey.  ",
+                "b": "The CPI is calculated on a biannual basis.  ",
+                "c": "The CPI is calculated from a basket of capital goods.  ",
+                "d": "The CPI does not use a base year to calculate its index.  ",
+                "e": "The CPI measures externalities.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What does GDP attempt to measure? ",
+            "options": {
+                "a": "level of government intervention  ",
+                "b": "degree of vertical integration  ",
+                "c": "overall production  ",
+                "d": "social well-being   ",
+                "e": "consumer and producer surplus    "
+            },
+            "answer": "C"
+        }
+    ],
+    "PP. 73": [
+        {
+            "question": "A good has been added to the CPI. What conclusion BEST follows?  ",
+            "options": {
+                "a": "It has risen in price.  ",
+                "b": "It is patented.   ",
+                "c": "It is a necessity.  ",
+                "d": "It has high market penetration.  ",
+                "e": "It is produced domestically.   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following values are used to calculate the GDP deflator? ",
+            "options": {
+                "a": "GDP and GDP per capita  ",
+                "b": "interest rates and GDP per capita  ",
+                "c": "inflation and unemployment  ",
+                "d": "real and nominal GDP  ",
+                "e": "GDP and aggregate demand  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What factor causes structural unemployment?  ",
+            "options": {
+                "a": "the normal process of looking for jobs  ",
+                "b": "a mismatch between desired and available skills  ",
+                "c": "seasonal changes in employment opportunities  ",
+                "d": "fluctuations in the business cycle  ",
+                "e": "increased inflationary pressures  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices BEST describes a product that has a high weighting in the CPI? ",
+            "options": {
+                "a": "high volume of sales  ",
+                "b": "significant price rise  ",
+                "c": "major drop in imports ",
+                "d": "domestic supplier  ",
+                "e": "new version  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following changes does the CPI influence?  ",
+            "options": {
+                "a": "currency exchange rates  ",
+                "b": "cost-of-living adjustment  ",
+                "c": "Medicare benefits  ",
+                "d": "minimum wage increases  ",
+                "e": "tax brackets  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What kind of unemployment is ALWAYS present?   ",
+            "options": {
+                "a": "cyclical  ",
+                "b": "frictional  ",
+                "c": "seasonal  ",
+                "d": "voluntary  ",
+                "e": "regional  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What is the substitution bias in the CPI? ",
+            "options": {
+                "a": "consumers' preference for newer goods  ",
+                "b": "consumers' trend-following product choices   ",
+                "c": "consumers' choices of less expensive goods  ",
+                "d": "consumers' irrational product preferences  ",
+                "e": "consumers' desire for technological advances  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following people is out of the labor force?  ",
+            "options": {
+                "a": "a member of the army  ",
+                "b": "an unemployed person searching for a job  ",
+                "c": "a worker on sick leave  ",
+                "d": "a frictionally unemployed graduate  ",
+                "e": "a retiree  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Nominal inflation is 2.8%; it is 3.2% according to the CPI. The Boskin commission would place inflation at  ",
+            "options": {
+                "a": "3.0%  ",
+                "b": "0.4%  ",
+                "c": "1.9%  ",
+                "d": "1.5%  ",
+                "e": "3.2%  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " The working-age population includes 400 people. 64 people are not employed or seeking a job. What is the labor force participation rate?  ",
+            "options": {
+                "a": "16%  ",
+                "b": "92%  ",
+                "c": "100%  ",
+                "d": "84%  ",
+                "e": "64%  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " How does the GDP deflator differ from the CPI?  ",
+            "options": {
+                "a": "The GDP deflator excludes imported products.  ",
+                "b": "The GDP deflator does not take inflation into account.  ",
+                "c": "The GDP deflator has not been updated since 1980.  ",
+                "d": "The GDP deflator only analyzes domestic goods.  ",
+                "e": "The GDP deflator does not take consider CPI.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What type of unemployment is strongly dependent on recessions and expansions?  ",
+            "options": {
+                "a": "frictional   ",
+                "b": "structural   ",
+                "c": "seasonal  ",
+                "d": "cyclical   ",
+                "e": "involuntary   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What is the economic definition of the labor force?  ",
+            "options": {
+                "a": "the entire population of an economy  ",
+                "b": "all people who have worked in the past four weeks  ",
+                "c": "all employed people in an economy  ",
+                "d": "all working-age people in an economy  ",
+                "e": "people of working age who are working or trying to find work  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following events leads to longer periods of unemployment?  ",
+            "options": {
+                "a": "increased inflation  ",
+                "b": "two quarters of positive economic growth  ",
+                "c": "an increase in the minimum wage  ",
+                "d": "a reduction in the national debt  ",
+                "e": "two quarters of negative economic growth  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What labor force participation rate does the United States have?  ",
+            "options": {
+                "a": "100%  ",
+                "b": "61%  ",
+                "c": "54%  ",
+                "d": "73%  ",
+                "e": "32%    "
+            },
+            "answer": "B"
+        }
+    ],
+    "PP. 77": [
+        {
+            "question": "Which of the following formulae is the correct formula to calculate GDP per capita? ",
+            "options": {
+                "a": "real GDP/labor force  ",
+                "b": "nominal GDP/labor force  ",
+                "c": "nominal GDP/workers  ",
+                "d": "nominal GDP/population  ",
+                "e": "real GDP/population  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following values BEST reflects growth in GDP? ",
+            "options": {
+                "a": "standard of living  ",
+                "b": "employment rate  ",
+                "c": "population growth  ",
+                "d": "overall prices  ",
+                "e": "value of production  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Relative to 1900, by what factor did US real GDP per capita rise in 2019?  ",
+            "options": {
+                "a": "1600%  ",
+                "b": "400%  ",
+                "c": "900%  ",
+                "d": "3200%  ",
+                "e": "2000%  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following goods is physical capital? ",
+            "options": {
+                "a": "stocks  ",
+                "b": "cars  ",
+                "c": "factories ",
+                "d": "knowledge  ",
+                "e": "labor  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What actor provides land and labor in economic exchange?  ",
+            "options": {
+                "a": "firms  ",
+                "b": "the government  ",
+                "c": "financial intermediaries  ",
+                "d": "natural resources  ",
+                "e": "households  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "To what actor do households provide income according to the circular flow model?  ",
+            "options": {
+                "a": "the government  ",
+                "b": "importers  ",
+                "c": "firms  ",
+                "d": "landlords  ",
+                "e": "financial intermediaries  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What MAIN factor drives long-run productivity growth?  ",
+            "options": {
+                "a": "growth in physical capital  ",
+                "b": "improved technology  ",
+                "c": "democratization  ",
+                "d": "legal environment  ",
+                "e": "discovery of natural resources  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following institutions is a firm?  ",
+            "options": {
+                "a": "the Federal Reserve  ",
+                "b": "the Spanish government  ",
+                "c": "the World Bank  ",
+                "d": "McDonald's  ",
+                "e": "Doctors Without Borders  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following changes LEAST affects labor productivity?  ",
+            "options": {
+                "a": "Vast supplies of oil are found underground.  ",
+                "b": "The price of gas increases.  ",
+                "c": "A new production technique is discovered.  ",
+                "d": "A 5G data network is rolled out.  ",
+                "e": "Universal free education is introduced.    "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following statements is NOT true of natural resources?  ",
+            "options": {
+                "a": "The countries with highest GDP per capita depend on natural resources.  ",
+                "b": "Natural resources can be easily imported.  ",
+                "c": "Iron and oil are plentiful resources that allow for economic growth.  ",
+                "d": "Countries like Saudi Arabia depend heavily on their natural resources.  ",
+                "e": "Natural resources are not necessary for an economy to thrive.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Why is too much investment economically undesirable?  ",
+            "options": {
+                "a": "Investment can be inefficient and costly.  ",
+                "b": "Investment focuses on short-run growth.   ",
+                "c": "Investment decreases future production.  ",
+                "d": "Investments eventually yield diminishing returns.  ",
+                "e": "Investment decreases total welfare.  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following statements CORRECTY describes the circular flow model?   ",
+            "options": {
+                "a": "Firms receive income.  ",
+                "b": "The firm supplies goods and services.  ",
+                "c": "Revenue equals wages, rent, and profits.   ",
+                "d": "Households provide wages and labor.   ",
+                "e": "Factors of production include income and materials.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following decisions improves human capital?  ",
+            "options": {
+                "a": "creating a human resources department   ",
+                "b": "upgrading the IT system  ",
+                "c": "holding professional development courses  ",
+                "d": "hiring more workers  ",
+                "e": "promoting a manager  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What flow(s) does the market for goods and services experience?  ",
+            "options": {
+                "a": "wages and taxes  ",
+                "b": "profits and rents  ",
+                "c": "inputs and outputs  ",
+                "d": "transfers and loans   ",
+                "e": "spending and revenue  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following countries benefited from technology transfer MOST?  ",
+            "options": {
+                "a": "Mexico  ",
+                "b": "United States  ",
+                "c": "India  ",
+                "d": "Kenya  ",
+                "e": "Japan    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 81": [
+        {
+            "question": "What function does the NYSE serve?  ",
+            "options": {
+                "a": "auctioneer   ",
+                "b": "stock exchange  ",
+                "c": "bond issuer   ",
+                "d": "overnight loan facility  ",
+                "e": "financial intermediary  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What actors do financial intermediaries connect?  ",
+            "options": {
+                "a": "savers and borrowers   ",
+                "b": "buyers and sellers  ",
+                "c": "banks and companies   ",
+                "d": "government and citizens  ",
+                "e": "firms and consumers  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "In banking, what does the term \"principal\" refer to? ",
+            "options": {
+                "a": "sum of money borrowed  ",
+                "b": "interest rate on the loan/bond  ",
+                "c": "length of the loan  ",
+                "d": "primary borrower  ",
+                "e": "total payment at the end of the loan  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following terms describes banks AND mutual funds? ",
+            "options": {
+                "a": "wealth creators  ",
+                "b": "risk aggregators   ",
+                "c": "guarantors  ",
+                "d": "intermediaries  ",
+                "e": "monopolies  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Why do transactions of existing stock NOT count as investment?  ",
+            "options": {
+                "a": "The transactions are too small to be considered.  ",
+                "b": "The transactions are primarily conducted by the government.  ",
+                "c": "The transactions are not legally monitored.  ",
+                "d": "The stock purchases are performed outside of the country.  ",
+                "e": "The company does not receive money from the trade.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What long-run function does the savings and investment market serve?  ",
+            "options": {
+                "a": "yield curve control  ",
+                "b": "inflation management  ",
+                "c": "interest rate policy  ",
+                "d": "capital formation  ",
+                "e": "job creation  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following statements is TRUE of a company that fails?  ",
+            "options": {
+                "a": "It is legally dissolved.   ",
+                "b": "It must repurchase its shares.   ",
+                "c": "It must pay back bondholders first.  ",
+                "d": "Its owners face jail time.  ",
+                "e": "It cannot be acquired.   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following entities is MOST likely to take a bank loan for investment?  ",
+            "options": {
+                "a": "a mutual fund  ",
+                "b": "a smaller company  ",
+                "c": "an individual investor  ",
+                "d": "the federal government  ",
+                "e": "a multinational corporation  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What investments do mutual funds hold?  ",
+            "options": {
+                "a": "stocks and bonds   ",
+                "b": "Treasury notes and bills  ",
+                "c": "index funds and mortgages  ",
+                "d": "shorts and hedges  ",
+                "e": "options and derivatives  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What PRIMARY factor(s) affects bond interest rates?  ",
+            "options": {
+                "a": "the discount rate  ",
+                "b": "the federal funds rate  ",
+                "c": "prevailing interest and inflation rates  ",
+                "d": "bankruptcy and buyback protections  ",
+                "e": "time horizon and default risk  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What advantage do mutual funds offer?  ",
+            "options": {
+                "a": "targeted STEM-focused investment ",
+                "b": "international investment ",
+                "c": "diversification   ",
+                "d": "convenience  ",
+                "e": "liquidity   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What financial instrument functions as a proof of debt?  ",
+            "options": {
+                "a": "index fund  ",
+                "b": "share  ",
+                "c": "collateral  ",
+                "d": "bond  ",
+                "e": "put option  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Who receives dividends?  ",
+            "options": {
+                "a": "holders of bond certificates  ",
+                "b": "the Federal Reserve ",
+                "c": "the government  ",
+                "d": "servicers of debt obligations  ",
+                "e": "purchasers of stock shares  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Bond is to debt as stock is to   ",
+            "options": {
+                "a": "credit  ",
+                "b": "equity  ",
+                "c": "capital  ",
+                "d": "liability  ",
+                "e": "yield  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following purchases is counted as investment?  ",
+            "options": {
+                "a": "purchasing a tractor  ",
+                "b": "purchasing government treasury notes  ",
+                "c": "purchasing ten shares of Disney  ",
+                "d": "purchasing corporate bonds  ",
+                "e": "placing savings in a bank    "
+            },
+            "answer": "A"
+        }
+    ],
+    "PP. 83": [
+        {
+            "question": "Why is the supply curve for the interest rate upward sloping?  ",
+            "options": {
+                "a": "It becomes more expensive to supply savings.  ",
+                "b": "It reflects the irrationality of the typical saver.  ",
+                "c": "People have more money to save.  ",
+                "d": "Borrowers will be more willing to take out loans.  ",
+                "e": "People save more if they earn more interest.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What characteristic defines a closed economy?  ",
+            "options": {
+                "a": "zero exports  ",
+                "b": "lack of comparative advantage  ",
+                "c": "high inflation  ",
+                "d": "trade deficit  ",
+                "e": "trade surplus  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following identities is TRUE when calculating GDP?  ",
+            "options": {
+                "a": "net exports = government spending  ",
+                "b": "production = consumption  ",
+                "c": "expenditures = savings  ",
+                "d": "production = income  ",
+                "e": "investment = consumption  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What equation indicates the government's budgetary balance?  ",
+            "options": {
+                "a": "I - G  ",
+                "b": "I - S   ",
+                "c": "T - G   ",
+                "d": "G - S  ",
+                "e": "T - S  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "In an open economy, what is the value of I + NCO? ",
+            "options": {
+                "a": "savings  ",
+                "b": "money stock  ",
+                "c": "consumption  ",
+                "d": "loans  ",
+                "e": "high-powered money  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following purchases increases a country's capital outflow?  ",
+            "options": {
+                "a": "a domestic firm's purchase of a foreign firm  ",
+                "b": "a foreign country purchasing a domestic bond  ",
+                "c": "a foreign country purchasing a domestic firm  ",
+                "d": "a domestic firm's purchase of a domestic firm  ",
+                "e": "a domestic firm's importing of foreign goods   "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following values is NOT included in aggregate demand? ",
+            "options": {
+                "a": "tax expenditures   ",
+                "b": "government purchases   ",
+                "c": "net exports   ",
+                "d": "investment   ",
+                "e": "consumption  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What equation correctly relates NX and NCO when calculating GDP?  ",
+            "options": {
+                "a": "NX = C + NCO  ",
+                "b": "NX = NCO  ",
+                "c": "NX - NCO = G  ",
+                "d": "NX = -NCO  ",
+                "e": "NX = I + NCO  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Bob purchases stocks in a Japanese firm. What phenomenon does this describe?   ",
+            "options": {
+                "a": "crowding out  ",
+                "b": "foreign portfolio investment  ",
+                "c": "leverage  ",
+                "d": "foreign direct investment  ",
+                "e": "net exports  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " In 2020, the inflation rate is -0.8%, the nominal interest rate is 1.2%, and the GDP deflator is 0.6%. What is the real interest rate?  ",
+            "options": {
+                "a": "0.4%  ",
+                "b": "2.0%  ",
+                "c": "0.6%  ",
+                "d": "1.8%  ",
+                "e": "1.4%  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " What outcome is MOST likely if a bond yield is 3% and the interest rate is 2%?  ",
+            "options": {
+                "a": "Banks issue more bonds.   ",
+                "b": "The demand more bonds decreases.   ",
+                "c": "Investors borrow money and buy bonds.  ",
+                "d": "Interest rates rise.   ",
+                "e": "The bond yield increases.   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following changes is MOST associated with crowding out?.  ",
+            "options": {
+                "a": "a higher government deficit  ",
+                "b": "surplus of savings  ",
+                "c": "higher marginal tax rates  ",
+                "d": "more competitive savings market  ",
+                "e": "a lower minimum wage  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following equalities is TRUE regarding the calculation of GDP?  ",
+            "options": {
+                "a": "Y - C - G = S = I + NX  ",
+                "b": "Y - G = S + I  ",
+                "c": "Y = S + I + NX  ",
+                "d": "S + I = C  ",
+                "e": "S = I - NX  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " What outcome is likely if the supply of savings decreases?  ",
+            "options": {
+                "a": "Interest rates fall.  ",
+                "b": "Investment falls.  ",
+                "c": "Consumer spending decreases.  ",
+                "d": "The price level rises.  ",
+                "e": "The reserve ratio increases.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following events would shift a country's demand curve for savings to the right?  ",
+            "options": {
+                "a": "The real interest rate increases.  ",
+                "b": "Net capital outflows decrease.  ",
+                "c": "A tax credit is given to savers.  ",
+                "d": "The government deficit increases.  ",
+                "e": "Technological improvements raise the return on capital.    "
+            },
+            "answer": "E"
+        }
+    ],
+    "PP. 87": [
+        {
+            "question": "The quantity of money increases while real production remains unchanged. What result occurs?  ",
+            "options": {
+                "a": "unemployment  ",
+                "b": "inflation  ",
+                "c": "recession  ",
+                "d": "deflation  ",
+                "e": "liquidity  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices is the BEST definition of wealth? ",
+            "options": {
+                "a": "stores of value  ",
+                "b": "units of account  ",
+                "c": "liquid assets  ",
+                "d": "media of exchange   ",
+                "e": "currency  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What PRIMARY advantage does cash offer?  ",
+            "options": {
+                "a": "convenience   ",
+                "b": "low risk  ",
+                "c": "return on investment  ",
+                "d": "illiquidity  ",
+                "e": "intrinsic value  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What function does a unit of account have?  ",
+            "options": {
+                "a": "It can provide valuable returns on investment.  ",
+                "b": "It can be used as a relative measure of value.  ",
+                "c": "It can be used to retain its worth into the future.  ",
+                "d": "It can ensure all debts are paid.  ",
+                "e": "It can be used to purchase other goods.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following stores of value is MOST effective?  ",
+            "options": {
+                "a": "stocks  ",
+                "b": "currency  ",
+                "c": "jewelry  ",
+                "d": "cars  ",
+                "e": "real estate  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following goods is LEAST liquid?  ",
+            "options": {
+                "a": "checking account  ",
+                "b": "stocks  ",
+                "c": "house  ",
+                "d": "currency  ",
+                "e": "savings account  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What prerequisite does fiat money require?  ",
+            "options": {
+                "a": "government power  ",
+                "b": "currency exchange  ",
+                "c": "neutrality of money  ",
+                "d": "solvent banks  ",
+                "e": "intrinsic value  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "In what MAIN way does fiat money differ from commodity money?  ",
+            "options": {
+                "a": "It is far less liquid.  ",
+                "b": "It is not backed by the government.  ",
+                "c": "It has no intrinsic value.  ",
+                "d": "It is in much shorter supply.  ",
+                "e": "It is less valuable.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What good served as commodity money in World War II prison camps?  ",
+            "options": {
+                "a": "gold  ",
+                "b": "art pieces   ",
+                "c": "cigarettes  ",
+                "d": "bills  ",
+                "e": "labor  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Which of the following assets is part of M1?  ",
+            "options": {
+                "a": "savings deposits  ",
+                "b": "small denomination time deposits  ",
+                "c": "demand deposits  ",
+                "d": "retail money funds  ",
+                "e": "credit cards  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Why does the money stock NOT include credit cards?  ",
+            "options": {
+                "a": "Credit cards cannot be transferred to a new owner.  ",
+                "b": "Credit cards do not store value.  ",
+                "c": "Credit cards are susceptible to fraud.   ",
+                "d": "Credit cards do not serve as a unit of account.   ",
+                "e": "Credit cards have low market penetrance.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following features indicates that an asset is MOST liable to monetization? ",
+            "options": {
+                "a": "government-backed  ",
+                "b": "valued intrinsically  ",
+                "c": "difficult to trade  ",
+                "d": "in high supply  ",
+                "e": "highly liquid  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " How are savings deposits categorized in the money supply?  ",
+            "options": {
+                "a": "financial assets  ",
+                "b": "highest liquidity  ",
+                "c": "M2  ",
+                "d": "wealth  ",
+                "e": "M1  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " Unlike diamonds, a dollar bill does NOT have  ",
+            "options": {
+                "a": "government regulation  ",
+                "b": "stored value  ",
+                "c": "liquidity  ",
+                "d": "interest accrual   ",
+                "e": "intrinsic value  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " In which of the following ways does paper currency differ from a bond certificate?  ",
+            "options": {
+                "a": "It lacks intrinsic value.  ",
+                "b": "It cannot be used to save money.  ",
+                "c": "Bonds are not guaranteed.  ",
+                "d": "It does not appreciate in value.  ",
+                "e": "Less currency exists than bonds.    "
+            },
+            "answer": "D"
+        }
+    ],
+    "PP. 89": [
+        {
+            "question": "In monetary policy, which of the following values is represented by the equation M - C? ",
+            "options": {
+                "a": "excess reserves  ",
+                "b": "real interest rate  ",
+                "c": "reserve ratio  ",
+                "d": "bank reserves  ",
+                "e": "discount rate  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "In which of the following situations would the discount rate apply? ",
+            "options": {
+                "a": "bank loans to citizens  ",
+                "b": "Federal Reserve loans to the government  ",
+                "c": "bank loans to other banks  ",
+                "d": "Federal Reserve loans to banks  ",
+                "e": "Federal Reserve loans to citizens  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What policy action does the Federal Reserve take LEAST often?  ",
+            "options": {
+                "a": "clearing checks  ",
+                "b": "selling securities  ",
+                "c": "changing the reserve ratio  ",
+                "d": "buying treasury bonds  ",
+                "e": "changing the discount rate  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "The government purchases bonds from the public. What actor made this decision?   ",
+            "options": {
+                "a": "Department of the Treasury  ",
+                "b": "International Monetary Fund  ",
+                "c": "Senate Finance Committee  ",
+                "d": "Federal Reserve  ",
+                "e": "Federal Open Market Committee   "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "The Federal Reserve increases the money supply if it   ",
+            "options": {
+                "a": "lowers the reserve ratio  ",
+                "b": "purchases bonds  ",
+                "c": "lowers the federal funds rate  ",
+                "d": "lowers the discount rate  ",
+                "e": "sells bonds  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following answer choices represents open market operations? ",
+            "options": {
+                "a": "interest rate changes  ",
+                "b": "currency issuance    ",
+                "c": "exchange rate manipulation  ",
+                "d": "stock selling  ",
+                "e": "bond trading  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "What kind of bank is considered solvent?  ",
+            "options": {
+                "a": "Its reserves exceed its liabilities.  ",
+                "b": "Its liabilities exceed its assets.  ",
+                "c": "Its assets exceed its reserves.  ",
+                "d": "Its reserves exceed its assets.  ",
+                "e": "Its assets exceed its liabilities.  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices is most closely tied to the reserve ratio? ",
+            "options": {
+                "a": "discount rate  ",
+                "b": "federal funds rate  ",
+                "c": "money multiplier  ",
+                "d": "open market operations  ",
+                "e": "real interest rate  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What DIRECT effect results from an increased monetary base?  ",
+            "options": {
+                "a": "Unemployment has decreased.  ",
+                "b": "Inflation has increased.  ",
+                "c": "People have more currency to spend.  ",
+                "d": "Real GDP has increased.  ",
+                "e": "The money supply has increased.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What is another name for the monetary base? ",
+            "options": {
+                "a": "high-powered money  ",
+                "b": "solvent reserves  ",
+                "c": "liquid assets  ",
+                "d": "fractional reserves  ",
+                "e": "illiquid money  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following actions will decrease the money supply?  ",
+            "options": {
+                "a": "decreasing the federal funds rate  ",
+                "b": "buying bonds  ",
+                "c": "increasing the reserve ratio  ",
+                "d": "decreasing the tax rate  ",
+                "e": "increasing the discount rate  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " What problem arises with fractional reserve banking?  ",
+            "options": {
+                "a": "lower money supply  ",
+                "b": "higher interest rates  ",
+                "c": "increased unemployment  ",
+                "d": "higher inflation  ",
+                "e": "lower liquidity  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Which of the following statements is TRUE of the Federal Reserve?  ",
+            "options": {
+                "a": "It does not directly control the federal funds rate.  ",
+                "b": "It most often influences the economy through the reserve ratio.  ",
+                "c": "It was founded in 1918.  ",
+                "d": "It is overseen by the President.  ",
+                "e": "It consists of 13 regional banks.  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " If the reserve ratio is 10%, what is the money multiplier?  ",
+            "options": {
+                "a": "5  ",
+                "b": "10  ",
+                "c": "1  ",
+                "d": "100  ",
+                "e": "2  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Which of the following answer choices describes a role of the Federal Open Market Committee? ",
+            "options": {
+                "a": "arbiter of imperfect competition  ",
+                "b": "determinant of monetary policy  ",
+                "c": "coordinator of bond purchases   ",
+                "d": "manager of fiscal policy implementation   ",
+                "e": "regulator of overall prices    "
+            },
+            "answer": "B"
+        }
+    ],
+    "PP. 90": [
+        {
+            "question": "Which of the following hypothetical statements could describe M in the equation MV = PY?  ",
+            "options": {
+                "a": "Money circulates at a velocity of 1.2.  ",
+                "b": "The money stock has increased by $2 billion.   ",
+                "c": "Unemployment has increased by 3% in 2020.  ",
+                "d": "Real GDP is projected to shrink 4.4% in 2020.   ",
+                "e": "The 2020 CPI has dropped by 2.8%.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following statements is TRUE of banks' reserves?  ",
+            "options": {
+                "a": "Banks often exhaust reserves.  ",
+                "b": "Banks have a maximum limit to their reserves.   ",
+                "c": "Their fractional reserves do not create wealth.  ",
+                "d": "The size of reserves is directly proportional to the interest rate.   ",
+                "e": "Bank runs do not occur in the modern economy.   "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following factors will NOT affect the demand for money?   ",
+            "options": {
+                "a": "the unemployment rate  ",
+                "b": "the price level   ",
+                "c": "the velocity of money  ",
+                "d": "the level of real production  ",
+                "e": "the introduction of credit cards  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What change occurs if demand for money rises and supply is fixed in the short run?  ",
+            "options": {
+                "a": "higher price levels  ",
+                "b": "lower CPI  ",
+                "c": "higher real GDP  ",
+                "d": "lower consumer spending  ",
+                "e": "higher unemployment  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "What is the equation of exchange?  ",
+            "options": {
+                "a": "S = D  ",
+                "b": "RR = 1/M  ",
+                "c": "S = I + NCO  ",
+                "d": "Y = C + G + I + NX  ",
+                "e": "MV = PY  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "In the money market, which of the following values is equal to the formula M x V?   ",
+            "options": {
+                "a": "average income  ",
+                "b": "nominal GDP  ",
+                "c": "total investment  ",
+                "d": "the price level  ",
+                "e": "real output  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following values is fixed in the short run?  ",
+            "options": {
+                "a": "the reserve ratio  ",
+                "b": "the velocity of money  ",
+                "c": "nominal output  ",
+                "d": "price levels  ",
+                "e": "the demand for money  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "In the money market, which of the following values is equal to 1/P? ",
+            "options": {
+                "a": "the price level  ",
+                "b": "the inflation rate  ",
+                "c": "the money multiplier  ",
+                "d": "the reserve ratio  ",
+                "e": "the value of money  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following answer choices is equal to the velocity of money divided by the quantity of money? ",
+            "options": {
+                "a": "interest rate  ",
+                "b": "inflation  ",
+                "c": "nominal GDP  ",
+                "d": "real GDP  ",
+                "e": "demand for money  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " How does the introduction of ATMs affect the money market?  ",
+            "options": {
+                "a": "decreasing supply  ",
+                "b": "increasing demand  ",
+                "c": "keeping demand constant  ",
+                "d": "decreasing demand  ",
+                "e": "increasing supply  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Why is currency so valuable in the money market? ",
+            "options": {
+                "a": "trustworthiness  ",
+                "b": "bankability   ",
+                "c": "durability  ",
+                "d": "liquidity  ",
+                "e": "universality   "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What does the money supply curve look like?  ",
+            "options": {
+                "a": "an upwards sloping curve  ",
+                "b": "a vertical line  ",
+                "c": "a downwards sloping curve  ",
+                "d": "a horizontal line  ",
+                "e": "a sine wave  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " Who does inflation impact the MOST?  ",
+            "options": {
+                "a": "businesses  ",
+                "b": "stock owners   ",
+                "c": "lenders  ",
+                "d": "the government  ",
+                "e": "holders of currency  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " When did American consumers view inflation as MOST harmful?  ",
+            "options": {
+                "a": "1930s  ",
+                "b": "2000s  ",
+                "c": "1970s  ",
+                "d": "1960s  ",
+                "e": "1920s  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": " What implication does the neutrality of money have?  ",
+            "options": {
+                "a": "Any currency can be used as money.  ",
+                "b": "The money supply is perfectly elastic.  ",
+                "c": "Changes in the money supply do not affect real prices.  ",
+                "d": "Unemployment is a direct result of the money supply.  ",
+                "e": "Inflation imposes no costs on society.    "
+            },
+            "answer": "C"
+        }
+    ],
+    "PP. 98": [
+        {
+            "question": "Which two factors are related according to Okun's law? ",
+            "options": {
+                "a": "long-run aggregate supply, productivity growth  ",
+                "b": "inflation rate, real GDP  ",
+                "c": "elasticity, market power  ",
+                "d": "cyclical unemployment, output gap  ",
+                "e": "natural unemployment, labor force participation rate  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What does the long-run aggregate supply curve look like on a diagram? ",
+            "options": {
+                "a": "upward sloping line  ",
+                "b": "horizontal line  ",
+                "c": "downward sloping line  ",
+                "d": "parabola  ",
+                "e": "vertical line  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which of the following statements is TRUE of unemployment?  ",
+            "options": {
+                "a": "Unemployment has no effect on output.  ",
+                "b": "Cyclical unemployment is caused by recessions.  ",
+                "c": "Potential output is reached with zero unemployment.  ",
+                "d": "Unemployment constantly increases.  ",
+                "e": "The natural rate of unemployment is zero.  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": "What period sees real GDP fall for two quarters in a row?  ",
+            "options": {
+                "a": "bull run  ",
+                "b": "bear market  ",
+                "c": "expansion  ",
+                "d": "recession  ",
+                "e": "depression  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "Which of the following factors is indicated by the vertical point of intersection of the aggregate demand and short-run aggregate supply curves? ",
+            "options": {
+                "a": "nominal GDP  ",
+                "b": "unemployment rate  ",
+                "c": "market power  ",
+                "d": "price level  ",
+                "e": "real GDP  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": "What conclusion follows if Y* - Y = 0?  ",
+            "options": {
+                "a": "The economy is in an expansion.  ",
+                "b": "The inflation rate is zero.  ",
+                "c": "There is no cyclical unemployment.   ",
+                "d": "There is no natural unemployment.  ",
+                "e": "The economy is in a recession.  "
+            },
+            "answer": "C"
+        },
+        {
+            "question": "What axes does the Keynesian model use?  ",
+            "options": {
+                "a": "real GDP; price level  ",
+                "b": "real GDP; interest rate  ",
+                "c": "nominal GDP; price level  ",
+                "d": "GDP growth; price level  ",
+                "e": "GDP growth; rate of inflation  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": "Which of the following factors is the primary driver of short-run output? ",
+            "options": {
+                "a": "price level  ",
+                "b": "short-run aggregate supply  ",
+                "c": "long-run aggregate supply  ",
+                "d": "real GDP  ",
+                "e": "aggregate demand  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": "Which term refers to the quantity of goods and services that the economy can produce when using its resources at normal rates?  ",
+            "options": {
+                "a": "normal Gross Domestic Product  ",
+                "b": "current output   ",
+                "c": "output gap  ",
+                "d": "potential output  ",
+                "e": "actual output  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following shifts occurred in the American economy in the 1980s?  ",
+            "options": {
+                "a": "importer to exporter  ",
+                "b": "exporter to importer  ",
+                "c": "services to manufacturing   ",
+                "d": "manufacturing to services  ",
+                "e": "expansion to depression  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " What metric refers to frictional and structural unemployment combined?  ",
+            "options": {
+                "a": "seasonal unemployment  ",
+                "b": "basic unemployment  ",
+                "c": "total unemployment  ",
+                "d": "natural unemployment  ",
+                "e": "default unemployment  "
+            },
+            "answer": "D"
+        },
+        {
+            "question": " Which of the following factors LEAST affects short-run variation in potential output growth?  ",
+            "options": {
+                "a": "population growth  ",
+                "b": "inflation  ",
+                "c": "labor force participation  ",
+                "d": "technological innovation  ",
+                "e": "capital accumulation  "
+            },
+            "answer": "B"
+        },
+        {
+            "question": " How do firms generally react to short-run changes in demand?  ",
+            "options": {
+                "a": "adjusting quantities  ",
+                "b": "taking out loans  ",
+                "c": "outsourcing staff ",
+                "d": "adjusting prices  ",
+                "e": "firing workers  "
+            },
+            "answer": "A"
+        },
+        {
+            "question": " Which of the following curves does the Keynesian model NOT include?  ",
+            "options": {
+                "a": "SRAS  ",
+                "b": "LRAS  ",
+                "c": "Y  ",
+                "d": "AD  ",
+                "e": "P  "
+            },
+            "answer": "E"
+        },
+        {
+            "question": " Where is the vertical line on a Keynesian model set?  ",
+            "options": {
+                "a": "Y = Y*  ",
+                "b": "Y = SRAS  ",
+                "c": "Y = D  ",
+                "d": "Y = C  ",
+                "e": "Y = AD  "
+            },
+            "answer": "A"
+        }
+    ]
+}

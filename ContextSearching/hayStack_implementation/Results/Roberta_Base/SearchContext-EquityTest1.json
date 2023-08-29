@@ -1,0 +1,389 @@
+{
+  "file": "SearchContext-EquityTest1.pdf",
+  "data": {
+    "Fund Name": [
+      {
+        "answer": "Invent M7 Private Equity Demo Fund IV",
+        "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nDue Date: August 23, 20",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=133.3000030517578&y=637.0711059570312",
+        "score": 0.7678086161613464
+      },
+      {
+        "answer": "Invent M7 Private Equity Demo Fund IV",
+        "context": "rancisco, CA 94104\nBank ABA: 1210000000248\nAccount Name: Invent M7 Private Equity Demo Fund IV\nAccount Number: 44823339323700\nSwift Code: WFBIUS6S\nRef",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=133.3000030517578&y=637.0711059570312",
+        "score": 0.3196282386779785
+      }
+    ],
+    "General Partner Name": [
+      {
+        "answer": "Invent M7",
+        "context": "provides essential, natural gas service to more than 20,000 customers. Invent M7\nsourced this investment on a bilateral basis and intends to continue ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=136.04400634765625&y=637.0711059570312",
+        "score": 0.0976925790309906
+      }
+    ],
+    "Limited Partner Name": [
+      {
+        "answer": "Krishna Manickam",
+        "context": "ATTENTION - CAPITAL CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=612.3977661132812",
+        "score": 0.9877316951751709
+      }
+    ],
+    "Investment Name": [
+      {
+        "answer": "Invent M7 Private Equity Demo Fund IV",
+        "context": " ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nDue Date: August 23, 20",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=133.3000030517578&y=637.0711059570312",
+        "score": 0.5475730895996094
+      },
+      {
+        "answer": "Wells Fargo Bank",
+        "context": "ing wiring\ninstructions:\nAmount Due (USD): $ 443,859.06\nBank Name: Wells Fargo Bank, N.A.\nBank Address: 420 Montgomery Street, San Francisco, CA 94104",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=530.3677368164062",
+        "score": 0.08611445873975754
+      }
+    ],
+    "Investment Amount": [
+      {
+        "answer": "$6,582,514.09",
+        "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=515.408203125&y=229.52777099609375",
+        "score": 0.5147343873977661
+      },
+      {
+        "answer": "$65 million",
+        "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=440.8477478027344",
+        "score": 0.3568890690803528
+      }
+    ],
+    "Notice Date": [
+      {
+        "answer": "August 16, 2022",
+        "context": "anickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Notice: August 16, 2022\nDue Date: August 23, 2022\nInvent M7 Private Equity Demo Fund IV (t",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=138.0500030517578&y=202.27777099609375",
+        "score": 0.9609415531158447
+      },
+      {
+        "answer": "August 23, 2022",
+        "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\ninstructions:\nAmount Due (USD): $",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=36.025001525878906&y=472.8477478027344",
+        "score": 0.24325349926948547
+      }
+    ],
+    "Due Date": [
+      {
+        "answer": "August 23, 2022",
+        "context": "ivate Equity Demo Fund IV\nDate of Notice: August 16, 2022\nDue Date: August 23, 2022\nInvent M7 Private Equity Demo Fund IV (the \"Fund\") is issuing a ca",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=310.1009826660156&y=472.8477478027344",
+        "score": 0.9299756288528442
+      },
+      {
+        "answer": "August 23, 2022",
+        "context": "capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\ninstructions:\nAmount Due (USD): $",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=36.025001525878906&y=472.8477478027344",
+        "score": 0.6424942016601562
+      }
+    ],
+    "Currency Code": [
+      {
+        "answer": "USD",
+        "context": "ugust 23, 2022. Please use the following wiring\ninstructions:\nAmount Due (USD): $ 443,859.06\nBank Name: Wells Fargo Bank, N.A.\nBank Address: 420 Montg",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=201.76202392578125&y=516.8677978515625",
+        "score": 0.08484898507595062
+      }
+    ],
+    "Amount Due": [
+      {
+        "answer": "$ 443,859.06",
+        "context": "022. Please use the following wiring\ninstructions:\nAmount Due (USD): $ 443,859.06\nBank Name: Wells Fargo Bank, N.A.\nBank Address: 420 Montgomery Stree",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=516.8677978515625",
+        "score": 0.6957909464836121
+      },
+      {
+        "answer": "$6,582,514.09",
+        "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=515.408203125&y=229.52777099609375",
+        "score": 0.6744866967201233
+      }
+    ],
+    "Commitment Amount": [
+      {
+        "answer": "119,433.20",
+        "context": "after which you will have contributed\napproximately 17.32% of your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. The us",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=254.27777099609375",
+        "score": 0.691120982170105
+      },
+      {
+        "answer": "$65 million",
+        "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=440.8477478027344",
+        "score": 0.652560293674469
+      }
+    ],
+    "Unfunded Commitment Amount": [
+      {
+        "answer": "$3,405,757.64",
+        "context": "f your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. The uses\nof this Capital Contribution include:\nInvestment in X Ray",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=474.8442687988281&y=254.27777099609375",
+        "score": 0.7337576746940613
+      }
+    ],
+    "Investor Number": [
+      {
+        "answer": "4482333",
+        "context": "248\nAccount Name: Invent M7 Private Equity Demo Fund IV\nAccount Number: 44823339323700\nSwift Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=585.1477661132812",
+        "score": 0.1308857798576355
+      }
+    ],
+    "Notice Number": [
+      {
+        "answer": "1330_12619",
+        "context": "1330_12619\nATTENTION - CAPITAL CALL NOTICE - ACTION REQUIRED\nLimited Partner: Krishna Manickam\nFund: Invent M7 Private Equity Demo Fund IV\nDate of Not",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=203.5800018310547&y=72.477294921875",
+        "score": 0.5071206092834473
+      },
+      {
+        "answer": "4482333",
+        "context": "248\nAccount Name: Invent M7 Private Equity Demo Fund IV\nAccount Number: 44823339323700\nSwift Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=585.1477661132812",
+        "score": 0.1286860853433609
+      }
+    ],
+    "Investment Fast Logics": [],
+    "Excess Cash Returned": [],
+    "Management Fee": [
+      {
+        "answer": "$65 million",
+        "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=440.8477478027344",
+        "score": 0.16317865252494812
+      },
+      {
+        "answer": "0.97%.",
+        "context": "t Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=50.025001525878906&y=626.0711059570312",
+        "score": 0.05707117170095444
+      }
+    ],
+    "Management Fee Discount": [
+      {
+        "answer": "0.97%.",
+        "context": "t Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=50.025001525878906&y=626.0711059570312",
+        "score": 0.06410206854343414
+      }
+    ],
+    "Make Up Management Fee": [
+      {
+        "answer": "0.97%.",
+        "context": "t Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=50.025001525878906&y=626.0711059570312",
+        "score": 0.7576769590377808
+      },
+      {
+        "answer": "\u207d\u00b9\u207e 9,990.00",
+        "context": "nvestment in Sea Girt Consumer Management 16,780.92\nFees for Q3 2022 \u207d\u00b9\u207e 9,990.00\nPartnership Expenses 4,021.02\nOrganizational Costs 1,221.00\nTotal Ca",
+        "page_no": 0,
+        "book_mark": "",
+        "score": 0.09827952086925507
+      }
+    ],
+    "Management Fee Interest": [],
+    "Net Management Fee": [
+      {
+        "answer": "0.97%.",
+        "context": "t Code: WFBIUS6S\nReference: Krishna Manickam\n(1) Based on a Management Fee of 0.97%.\n(2) Includes commitments of Invent M7 Private Equity Demo Fund IV",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=50.025001525878906&y=626.0711059570312",
+        "score": 0.27294763922691345
+      }
+    ],
+    "Partnership Expenses": [
+      {
+        "answer": "4,021.02",
+        "context": "anagement 16,780.92\nFees for Q3 2022 \u207d\u00b9\u207e 9,990.00\nPartnership Expenses 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\n",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=534.969970703125&y=327.0477600097656",
+        "score": 0.9490011930465698
+      }
+    ],
+    "Organizational Costs": [
+      {
+        "answer": "1,221.00",
+        "context": "3 2022 \u207d\u00b9\u207e 9,990.00\nPartnership Expenses 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of t",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=534.969970703125&y=341.7977600097656",
+        "score": 0.8936938047409058
+      }
+    ],
+    "Distribution of Proceeds": [
+      {
+        "answer": "$443,859.06",
+        "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=241.77777099609375",
+        "score": 0.3319031000137329
+      },
+      {
+        "answer": "Your Capital Contribution to the Fund is due on or before August 23, 2022",
+        "context": "15\nmillion for future growth capex.\u207d\u00b2\u207e\nYour Capital Contribution to the Fund is due on or before August 23, 2022. Please use the following wiring\ninst",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=36.025001525878906&y=472.8477478027344",
+        "score": 0.11322654783725739
+      }
+    ],
+    "Capital Contribution": [
+      {
+        "answer": "$443,859.06",
+        "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=241.77777099609375",
+        "score": 0.8219417333602905
+      },
+      {
+        "answer": "443,859.06",
+        "context": "s 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=260.3500061035156&y=516.8677978515625",
+        "score": 0.3605276942253113
+      }
+    ],
+    "Aggregate Capital Call Amount": [
+      {
+        "answer": "$6,582,514.09",
+        "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=515.408203125&y=229.52777099609375",
+        "score": 0.6398471593856812
+      },
+      {
+        "answer": "443,859.06",
+        "context": "s 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=260.3500061035156&y=516.8677978515625",
+        "score": 0.17784865200519562
+      }
+    ],
+    "Total Capital Call Amount": [
+      {
+        "answer": "443,859.06",
+        "context": "s 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=260.3500061035156&y=516.8677978515625",
+        "score": 0.789043664932251
+      },
+      {
+        "answer": "$443,859.06",
+        "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=241.77777099609375",
+        "score": 0.4888598918914795
+      }
+    ],
+    "Total Make up Contributions": [
+      {
+        "answer": "443,859.06",
+        "context": "s 4,021.02\nOrganizational Costs 1,221.00\nTotal Capital Contribution $ 443,859.06\nA portion of the proceeds of this capital call will be used for the F",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=260.3500061035156&y=516.8677978515625",
+        "score": 0.5105567574501038
+      },
+      {
+        "answer": "$65 million",
+        "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=440.8477478027344",
+        "score": 0.16851133108139038
+      }
+    ],
+    "Make Up Interest Payment": [],
+    "Total Due From Investor": [
+      {
+        "answer": "$65 million",
+        "context": "l. Invent M7\u2019s total equity commitment for its investment in X Ray is\n$65 million, which includes an initial investment of $50 million to acquire the ",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=440.8477478027344",
+        "score": 0.07390981912612915
+      },
+      {
+        "answer": "$6,582,514.09",
+        "context": "IV (the \"Fund\") is issuing a capital call in the aggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Cont",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=515.408203125&y=229.52777099609375",
+        "score": 0.06455322355031967
+      }
+    ],
+    "Undrawn Commitment before": [
+      {
+        "answer": "$3,405,757.64",
+        "context": "f your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. The uses\nof this Capital Contribution include:\nInvestment in X Ray",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=474.8442687988281&y=254.27777099609375",
+        "score": 0.27062520384788513
+      }
+    ],
+    "Undrawn Commitment Effect": [
+      {
+        "answer": "$3,405,757.64",
+        "context": "f your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. The uses\nof this Capital Contribution include:\nInvestment in X Ray",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=474.8442687988281&y=254.27777099609375",
+        "score": 0.6039825677871704
+      }
+    ],
+    "Undrawn Commitment After": [
+      {
+        "answer": "$3,405,757.64",
+        "context": "f your $4,119,433.20 commitment and your unfunded commitment will be $3,405,757.64. The uses\nof this Capital Contribution include:\nInvestment in X Ray",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=474.8442687988281&y=254.27777099609375",
+        "score": 0.5750070810317993
+      }
+    ],
+    "Distribution Amount": [
+      {
+        "answer": "$443,859.06",
+        "context": "ggregate amount of $6,582,514.09.\nYour portion of the capital call is $443,859.06 (the \"Capital Contribution\"), after which you will have contributed\n",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=35.775001525878906&y=241.77777099609375",
+        "score": 0.4040946066379547
+      },
+      {
+        "answer": "$ 443,859.06",
+        "context": "022. Please use the following wiring\ninstructions:\nAmount Due (USD): $ 443,859.06\nBank Name: Wells Fargo Bank, N.A.\nBank Address: 420 Montgomery Stree",
+        "page_no": 0,
+        "book_mark": "file:///SearchContext-EquityTest1_highlighted.pdf#page=0&x=252.10000610351562&y=516.8677978515625",
+        "score": 0.3197542428970337
+      }
+    ]
+  }
+}
